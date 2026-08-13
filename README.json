@@ -1,0 +1,2368 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Empirical Study"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T18:11:40Z",
+            "owner": "google",
+            "repo": "dopamine",
+            "stars": 10893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-09T08:10:35Z",
+            "owner": "pratyushasharma",
+            "repo": "laser",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropout Reduces Underfitting. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-05-06T08:27:34Z",
+            "owner": "facebookresearch",
+            "repo": "dropout",
+            "stars": 316
+          }
+        }
+      ],
+      "title": "Empirical Study: 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-24T15:47:01Z",
+            "owner": "Alrope123",
+            "repo": "rethinking-demonstrations",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModelDiff: A Framework for Comparing Learning Algorithms. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-15T13:13:57Z",
+            "owner": "MadryLab",
+            "repo": "modeldiff",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Data-Based Perspective on Transfer Learning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-23T16:47:17Z",
+            "owner": "MadryLab",
+            "repo": "data-transfer",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What Images are More Memorable to Machines? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-13T10:54:46Z",
+            "owner": "JunlinHan",
+            "repo": "MachineMem",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What does a deep neural network confidently perceive? The effective dimension of high certainty class manifolds and their low confidence boundaries. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-13T13:44:47Z",
+            "owner": "stanislavfort",
+            "repo": "slice-dice-optimize",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Empirical Study: 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Masked Autoencoders Are Scalable Vision Learners. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-23T18:15:40Z",
+            "owner": "facebookresearch",
+            "repo": "mae",
+            "stars": 8371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pre-training without Natural Images. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-24T05:40:10Z",
+            "owner": "hirokatsukataoka16",
+            "repo": "FractalDB-Pretrained-ResNet-PyTorch",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understanding Dataset Difficulty with V-Usable Information. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-06T14:32:41Z",
+            "owner": "kawine",
+            "repo": "dataset_difficulty",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-07T04:53:14Z",
+            "owner": "locuslab",
+            "repo": "edge-of-stability",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stochastic Training is Not Necessary for Generalization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-14T15:59:07Z",
+            "owner": "JonasGeiping",
+            "repo": "fullbatchtraining",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Empirical Study: 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-19T17:16:44Z",
+            "owner": "allenai",
+            "repo": "cartography",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Isometric Learning for Visual Recognition. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T18:29:30Z",
+            "owner": "HaozhiQi",
+            "repo": "ISONet",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Do We Need Zero Training Loss After Achieving Zero Training Error? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-09T10:54:13Z",
+            "owner": "takashiishida",
+            "repo": "flooding",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What is being transferred in transfer learning? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-11-04T22:29:24Z",
+            "owner": "google-research",
+            "repo": "understanding-transfer-learning",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When Do Curricula Work? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:09:07Z",
+            "owner": "google-research",
+            "repo": "understanding-curricula",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "In Search of Robust Measures of Generalization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-22T01:46:39Z",
+            "owner": "nitarshan",
+            "repo": "robust-generalization-measures",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-29T03:11:29Z",
+            "owner": "preetum",
+            "repo": "deep-bootstrap-code",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Empirical Study: 2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-08-21T11:31:43Z",
+            "owner": "wielandbrendel",
+            "repo": "bag-of-local-features-models",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-02T06:38:23Z",
+            "owner": "shirleyzhu233",
+            "repo": "PyTorch-MAML",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sensitivity of Deep Convolutional Networks to Gabor Noise. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-12-21T01:59:29Z",
+            "owner": "kenny-co",
+            "repo": "procedural-advml",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A critical analysis of self-supervision, or what we can learn from a single image. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-13T11:53:28Z",
+            "owner": "yukimasano",
+            "repo": "linear-probes",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-03T02:02:28Z",
+            "owner": "goldblum",
+            "repo": "TruthOrBackpropaganda",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fantastic Generalization Measures and Where to Find Them. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-29T17:10:07Z",
+            "owner": "avakanski",
+            "repo": "Evaluation-of-Complexity-Measures-for-Deep-Learning-Generalization-in-Medical-Image-Analysis",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bad Global Minima Exist and SGD Can Reach Them. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-10T19:27:39Z",
+            "owner": "chao1224",
+            "repo": "BadGlobalMinima",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finding the Needle in the Haystack with Convolutions: on the benefits of architectural bias. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:26:31Z",
+            "owner": "sdascoli",
+            "repo": "anarchitectural-search",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transfusion: Understanding Transfer Learning for Medical Imaging. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-28T00:39:36Z",
+            "owner": "PasqualeZingo",
+            "repo": "TransfusionReproducibilityChallenge",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Empirical Study: 2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-05-16T02:54:11Z",
+            "owner": "google-research",
+            "repo": "disentanglement_lib",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insights on representational similarity in neural networks with canonical correlation. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-15T18:34:47Z",
+            "owner": "google",
+            "repo": "svcca",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-14T13:05:58Z",
+            "owner": "max-andr",
+            "repo": "relu_networks_overconfident",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Empirical Study of Example Forgetting during Deep Neural Network Learning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:14:37Z",
+            "owner": "mtoneva",
+            "repo": "example_forgetting",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Layer rotation: a surprisingly powerful indicator of generalization in deep networks? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-07-02T13:10:44Z",
+            "owner": "ispgroupucl",
+            "repo": "layer-rotation-paper-experiments",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Empirical Study: 2018"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Neural Collapse"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Geometric Analysis of Neural Collapse with Unconstrained Features. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-19T22:37:56Z",
+            "owner": "tding1",
+            "repo": "Neural-Collapse",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Deep Neural Networks via Layer-Peeled Model: Minority Collapse in Imbalanced Training. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-12T00:16:26Z",
+            "owner": "HornHehhf",
+            "repo": "LPM",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Neural Collapse: 2021"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Deep Double Descent"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-05T23:38:41Z",
+            "owner": "somepago",
+            "repo": "dbViz",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparse Double Descent: Where Network Pruning Aggravates Overfitting. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-13T06:32:43Z",
+            "owner": "he-zh",
+            "repo": "sparse-double-descent",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phenomenology of Double Descent in Finite-Width Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-14T12:24:43Z",
+            "owner": "sidak",
+            "repo": "double-descent",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Deep Double Descent: 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-26T17:47:14Z",
+            "owner": "google-research",
+            "repo": "rigl",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Bias-Variance Trade-off for Generalization of Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-12T18:05:57Z",
+            "owner": "yaodongyu",
+            "repo": "Rethink-BiasVariance-Tradeoff",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Early Stopping in Deep Networks: Double Descent and How to Eliminate it. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-06-27T07:19:29Z",
+            "owner": "MLI-lab",
+            "repo": "early_stopping_double_descent",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Double Trouble in Double Descent : Bias and Variance(s) in the Lazy Regime. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-06-22T01:52:28Z",
+            "owner": "lightonai",
+            "repo": "double-trouble-in-double-descent",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triple descent and the two kinds of overfitting: Where & why do they appear? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-28T07:45:51Z",
+            "owner": "sdascoli",
+            "repo": "triple-descent-paper",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Deep Double Descent: 2020"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lottery Ticket Hypothesis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-09T16:17:56Z",
+            "owner": "MingSun-Tse",
+            "repo": "Why-the-State-of-Pruning-so-Confusing",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together! [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-29T14:07:34Z",
+            "owner": "VITA-Group",
+            "repo": "SMC-Bench",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pruning Deep Neural Networks from a Sparsity Perspective. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-08T09:32:25Z",
+            "owner": "diaoenmao",
+            "repo": "Pruning-Deep-Neural-Networks-from-a-Sparsity-Perspective",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NTK-SAP: Improving neural network pruning by aligning training dynamics. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-01T16:48:02Z",
+            "owner": "YiteWang",
+            "repo": "NTK-SAP",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Lottery Ticket Hypothesis: 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Finding Dynamics Preserving Adversarial Winning Tickets. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-01T17:17:03Z",
+            "owner": "google",
+            "repo": "neural-tangents",
+            "stars": 2386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dual Lottery Ticket Hypothesis. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-09T20:41:16Z",
+            "owner": "yueb17",
+            "repo": "DLTH",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-08T01:29:29Z",
+            "owner": "VITA-Group",
+            "repo": "Audio-Lottery",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-07T23:31:57Z",
+            "owner": "GATECH-EIC",
+            "repo": "SuperTickets",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-24T04:46:36Z",
+            "owner": "henryzhongsc",
+            "repo": "lottery_regulated_grouped_kernel_pruning",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-02T06:44:04Z",
+            "owner": "mansheej",
+            "repo": "lth_diet",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data-Efficient Double-Win Lottery Tickets from Robust Pre-training. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-30T04:02:35Z",
+            "owner": "VITA-Group",
+            "repo": "Double-Win-LTH",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Lottery Ticket Hypothesis: 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-24T01:21:41Z",
+            "owner": "chrundle",
+            "repo": "biprop",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-11T18:45:12Z",
+            "owner": "Shiweiliuiiiiiii",
+            "repo": "In-Time-Over-Parameterization",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How many degrees of freedom do we need to train deep networks: a loss landscape perspective. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-04T04:32:51Z",
+            "owner": "ganguli-lab",
+            "repo": "degrees-of-freedom",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Lottery Ticket Finding: Less Data is More. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-30T07:59:12Z",
+            "owner": "VITA-Group",
+            "repo": "PrAC-LTH",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plant 'n' Seek: Can You Find the Winning Ticket? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-28T19:40:52Z",
+            "owner": "RelationalML",
+            "repo": "PlantNSeek",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On the Existence of Universal Lottery Tickets. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-16T12:03:51Z",
+            "owner": "RelationalML",
+            "repo": "UniversalLT",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Lottery Ticket Hypothesis: 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Early Phase of Neural Network Training. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-09-06T13:25:15Z",
+            "owner": "facebookresearch",
+            "repo": "open_lth",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What is the State of Neural Network Pruning? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-07T15:11:43Z",
+            "owner": "JJGO",
+            "repo": "shrinkbench",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pruning neural networks without any data by iteratively conserving synaptic flow. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T10:58:54Z",
+            "owner": "ganguli-lab",
+            "repo": "Synaptic-Flow",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Picking Winning Tickets Before Training by Preserving Gradient Flow. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-18T22:22:32Z",
+            "owner": "alecwangcq",
+            "repo": "GraSP",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comparing Rewinding and Fine-tuning in Neural Network Pruning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-04T21:54:22Z",
+            "owner": "lottery-ticket",
+            "repo": "rewinding-iclr20-public",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-08T06:22:39Z",
+            "owner": "JingtongSu",
+            "repo": "sanity-checking-pruning",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lookahead: A Far-Sighted Alternative of Magnitude-based Pruning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-25T10:52:04Z",
+            "owner": "alinlab",
+            "repo": "lookahead_pruning",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-21T06:34:12Z",
+            "owner": "lushleaf",
+            "repo": "Network-Pruning-Greedy-Forward-Selection",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Gradient Flow Framework For Analyzing Network Pruning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-31T01:49:00Z",
+            "owner": "EkdeepSLubana",
+            "repo": "flowandprune",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progressive Skeletonization: Trimming more fat from a network at initialization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-05T17:50:31Z",
+            "owner": "naver",
+            "repo": "force",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finding trainable sparse networks through Neural Tangent Transfer. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-06-14T13:51:33Z",
+            "owner": "fmi-basel",
+            "repo": "neural-tangent-transfer",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPN: Extremely Sparse Pruned Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T10:12:34Z",
+            "owner": "chomd90",
+            "repo": "extreme_sparse",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHEW: Constructing Sparse Networks that Learn Fast and Generalize Well without Training Data. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-23T15:44:21Z",
+            "owner": "ShreyasMalakarjunPatil",
+            "repo": "PHEW",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Lottery Ticket Hypothesis: 2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rigging the Lottery: Making All Tickets Winners. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-26T17:47:14Z",
+            "owner": "google-research",
+            "repo": "rigl",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The State of Sparsity in Deep Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-20T15:16:59Z",
+            "owner": "bayesgroup",
+            "repo": "variational-dropout-sparsifies-dnn",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What's Hidden in a Randomly Weighted Neural Network? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-05T23:30:47Z",
+            "owner": "allenai",
+            "repo": "hidden-networks",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T21:55:09Z",
+            "owner": "uber-research",
+            "repo": "deconstructing-lottery-tickets",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drawing Early-Bird Tickets: Towards More Efficient Training of Deep Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-05T11:18:08Z",
+            "owner": "GATECH-EIC",
+            "repo": "Early-Bird-Tickets",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Signal Propagation Perspective for Pruning Neural Networks at Initialization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-23T11:03:17Z",
+            "owner": "namhoonlee",
+            "repo": "spp-public",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Lottery Ticket Hypothesis: 2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-07-27T12:06:34Z",
+            "owner": "google-research",
+            "repo": "lottery-ticket-hypothesis",
+            "stars": 731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SNIP: Single-shot Network Pruning based on Connection Sensitivity. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-26T15:39:24Z",
+            "owner": "namhoonlee",
+            "repo": "snip-public",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Lottery Ticket Hypothesis: 2018"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emergence and Phase Transitions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-19T07:03:15Z",
+            "owner": "openai",
+            "repo": "grok",
+            "stars": 4260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature learning in neural networks and kernel machines that recursively learn features. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-12T16:24:19Z",
+            "owner": "aradha",
+            "repo": "recursive_feature_machines",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Broken Neural Scaling Laws. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-29T23:14:16Z",
+            "owner": "ethancaballero",
+            "repo": "broken_neural_scaling_laws",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-12T18:50:27Z",
+            "owner": "JonasGeiping",
+            "repo": "dataaugs",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Emergence and Phase Transitions: 2022"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Interactions with Neuroscience"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The developmental trajectory of object recognition robustness: children are like small adults but unlike big deep neural networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-09T09:39:51Z",
+            "owner": "wichmann-lab",
+            "repo": "robustness-development",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2022-03-16T21:57:22Z",
+            "owner": "anneharrington",
+            "repo": "Adversarially-Robust-Periphery",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Constrained Predictive Coding as a Biologically Plausible Model of the Cortical Hierarchy. [paper]",
+          "description": "[code]",
+          "children": []
+        }
+      ],
+      "title": "Interactions with Neuroscience: 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shape-Texture Debiased Neural Network Training. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-04T07:37:50Z",
+            "owner": "LiYingwei",
+            "repo": "ShapeTextureDebiasedTraining",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shortcut Learning in Deep Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-10T09:34:08Z",
+            "owner": "rgeirhos",
+            "repo": "shortcut-perspective",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond accuracy: quantifying trial-by-trial behaviour of CNNs and humans by measuring error consistency. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-11-23T21:29:19Z",
+            "owner": "wichmann-lab",
+            "repo": "error-consistency",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Five Points to Check when Comparing Visual Perception in Humans and Machines. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-09-14T09:05:49Z",
+            "owner": "bethgelab",
+            "repo": "notorious_difficulty_of_comparing_human_and_machine_perception",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On 1/n neural representation and robustness. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-28T15:42:38Z",
+            "owner": "josuenassar",
+            "repo": "power_law",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Interactions with Neuroscience: 2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-01-07T19:34:54Z",
+            "owner": "ganguli-lab",
+            "repo": "RetinalResources",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "White Noise Analysis of Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-23T22:06:39Z",
+            "owner": "aliborji",
+            "repo": "WhiteNoiseAnalysis",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Interactions with Neuroscience: 2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T10:38:43Z",
+            "owner": "rgeirhos",
+            "repo": "Stylized-ImageNet",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalisation in humans and deep neural networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-08-14T17:35:14Z",
+            "owner": "rgeirhos",
+            "repo": "generalisation-humans-DNNs",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Interactions with Neuroscience: 2018"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Information Bottleneck"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PAC-Bayes Information Bottleneck. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-05-11T23:03:58Z",
+            "owner": "RyanWangZf",
+            "repo": "PAC-Bayes-IB",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compressive Visual Representations. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-18T10:16:37Z",
+            "owner": "google-research",
+            "repo": "compressive-visual-representations",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-13T21:41:07Z",
+            "owner": "ahujak",
+            "repo": "IB-IRM",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Information Bottleneck: Exact Analysis of (Quantized) Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-16T11:16:51Z",
+            "owner": "StephanLorenzen",
+            "repo": "ExactIBAnalysisInQNNs",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Information Bottleneck: 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Concept Bottleneck Models. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-24T01:43:27Z",
+            "owner": "yewsiang",
+            "repo": "ConceptBottleneck",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Information Bottleneck. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-29T05:51:44Z",
+            "owner": "snap-stanford",
+            "repo": "GIB",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restricting the Flow: Information Bottlenecks for Attribution. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-18T10:21:59Z",
+            "owner": "BioroboticsLab",
+            "repo": "IBA-paper-code",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Optimal Representations with the Decodable Information Bottleneck. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-20T20:12:30Z",
+            "owner": "YannDubs",
+            "repo": "Mini_Decodable_Information_Bottleneck",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Information Bottleneck: 2020"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Neural Tangent Kernel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Tangent Generalization Attacks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-29T13:00:58Z",
+            "owner": "lionelmessi6410",
+            "repo": "ntga",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Neural Tangent Kernel Perspective of GANs. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-12T14:41:51Z",
+            "owner": "emited",
+            "repo": "gantk2",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On the Equivalence between Neural Network and Support Vector Machine. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-07T01:08:14Z",
+            "owner": "yilanchen6",
+            "repo": "equiv-nn-svm",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reverse Engineering the Neural Tangent Kernel. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-06-17T06:01:13Z",
+            "owner": "james-simon",
+            "repo": "reverse-engineering",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Empirical Study of Neural Kernel Bandits. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-15T10:17:38Z",
+            "owner": "mlisicki",
+            "repo": "NeuralKernelBandits",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Out-of-Distribution Generalization in Kernel Regression. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-29T04:36:04Z",
+            "owner": "Pehlevan-Group",
+            "repo": "kernel-ood-generalization",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Neural Tangent Kernel: 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Finite Versus Infinite Neural Networks: an Empirical Study. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-01T17:17:03Z",
+            "owner": "google",
+            "repo": "neural-tangents",
+            "stars": 2386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bayesian Deep Ensembles via the Neural Tangent Kernel. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-12T15:35:59Z",
+            "owner": "bobby-he",
+            "repo": "bayesian-ntk",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematical Models of Overparameterized Neural Networks. [paper]",
+          "description": "[code]\\",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T10:49:46Z",
+            "owner": "hendrydong",
+            "repo": "NTK-and-MF-examples",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When Do Neural Networks Outperform Kernel Methods? [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-21T23:08:59Z",
+            "owner": "bGhorbani",
+            "repo": "linearized_neural_networks",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Neural Tangent Kernel: 2020"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Model-agnostic Measure of Generalization Difficulty. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T15:01:54Z",
+            "owner": "FieteLab",
+            "repo": "inductive-bias-complexity",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strong inductive biases provably prevent harmless interpolation. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-01T19:02:22Z",
+            "owner": "michaelaerni",
+            "repo": "iclr23-InductiveBiasesHarmlessInterpolation",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Others: 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-17T12:32:59Z",
+            "owner": "zhangq327",
+            "repo": "U-MAE",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-23T19:53:44Z",
+            "owner": "activatedgeek",
+            "repo": "tight-pac-bayes",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning sparse features can lead to overfitting in neural networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-31T07:46:42Z",
+            "owner": "pcsl-epfl",
+            "repo": "regressionsphere",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Others: 2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-21T14:59:30Z",
+            "owner": "OATML",
+            "repo": "non-parametric-transformers",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understanding Dimensional Collapse in Contrastive Self-supervised Learning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-09-06T20:01:53Z",
+            "owner": "facebookresearch",
+            "repo": "directclr",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MALI: A memory efficient and reverse accurate integrator for Neural ODEs. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T20:33:12Z",
+            "owner": "juntang-zhuang",
+            "repo": "TorchDiffEqPack",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Controlled Differential Equations for Online Prediction Tasks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-19T01:50:11Z",
+            "owner": "jambo6",
+            "repo": "online-neural-cdes",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-06T08:30:07Z",
+            "owner": "sangmichaelxie",
+            "repo": "pretraining_analysis",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Implicit Sparse Regularization: The Impact of Depth and Early Stopping. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-26T06:41:39Z",
+            "owner": "jiangyuan-li",
+            "repo": "Implicit-Sparse-Regularization",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Others: 2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Controlled Differential Equations for Irregular Time Series. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-22T13:32:29Z",
+            "owner": "patrick-kidger",
+            "repo": "NeuralCDE",
+            "stars": 716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sharpness-Aware Minimization for Efficiently Improving Generalization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T02:11:40Z",
+            "owner": "google-research",
+            "repo": "sam",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Networks from the Principle of Rate Reduction. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-17T07:57:11Z",
+            "owner": "Ma-Lab-Berkeley",
+            "repo": "ReduNet",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Rough Differential Equations for Long Time Series. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-11T16:07:01Z",
+            "owner": "jambo6",
+            "repo": "neuralRDEs",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dissecting Neural ODEs. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-09T16:42:41Z",
+            "owner": "DiffEqML",
+            "repo": "diffeqml-research",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understanding the Failure Modes of Out-of-Distribution Generalization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-18T21:55:40Z",
+            "owner": "google-research",
+            "repo": "OOD-failures",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimizing Mode Connectivity via Neuron Alignment. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-12-10T01:11:18Z",
+            "owner": "IBM",
+            "repo": "NeuronAlignment",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relative Flatness and Generalization. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-14T20:11:35Z",
+            "owner": "kampmichael",
+            "repo": "RelativeFlatnessAndGeneralization",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Others: 2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-01T17:17:03Z",
+            "owner": "google",
+            "repo": "neural-tangents",
+            "stars": 2386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Augmented Neural ODEs. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-09T11:55:18Z",
+            "owner": "EmilienDupont",
+            "repo": "augmented-neural-odes",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superposition of many models into one. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-27T22:19:29Z",
+            "owner": "briancheung",
+            "repo": "superposition",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-03T04:02:11Z",
+            "owner": "ghliu",
+            "repo": "mean-field-fcdnn",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-06T20:07:09Z",
+            "owner": "cwein3",
+            "repo": "large-lr-code",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Others: 2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Ordinary Differential Equations. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T01:06:00Z",
+            "owner": "rtqichen",
+            "repo": "torchdiffeq",
+            "stars": 6472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-14T13:05:58Z",
+            "owner": "max-andr",
+            "repo": "relu_networks_overconfident",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-26T01:14:36Z",
+            "owner": "bneyshabur",
+            "repo": "over-parametrization",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaussian Process Behaviour in Wide Deep Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-14T13:38:58Z",
+            "owner": "widedeepnetworks",
+            "repo": "widedeepnetworks",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-01T17:41:01Z",
+            "owner": "brain-research",
+            "repo": "mean-field-cnns",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Convolutional Networks as shallow Gaussian Processes. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-21T15:06:43Z",
+            "owner": "convnets-as-gps",
+            "repo": "convnets-as-gps",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalization in Machine Learning via Analytical Learning Theory. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-06T22:33:43Z",
+            "owner": "Learning-and-Intelligent-Systems",
+            "repo": "Analytical-Learning-Theory",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On Lazy Training in Differentiable Programming. [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-19T06:29:28Z",
+            "owner": "edouardoyallon",
+            "repo": "lazy-training-CNN",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Others: 2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Information Bottleneck Paper List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-12T06:53:20Z",
+            "owner": "ZIYU-DEEP",
+            "repo": "Awesome-Information-Bottleneck",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Trustworthy Deep Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T02:58:26Z",
+            "owner": "MinghuiChen43",
+            "repo": "awesome-trustworthy-deep-learning",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Feature Learning in Deep Learning Theory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-13T06:55:43Z",
+            "owner": "WeiHuang05",
+            "repo": "Awesome-Feature-Learning-in-Deep-Learning-Thoery",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Tangent Kernel Papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-12T12:08:05Z",
+            "owner": "kwignb",
+            "repo": "NeuralTangentKernel-Papers",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Related Resources"
+    },
+    {
+      "description": "This repository includes for reproducible Codex/Claude paper additions. From the repository root, ask:",
+      "items": [],
+      "title": "Agent-Assisted Updates"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:27.001Z",
+    "original_repository": "MinghuiChen43/awesome-deep-phenomena",
+    "original_repository_sha": "0b8a1371284671037be098a0e293cb2bed9d17b0",
+    "enhanced_repository": "enhansome/enhansome-deep-phenomena",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deep Phenomena with stars"
+  }
+}
