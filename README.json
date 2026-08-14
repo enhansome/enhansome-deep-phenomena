@@ -19,7 +19,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10893
+            "stars": 10894
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2021-05-16T02:54:11Z",
             "owner": "google-research",
             "repo": "disentanglement_lib",
-            "stars": 1426
+            "stars": 1425
           }
         },
         {
@@ -1991,7 +1991,7 @@
             "last_commit": "2022-10-22T13:32:29Z",
             "owner": "patrick-kidger",
             "repo": "NeuralCDE",
-            "stars": 716
+            "stars": 717
           }
         },
         {
@@ -2185,7 +2185,7 @@
             "last_commit": "2025-04-04T01:06:00Z",
             "owner": "rtqichen",
             "repo": "torchdiffeq",
-            "stars": 6473
+            "stars": 6472
           }
         },
         {
@@ -2358,7 +2358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:40:03.450Z",
+    "last_updated": "2026-08-14T17:36:29.257Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_sha": "0b8a1371284671037be098a0e293cb2bed9d17b0",
     "enhanced_repository": "enhansome/enhansome-deep-phenomena",
