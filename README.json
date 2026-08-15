@@ -33,7 +33,7 @@
             "last_commit": "2024-07-09T08:10:35Z",
             "owner": "pratyushasharma",
             "repo": "laser",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -2185,7 +2185,7 @@
             "last_commit": "2025-04-04T01:06:00Z",
             "owner": "rtqichen",
             "repo": "torchdiffeq",
-            "stars": 6472
+            "stars": 6473
           }
         },
         {
@@ -2358,7 +2358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:36:29.257Z",
+    "last_updated": "2026-08-15T16:57:59.190Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_sha": "0b8a1371284671037be098a0e293cb2bed9d17b0",
     "enhanced_repository": "enhansome/enhansome-deep-phenomena",
