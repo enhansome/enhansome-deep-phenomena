@@ -19,7 +19,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10894
+            "stars": 10895
           }
         },
         {
@@ -2033,7 +2033,7 @@
             "last_commit": "2021-05-11T16:07:01Z",
             "owner": "jambo6",
             "repo": "neuralRDEs",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -2358,7 +2358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:57:59.190Z",
+    "last_updated": "2026-08-16T16:58:34.495Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_sha": "0b8a1371284671037be098a0e293cb2bed9d17b0",
     "enhanced_repository": "enhansome/enhansome-deep-phenomena",

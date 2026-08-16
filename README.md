@@ -1,10 +1,10 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 404 | 🐛 0 | 📅 2026-07-21
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 403 | 🐛 0 | 📅 2026-07-21
 ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-deep-phenomena)
-[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 404 | 🐛 0 | 📅 2026-07-21
-[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 404 | 🐛 0 | 📅 2026-07-21
-[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 404 | 🐛 0 | 📅 2026-07-21
-[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 404 | 🐛 0 | 📅 2026-07-21
+[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 403 | 🐛 0 | 📅 2026-07-21
+[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 403 | 🐛 0 | 📅 2026-07-21
+[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 403 | 🐛 0 | 📅 2026-07-21
+[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 403 | 🐛 0 | 📅 2026-07-21
 
 # Awesome Deep Phenomena with stars
 
@@ -112,7 +112,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,894 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,895 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -2791,7 +2791,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Maximal Coding Rate Reduction.
   * <details><summary>Digest</summary> This work attempts to interpret modern deep (convolutional) networks from the principles of rate reduction and (shift) invariant classification. We show that the basic iterative gradient ascent scheme for optimizing the rate reduction of learned features naturally leads to a multi-layer deep network, one iteration per layer. The layered architectures, linear and nonlinear operators, and even parameters of the network are all explicitly constructed layer-by-layer in a forward propagation fashion by emulating the gradient scheme. 
 
-* Neural Rough Differential Equations for Long Time Series. [\[paper\]](https://arxiv.org/abs/2009.08295) [\[code\]](https://github.com/jambo6/neuralRDEs) ⭐ 124 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2021-05-11
+* Neural Rough Differential Equations for Long Time Series. [\[paper\]](https://arxiv.org/abs/2009.08295) [\[code\]](https://github.com/jambo6/neuralRDEs) ⭐ 125 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2021-05-11
   * James Morrill, Cristopher Salvi, Patrick Kidger, James Foster, Terry Lyons. *ICML 2021*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> Neural Controlled Differential Equations (Neural CDEs) are the continuous-time analogue of an RNN. However, as with RNNs, training can quickly become impractical for long time series. Here we use rough path theory to extend this formulation through application of a pre-existing mathematical tool from rough analysis - the log-ODE method - which allows us to take integration steps larger than the discretisation of the data, resulting in significantly faster training times, with retainment (and often even improvements) in model performance.
@@ -3172,4 +3172,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
