@@ -1,10 +1,10 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 403 | 🐛 0 | 📅 2026-07-21
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 404 | 🐛 0 | 📅 2026-08-18
 ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-deep-phenomena)
-[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 403 | 🐛 0 | 📅 2026-07-21
-[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 403 | 🐛 0 | 📅 2026-07-21
-[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 403 | 🐛 0 | 📅 2026-07-21
-[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 403 | 🐛 0 | 📅 2026-07-21
+[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 404 | 🐛 0 | 📅 2026-08-18
+[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 404 | 🐛 0 | 📅 2026-08-18
+[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 404 | 🐛 0 | 📅 2026-08-18
+[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 404 | 🐛 0 | 📅 2026-08-18
 
 # Awesome Deep Phenomena with stars
 
@@ -112,7 +112,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,895 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,896 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -184,7 +184,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2022
 
-* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? [\[paper\]](https://arxiv.org/abs/2202.12837) [\[code\]](https://github.com/Alrope123/rethinking-demonstrations) ⭐ 176 | 🐛 3 | 🌐 Python | 📅 2024-07-24
+* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? [\[paper\]](https://arxiv.org/abs/2202.12837) [\[code\]](https://github.com/Alrope123/rethinking-demonstrations) ⭐ 175 | 🐛 3 | 🌐 Python | 📅 2024-07-24
   * Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer.
   * Key Word: Natural Language Processing; In-Context Learning.
   * <details><summary>Digest</summary> We show that ground truth demonstrations are in fact not required -- randomly replacing labels in the demonstrations barely hurts performance, consistently over 12 different models including GPT-3. Instead, we find that other aspects of the demonstrations are the key drivers of end task performance, including the fact that they provide a few examples of (1) the label space, (2) the distribution of the input text, and (3) the overall format of the sequence.
@@ -1959,6 +1959,11 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2026
 
+* Flatland: The Adventures of Gradient Descent with Large Step Sizes. [\[paper\]](https://arxiv.org/abs/2606.06722)
+  * Leonardo Galli, Curtis Fox, Wiebke Bartolomaeus, Mark Schmidt, Holger Rauhut.
+  * Key Word: Gradient Descent; Large Step Sizes; Edge of Stability; Loss Landscape; Flat Stationary Points; Self-Stabilization.
+  * <details><summary>Digest</summary> This paper develops first-order adaptive methods that safely choose very large step sizes under only local smoothness assumptions on the gradient, causing gradient descent to operate at the Edge of Stability from the start. These dynamics efficiently reach globally flat stationary points, a region the authors call Flatland, which can contain both bad saddles and global minima; reaching it too early can slow convergence and harm generalization. A self-stabilization strategy lets gradient descent move into slightly sharper valleys and turn failed training runs into successful ones.</details>
+
 * Spontaneous symmetry breaking and Goldstone modes for deep information propagation. [\[paper\]](https://arxiv.org/abs/2605.14685)
   * Nabil Iqbal, T. Anderson Keller, Yue Song, Takeru Miyato, Max Welling.
   * Key Word: Spontaneous Symmetry Breaking; Goldstone Modes; Information Propagation; Equivariant Networks; Recurrent Memory.
@@ -3172,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
