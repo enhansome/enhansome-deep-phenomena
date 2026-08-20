@@ -1,10 +1,10 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 406 | 🐛 0 | 📅 2026-08-18
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 407 | 🐛 0 | 📅 2026-08-18
 ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-deep-phenomena)
-[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 406 | 🐛 0 | 📅 2026-08-18
-[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 406 | 🐛 0 | 📅 2026-08-18
-[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 406 | 🐛 0 | 📅 2026-08-18
-[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 406 | 🐛 0 | 📅 2026-08-18
+[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 407 | 🐛 0 | 📅 2026-08-18
+[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 407 | 🐛 0 | 📅 2026-08-18
+[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 407 | 🐛 0 | 📅 2026-08-18
+[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 407 | 🐛 0 | 📅 2026-08-18
 
 # Awesome Deep Phenomena with stars
 
@@ -1492,7 +1492,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Transformers; Hippocampus; Cortex.
   * <details><summary>Digest</summary> We show that transformers, when equipped with recurrent position encodings, replicate the precisely tuned spatial representations of the hippocampal formation; most notably place and grid cells. Furthermore, we show that this result is no surprise since it is closely related to current hippocampal models from neuroscience.
 
-* Partial success in closing the gap between human and machine vision. [\[paper\]](https://arxiv.org/abs/2106.07411) [\[code\]](https://github.com/bethgelab/model-vs-human) ⭐ 362 | 🐛 4 | 🌐 Python | 📅 2025-04-17
+* Partial success in closing the gap between human and machine vision. [\[paper\]](https://arxiv.org/abs/2106.07411) [\[code\]](https://github.com/bethgelab/model-vs-human) ⭐ 363 | 🐛 4 | 🌐 Python | 📅 2025-04-17
   * Robert Geirhos, Kantharaju Narayanappa, Benjamin Mitzkus, Tizian Thieringer, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *NeurIPS 2021*
   * Key Word: Out-of-Distribution Generalization; Psychophysical Experiments.
   * <details><summary>Digest</summary> A few years ago, the first CNN surpassed human performance on ImageNet. However, it soon became clear that machines lack robustness on more challenging test cases, a major obstacle towards deploying machines "in the wild" and towards obtaining better computational models of human visual perception. Here we ask: Are we making progress in closing the gap between human and machine vision? To answer this question, we tested human observers on a broad range of out-of-distribution (OOD) datasets, recording 85,120 psychophysical trials across 90 participants.
@@ -2786,7 +2786,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
 
-* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 640 | 🐛 29 | 🌐 Python | 📅 2026-07-24
+* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 644 | 🐛 29 | 🌐 Python | 📅 2026-07-24
   * Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur. *ICLR 2021*
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
