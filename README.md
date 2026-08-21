@@ -117,7 +117,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
 
-* Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [\[paper\]](https://arxiv.org/abs/2312.13558) [\[code\]](https://github.com/pratyushasharma/laser) ⭐ 398 | 🐛 8 | 🌐 Python | 📅 2024-07-09
+* Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [\[paper\]](https://arxiv.org/abs/2312.13558) [\[code\]](https://github.com/pratyushasharma/laser) ⭐ 397 | 🐛 8 | 🌐 Python | 📅 2024-07-09
   * Pratyusha Sharma, Jordan T. Ash, Dipendra Misra
   * Key Word: Large Language Models; Reasoning.
   * <details><summary>Digest</summary> Transformer-based Large Language Models (LLMs) have become a fixture in modern machine learning. Correspondingly, significant resources are allocated towards research that aims to further advance this technology, typically resulting in models of increasing size that are trained on increasing amounts of data. This work, however, demonstrates the surprising result that it is often possible to significantly improve the performance of LLMs by selectively removing higher-order components of their weight matrices. This simple intervention, which we call LAyer-SElective Rank reduction (LASER), can be done on a model after training has completed, and requires no additional parameters or data. We show extensive experiments demonstrating the generality of this finding across language models and datasets, and provide in-depth analyses offering insights into both when LASER is effective and the mechanism by which it operates.
@@ -189,7 +189,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Natural Language Processing; In-Context Learning.
   * <details><summary>Digest</summary> We show that ground truth demonstrations are in fact not required -- randomly replacing labels in the demonstrations barely hurts performance, consistently over 12 different models including GPT-3. Instead, we find that other aspects of the demonstrations are the key drivers of end task performance, including the fact that they provide a few examples of (1) the label space, (2) the distribution of the input text, and (3) the overall format of the sequence.
 
-* ModelDiff: A Framework for Comparing Learning Algorithms. [\[paper\]](https://arxiv.org/abs/2211.12491) [\[code\]](https://github.com/MadryLab/modeldiff) ⭐ 60 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-15
+* ModelDiff: A Framework for Comparing Learning Algorithms. [\[paper\]](https://arxiv.org/abs/2211.12491) [\[code\]](https://github.com/MadryLab/modeldiff) ⭐ 59 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-15
   * Harshay Shah, Sung Min Park, Andrew Ilyas, Aleksander Madry.
   * Key Word: Representation-based Comparison; Example-level Comparisons; Comparing Feature Attributions.
   * <details><summary>Digest</summary> We study the problem of (learning) algorithm comparison, where the goal is to find differences between models trained with two different learning algorithms. We begin by formalizing this goal as one of finding distinguishing feature transformations, i.e., input transformations that change the predictions of models trained with one learning algorithm but not the other. We then present ModelDiff, a method that leverages the datamodels framework (Ilyas et al., 2022) to compare learning algorithms based on how they use their training data.
@@ -1316,7 +1316,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Grokking; Overfitting.
   * <details><summary>Digest</summary> In this paper we propose to study generalization of neural networks on small algorithmically generated datasets. In this setting, questions about data efficiency, memorization, generalization, and speed of learning can be studied in great detail. In some situations we show that neural networks learn through a process of "grokking" a pattern in the data, improving generalization performance from random chance level to perfect generalization, and that this improvement in generalization can happen well past the point of overfitting.
 
-* Feature learning in neural networks and kernel machines that recursively learn features. [\[paper\]](https://arxiv.org/abs/2212.13881) [\[code\]](https://github.com/aradha/recursive_feature_machines) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2025-04-12
+* Feature learning in neural networks and kernel machines that recursively learn features. [\[paper\]](https://arxiv.org/abs/2212.13881) [\[code\]](https://github.com/aradha/recursive_feature_machines) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2025-04-12
   * Adityanarayanan Radhakrishnan, Daniel Beaglehole, Parthe Pandit, Mikhail Belkin.
   * Key Word: Feature Learning; Kernel Machines; Grokking; Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> We isolate the key mechanism driving feature learning in fully connected neural networks by connecting neural feature learning to the average gradient outer product. We subsequently leverage this mechanism to design Recursive Feature Machines (RFMs), which are kernel machines that learn features. We show that RFMs (1) accurately capture features learned by deep fully connected neural networks, (2) close the gap between kernel machines and fully connected networks, and (3) surpass a broad spectrum of models including neural networks on tabular data. 
@@ -2694,7 +2694,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2021
 
-* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 418 | 🐛 0 | 🌐 Python | 📅 2024-03-21
+* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 416 | 🐛 0 | 🌐 Python | 📅 2024-03-21
   * Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal. *NeurIPS 2021*
   * Key Word: Samplie-Wise Self-Attention; Meta Learning; Metric Learning.
   * <details><summary>Digest</summary> We challenge a common assumption underlying most supervised deep learning: that a model makes a prediction depending only on its parameters and the features of a single input. To this end, we introduce a general-purpose deep learning architecture that takes as input the entire dataset instead of processing one datapoint at a time. Our approach uses self-attention to reason about relationships between datapoints explicitly, which can be seen as realizing non-parametric models using parametric attention mechanisms.
@@ -2786,7 +2786,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
 
-* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 644 | 🐛 29 | 🌐 Python | 📅 2026-07-24
+* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 645 | 🐛 29 | 🌐 Python | 📅 2026-07-24
   * Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur. *ICLR 2021*
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
@@ -3150,7 +3150,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 390 | 🐛 0 | 📅 2026-08-11 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
 
-* [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 212 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
+* [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 210 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
 * [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers) ⭐ 123 | 🐛 0 | 📅 2025-01-12 ![ ](https://img.shields.io/github/stars/kwignb/NeuralTangentKernel-Papers) ![ ](https://img.shields.io/github/last-commit/kwignb/NeuralTangentKernel-Papers)
 
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
