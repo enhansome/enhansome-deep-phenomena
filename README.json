@@ -166,7 +166,7 @@
                 "last_commit": "2022-03-24T05:40:10Z",
                 "owner": "hirokatsukataoka16",
                 "repo": "FractalDB-Pretrained-ResNet-PyTorch",
-                "stars": 221
+                "stars": 222
               }
             },
             {
@@ -1715,7 +1715,7 @@
                 "last_commit": "2023-02-24T01:43:27Z",
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 256
+                "stars": 257
               }
             },
             {
@@ -2144,7 +2144,7 @@
                 "last_commit": "2022-10-22T13:32:29Z",
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
-                "stars": 717
+                "stars": 718
               }
             },
             {
@@ -2353,7 +2353,7 @@
                 "last_commit": "2025-04-04T01:06:00Z",
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6474
+                "stars": 6475
               }
             },
             {
@@ -2537,7 +2537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:05:21.318Z",
+    "last_updated": "2026-08-22T16:57:59.583Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_id": 274390643,
     "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",

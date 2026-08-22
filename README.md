@@ -266,7 +266,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Self-Supervision; Autoencoders.
   * <details><summary>Digest</summary> This paper shows that masked autoencoders (MAE) are scalable self-supervised learners for computer vision. Our MAE approach is simple: we mask random patches of the input image and reconstruct the missing pixels. It is based on two core designs. First, we develop an asymmetric encoder-decoder architecture, with an encoder that operates only on the visible subset of patches (without mask tokens), along with a lightweight decoder that reconstructs the original image from the latent representation and mask tokens. Second, we find that masking a high proportion of the input image, e.g., 75%, yields a nontrivial and meaningful self-supervisory task.
 
-* Pre-training without Natural Images. [\[paper\]](https://arxiv.org/abs/2101.08515) [\[code\]](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch) ⭐ 221 | 🐛 5 | 🌐 Python | 📅 2022-03-24
+* Pre-training without Natural Images. [\[paper\]](https://arxiv.org/abs/2101.08515) [\[code\]](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch) ⭐ 222 | 🐛 5 | 🌐 Python | 📅 2022-03-24
   * Hirokatsu Kataoka, Kazushige Okayasu, Asato Matsumoto, Eisuke Yamagata, Ryosuke Yamada, Nakamasa Inoue, Akio Nakamura, Yutaka Satoh. *ACCV 2020*
   * Key Word: Formula-driven Supervised Learning.
   * <details><summary>Digest</summary> The paper proposes a novel concept, Formula-driven Supervised Learning. We automatically generate image patterns and their category labels by assigning fractals, which are based on a natural law existing in the background knowledge of the real world. Theoretically, the use of automatically generated images instead of natural images in the pre-training phase allows us to generate an infinite scale dataset of labeled images. Although the models pre-trained with the proposed Fractal DataBase (FractalDB), a database without natural images, does not necessarily outperform models pre-trained with human annotated datasets at all settings, we are able to partially surpass the accuracy of ImageNet/Places pre-trained models. 
@@ -1647,7 +1647,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Information Bottleneck: 2020
 
-* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 256 | 🐛 11 | 🌐 Python | 📅 2023-02-24
+* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 257 | 🐛 11 | 🌐 Python | 📅 2023-02-24
   * Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, Percy Liang. *ICML 2020*
   * Key Word: Information Bottleneck
   * <details><summary>Digest</summary> We seek to learn models that we can interact with using high-level concepts: if the model did not think there was a bone spur in the x-ray, would it still predict severe arthritis? State-of-the-art models today do not typically support the manipulation of concepts like "the existence of bone spurs", as they are trained end-to-end to go directly from raw input (e.g., pixels) to output (e.g., arthritis severity). We revisit the classic idea of first predicting concepts that are provided at training time, and then using these concepts to predict the label. By construction, we can intervene on these concept bottleneck models by editing their predicted concept values and propagating these changes to the final prediction.
@@ -2781,7 +2781,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2020
 
-* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 717 | 🐛 4 | 🌐 Python | 📅 2022-10-22
+* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 718 | 🐛 4 | 🌐 Python | 📅 2022-10-22
   * Patrick Kidger, James Morrill, James Foster, Terry Lyons. *NeurIPS 2020*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,474 | 🐛 95 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,475 | 🐛 95 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
