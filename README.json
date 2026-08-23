@@ -1376,7 +1376,7 @@
                 "last_commit": "2024-03-19T07:03:15Z",
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4262
+                "stars": 4263
               }
             },
             {
@@ -2353,7 +2353,7 @@
                 "last_commit": "2025-04-04T01:06:00Z",
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6475
+                "stars": 6476
               }
             },
             {
@@ -2537,7 +2537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:57:59.583Z",
+    "last_updated": "2026-08-23T16:59:10.000Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_id": 274390643,
     "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",
