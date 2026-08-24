@@ -550,6 +550,11 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Neural Collapse: 2023
 
+* Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning. [\[paper\]](https://arxiv.org/abs/2302.03004) [\[code\]](https://github.com/NeuralCollapseApplications/FSCIL) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2023-08-07
+  * Yibo Yang, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao. *ICLR 2023*
+  * Key Word: Few-Shot Class Incremental Learning; Neural Collapse.
+  * <details><summary>Digest</summary> We deal with this misalignment dilemma in FSCIL inspired by the recently discovered phenomenon named neural collapse, which reveals that the last-layer features of the same class will collapse into a vertex, and the vertices of all classes are aligned with the classifier prototypes, which are formed as a simplex equiangular tight frame (ETF). It corresponds to an optimal geometric structure for classification due to the maximized Fisher Discriminant Ratio. 
+
 * Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations. [\[paper\]](https://arxiv.org/abs/2306.17105)
   * Yongyi Yang, Jacob Steinhardt, Wei Hu. *ICML 2023*
   * Key Word: Neural Collapse.
@@ -559,11 +564,6 @@ Our understanding of modern neural networks lags behind their practical successe
   * Mariia Seleznova, Dana Weitzner, Raja Giryes, Gitta Kutyniok, Hung-Hsu Chou.
   * Key Word: Neural Collapse; Neural Tangent Kernel.
   * <details><summary>Digest</summary> This paper investigates how the Neural Tangent Kernel (NTK), which tracks how deep neural networks (DNNs) change during training, and the Neural Collapse (NC) phenomenon, which refers to the symmetry and structure in the last-layer features of trained classification DNNs, are related. They assume that the empirical NTK has a block structure that matches the class labels, meaning that samples of the same class are more correlated than samples of different classes. They show how this assumption leads to the dynamics of DNNs trained with mean squared (MSE) loss and the emergence of NC in DNNs with block-structured NTK. They support their theory with large-scale experiments on three DNN architectures and three datasets.
-
-* Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning. [\[paper\]](https://arxiv.org/abs/2302.03004) [\[code\]](https://github.com/NeuralCollapseApplications/FSCIL) ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2023-08-07
-  * Yibo Yang, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao. *ICLR 2023*
-  * Key Word: Few-Shot Class Incremental Learning; Neural Collapse.
-  * <details><summary>Digest</summary> We deal with this misalignment dilemma in FSCIL inspired by the recently discovered phenomenon named neural collapse, which reveals that the last-layer features of the same class will collapse into a vertex, and the vertices of all classes are aligned with the classifier prototypes, which are formed as a simplex equiangular tight frame (ETF). It corresponds to an optimal geometric structure for classification due to the maximized Fisher Discriminant Ratio. 
 
 * Neural Collapse in Deep Linear Network: From Balanced to Imbalanced Data. [\[paper\]](https://arxiv.org/abs/2301.00437)
   * Hien Dang, Tan Nguyen, Tho Tran, Hung Tran, Nhat Ho.
@@ -649,6 +649,11 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Deep Double Descent: 2023
 
+* Unifying Grokking and Double Descent. [\[paper\]](https://arxiv.org/abs/2303.06173) [\[code\]](https://github.com/xanderdavies/unifying-grok-dd) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-17
+  * Xander Davies, Lauro Langosco, David Krueger.
+  * Key Word: Deep Double Descent; Grokking.
+  * <details><summary>Digest</summary> We hypothesize that grokking and double descent can be understood as instances of the same learning dynamics within a framework of pattern learning speeds. We propose that this framework also applies when varying model capacity instead of optimization steps, and provide the first demonstration of model-wise grokking.
+
 * A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning. [\[paper\]](https://arxiv.org/abs/2310.18988)
   * Alicia Curth, Alan Jeffares, Mihaela van der Schaar.
   * Key Word: Deep Double Descent.
@@ -663,11 +668,6 @@ Our understanding of modern neural networks lags behind their practical successe
   * Rylan Schaeffer, Mikail Khona, Zachary Robertson, Akhilan Boopathy, Kateryna Pistunova, Jason W. Rocks, Ila Rani Fiete, Oluwasanmi Koyejo.
   * Key Word: Deep Double Descent; Tutorial.
   * <details><summary>Digest</summary> We briefly describe double descent, then provide an explanation of why double descent occurs in an informal and approachable manner, requiring only familiarity with linear algebra and introductory probability. We provide visual intuition using polynomial regression, then mathematically analyze double descent with ordinary linear regression and identify three interpretable factors that, when simultaneously all present, together create double descent.
-
-* Unifying Grokking and Double Descent. [\[paper\]](https://arxiv.org/abs/2303.06173) [\[code\]](https://github.com/xanderdavies/unifying-grok-dd) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-17
-  * Xander Davies, Lauro Langosco, David Krueger.
-  * Key Word: Deep Double Descent; Grokking.
-  * <details><summary>Digest</summary> We hypothesize that grokking and double descent can be understood as instances of the same learning dynamics within a framework of pattern learning speeds. We propose that this framework also applies when varying model capacity instead of optimization steps, and provide the first demonstration of model-wise grokking.
 
 ### Deep Double Descent: 2022
 
@@ -1025,12 +1025,12 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Lottery Ticket Hypothesis; Survey.
   * <details><summary>Digest</summary> Neural network pruning---the task of reducing the size of a network by removing parameters---has been the subject of a great deal of work in recent years. We provide a meta-analysis of the literature, including an overview of approaches to pruning and consistent findings in the literature. After aggregating results across 81 papers and pruning hundreds of models in controlled conditions, our clearest finding is that the community suffers from a lack of standardized benchmarks and metrics. This deficiency is substantial enough that it is hard to compare pruning techniques to one another or determine how much progress the field has made over the past three decades. To address this situation, we identify issues with current practices, suggest concrete remedies, and introduce ShrinkBench, an open-source framework to facilitate standardized evaluations of pruning methods.
 
-* Pruning neural networks without any data by iteratively conserving synaptic flow. [\[paper\]](https://arxiv.org/abs/2006.05467) [\[code\]](https://github.com/ganguli-lab/Synaptic-Flow) ⭐ 229 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-07-25
+* Pruning neural networks without any data by iteratively conserving synaptic flow. [\[paper\]](https://arxiv.org/abs/2006.05467) [\[code\]](https://github.com/ganguli-lab/Synaptic-Flow) ⭐ 230 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-07-25
   * Hidenori Tanaka, Daniel Kunin, Daniel L. K. Yamins, Surya Ganguli.
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> Recent works have identified, through an expensive sequence of training and pruning cycles, the existence of winning lottery tickets or sparse trainable subnetworks at initialization. This raises a foundational question: can we identify highly sparse trainable subnetworks at initialization, without ever training, or indeed without ever looking at the data? We provide an affirmative answer to this question through theory driven algorithm design.  
 
-* Picking Winning Tickets Before Training by Preserving Gradient Flow. [\[paper\]](https://arxiv.org/abs/2002.07376) [\[code\]](https://github.com/alecwangcq/GraSP) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2020-02-18
+* Picking Winning Tickets Before Training by Preserving Gradient Flow. [\[paper\]](https://arxiv.org/abs/2002.07376) [\[code\]](https://github.com/alecwangcq/GraSP) ⭐ 106 | 🐛 1 | 🌐 Python | 📅 2020-02-18
   * Chaoqi Wang, Guodong Zhang, Roger Grosse. *ICLR 2020*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> We aim to prune networks at initialization, thereby saving resources at training time as well. Specifically, we argue that efficient training requires preserving the gradient flow through the network. This leads to a simple but effective pruning criterion we term Gradient Signal Preservation (GraSP).
@@ -1383,15 +1383,15 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Emergence and Phase Transitions: 2021
 
-* Learning Curve Theory. [\[paper\]](https://arxiv.org/abs/2102.04074)
-  * Marcus Hutter.
-  * Key Word: Neural Scaling Law; Learning Curve Theory.
-  * <details><summary>Digest</summary> Recently a number of empirical "universal" scaling law papers have been published, most notably by OpenAI. `Scaling laws' refers to power-law decreases of training or test error w.r.t. more data, larger neural networks, and/or more compute. In this work we focus on scaling w.r.t. data size n. Theoretical understanding of this phenomenon is largely lacking, except in finite-dimensional models for which error typically decreases with n−1/2 or n−1, where n is the sample size. We develop and theoretically analyse the simplest possible (toy) model that can exhibit n−β learning curves for arbitrary power β>0, and determine whether power laws are universal or depend on the data distribution.
-
 * Explaining Neural Scaling Laws. [\[paper\]](https://arxiv.org/abs/2102.06701) [\[code\]](https://github.com/google/neural-tangents) ⚠️ Archived
   * Yasaman Bahri, Ethan Dyer, Jared Kaplan, Jaehoon Lee, Utkarsh Sharma. *ICLR 2022*
   * Key Word: Scaling Laws; Neural Tangent Kernel.
   * <details><summary>Digest</summary> We propose a theory that explains and connects these scaling laws. We identify variance-limited and resolution-limited scaling behavior for both dataset and model size, for a total of four scaling regimes. The variance-limited scaling follows simply from the existence of a well-behaved infinite data or infinite width limit, while the resolution-limited regime can be explained by positing that models are effectively resolving a smooth data manifold.
+
+* Learning Curve Theory. [\[paper\]](https://arxiv.org/abs/2102.04074)
+  * Marcus Hutter.
+  * Key Word: Neural Scaling Law; Learning Curve Theory.
+  * <details><summary>Digest</summary> Recently a number of empirical "universal" scaling law papers have been published, most notably by OpenAI. `Scaling laws' refers to power-law decreases of training or test error w.r.t. more data, larger neural networks, and/or more compute. In this work we focus on scaling w.r.t. data size n. Theoretical understanding of this phenomenon is largely lacking, except in finite-dimensional models for which error typically decreases with n−1/2 or n−1, where n is the sample size. We develop and theoretically analyse the simplest possible (toy) model that can exhibit n−β learning curves for arbitrary power β>0, and determine whether power laws are universal or depend on the data distribution.
 
 ### Emergence and Phase Transitions: 2020
 
@@ -1418,15 +1418,15 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2023
 
+* Finding Neurons in a Haystack: Case Studies with Sparse Probing. [\[paper\]](https://arxiv.org/abs/2305.01610) [\[code\]](https://github.com/wesg52/sparse-probing-paper) ⭐ 68 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-17
+  * Wes Gurnee, Neel Nanda, Matthew Pauly, Katherine Harvey, Dmitrii Troitskii, Dimitris Bertsimas.
+  * Key Word: Probing; Mechanistic Interpretability; Superposition; Sparse Coding.
+  * <details><summary>Digest</summary> We seek to understand how high-level human-interpretable features are represented within the internal neuron activations of LLMs. We train k-sparse linear classifiers (probes) on these internal activations to predict the presence of features in the input; by varying the value of k we study the sparsity of learned representations and how this varies with model scale. With k=1, we localize individual neurons which are highly relevant for a particular feature, and perform a number of case studies to illustrate general properties of LLMs.
+
 * How deep is the brain? The shallow brain hypothesis. [\[paper\]](https://www.nature.com/articles/s41583-023-00756-z)
   * Mototaka Suzuki; Cyriel M. A. Pennartz; Jaan Aru.
   * Key Word: Shallow Brain Hypothesis.
   * <details><summary>Digest</summary> This paper critiques the common assumption in deep learning and predictive coding that neural network inference is hierarchical, pointing out the overlooked neurobiological evidence of direct interactions between all cortical areas and subcortical regions. It challenges the prevalent cortico-centric, hierarchical models in current neural networks, suggesting they miss key computational principles used by the brain. Introducing the "shallow brain hypothesis," the authors propose that hierarchical cortical processing works in tandem with a parallel process significantly involving subcortical areas. They argue this integrated architecture, which leverages the computational abilities of cortical microcircuits and thalamo-cortical loops absent in conventional models, offers crucial advantages for achieving the rapid and flexible computational capabilities seen in mammalian brains.
-
-* Finding Neurons in a Haystack: Case Studies with Sparse Probing. [\[paper\]](https://arxiv.org/abs/2305.01610) [\[code\]](https://github.com/wesg52/sparse-probing-paper) ⭐ 67 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-17
-  * Wes Gurnee, Neel Nanda, Matthew Pauly, Katherine Harvey, Dmitrii Troitskii, Dimitris Bertsimas.
-  * Key Word: Probing; Mechanistic Interpretability; Superposition; Sparse Coding.
-  * <details><summary>Digest</summary> We seek to understand how high-level human-interpretable features are represented within the internal neuron activations of LLMs. We train k-sparse linear classifiers (probes) on these internal activations to predict the presence of features in the input; by varying the value of k we study the sparsity of learned representations and how this varies with model scale. With k=1, we localize individual neurons which are highly relevant for a particular feature, and perform a number of case studies to illustrate general properties of LLMs.
 
 ### Interactions with Neuroscience: 2022
 
@@ -1487,15 +1487,15 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2021
 
-* Relating transformers to models and neural representations of the hippocampal formation. [\[paper\]](https://arxiv.org/abs/2112.04035)
-  * James C.R. Whittington, Joseph Warren, Timothy E.J. Behrens. *ICLR 2022*
-  * Key Word: Transformers; Hippocampus; Cortex.
-  * <details><summary>Digest</summary> We show that transformers, when equipped with recurrent position encodings, replicate the precisely tuned spatial representations of the hippocampal formation; most notably place and grid cells. Furthermore, we show that this result is no surprise since it is closely related to current hippocampal models from neuroscience.
-
 * Partial success in closing the gap between human and machine vision. [\[paper\]](https://arxiv.org/abs/2106.07411) [\[code\]](https://github.com/bethgelab/model-vs-human) ⭐ 363 | 🐛 4 | 🌐 Python | 📅 2025-04-17
   * Robert Geirhos, Kantharaju Narayanappa, Benjamin Mitzkus, Tizian Thieringer, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *NeurIPS 2021*
   * Key Word: Out-of-Distribution Generalization; Psychophysical Experiments.
   * <details><summary>Digest</summary> A few years ago, the first CNN surpassed human performance on ImageNet. However, it soon became clear that machines lack robustness on more challenging test cases, a major obstacle towards deploying machines "in the wild" and towards obtaining better computational models of human visual perception. Here we ask: Are we making progress in closing the gap between human and machine vision? To answer this question, we tested human observers on a broad range of out-of-distribution (OOD) datasets, recording 85,120 psychophysical trials across 90 participants.
+
+* Relating transformers to models and neural representations of the hippocampal formation. [\[paper\]](https://arxiv.org/abs/2112.04035)
+  * James C.R. Whittington, Joseph Warren, Timothy E.J. Behrens. *ICLR 2022*
+  * Key Word: Transformers; Hippocampus; Cortex.
+  * <details><summary>Digest</summary> We show that transformers, when equipped with recurrent position encodings, replicate the precisely tuned spatial representations of the hippocampal formation; most notably place and grid cells. Furthermore, we show that this result is no surprise since it is closely related to current hippocampal models from neuroscience.
 
 * Does enhanced shape bias improve neural network robustness to common corruptions? [\[paper\]](https://arxiv.org/abs/2104.09789)
   * Chaithanya Kumar Mummadi, Ranjitha Subramaniam, Robin Hutmacher, Julien Vitay, Volker Fischer, Jan Hendrik Metzen. *ICLR 2021*
@@ -1802,6 +1802,11 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Neural Tangent Kernel: 2022
 
+* Fast Finite Width Neural Tangent Kernel. [\[paper\]](https://arxiv.org/abs/2206.08720) [\[code\]](https://github.com/google/neural-tangents) ⚠️ Archived
+  * Roman Novak, Jascha Sohl-Dickstein, Samuel S. Schoenholz. *ICML 2022*
+  * Key Word: Neural Tangent Kernel.
+  * <details><summary>Digest</summary> In the infinite width limit, the NTK can sometimes be computed analytically and is useful for understanding training and generalization of NN architectures. At finite widths, the NTK is also used to better initialize NNs, compare the conditioning across models, perform architecture search, and do meta-learning. Unfortunately, the finite width NTK is notoriously expensive to compute, which severely limits its practical utility. We perform the first in-depth analysis of the compute and memory requirements for NTK computation in finite width networks. Leveraging the structure of neural networks, we further propose two novel algorithms that change the exponent of the compute and memory requirements of the finite width NTK, dramatically improving efficiency.
+
 * A Kernel Perspective of Skip Connections in Convolutional Networks. [\[paper\]](https://arxiv.org/abs/2211.14810)
   * Daniel Barzilai, Amnon Geifman, Meirav Galun, Ronen Basri.
   * Key Word: Neural Tangent Kernel; Gaussian Process; Understanding Skip Connections.
@@ -1821,11 +1826,6 @@ Our understanding of modern neural networks lags behind their practical successe
   * Nikhil Vyas, Yamini Bansal, Preetum Nakkiran.
   * Key Word: Neural Tangent Kernel.
   * <details><summary>Digest</summary> In this work, we study NTKs through the lens of scaling laws, and demonstrate that they fall short of explaining important aspects of neural network generalization. In particular, we demonstrate realistic settings where finite-width neural networks have significantly better data scaling exponents as compared to their corresponding empirical and infinite NTKs at initialization. This reveals a more fundamental difference between the real networks and NTKs, beyond just a few percentage points of test accuracy. Further, we show that even if the empirical NTK is allowed to be pre-trained on a constant number of samples, the kernel scaling does not catch up to the neural network scaling. Finally, we show that the empirical NTK continues to evolve throughout most of the training, in contrast with prior work which suggests that it stabilizes after a few epochs of training. Altogether, our work establishes concrete limitations of the NTK approach in understanding generalization of real networks on natural datasets.
-
-* Fast Finite Width Neural Tangent Kernel. [\[paper\]](https://arxiv.org/abs/2206.08720) [\[code\]](https://github.com/google/neural-tangents) ⚠️ Archived
-  * Roman Novak, Jascha Sohl-Dickstein, Samuel S. Schoenholz. *ICML 2022*
-  * Key Word: Neural Tangent Kernel.
-  * <details><summary>Digest</summary> In the infinite width limit, the NTK can sometimes be computed analytically and is useful for understanding training and generalization of NN architectures. At finite widths, the NTK is also used to better initialize NNs, compare the conditioning across models, perform architecture search, and do meta-learning. Unfortunately, the finite width NTK is notoriously expensive to compute, which severely limits its practical utility. We perform the first in-depth analysis of the compute and memory requirements for NTK computation in finite width networks. Leveraging the structure of neural networks, we further propose two novel algorithms that change the exponent of the compute and memory requirements of the finite width NTK, dramatically improving efficiency.
 
 * On the Generalization Power of the Overfitted Three-Layer Neural Tangent Kernel Model. [\[paper\]](https://arxiv.org/abs/2206.02047)
   * Peizhong Ju, Xiaojun Lin, Ness B. Shroff.
@@ -1923,6 +1923,11 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Neural Tangent Kernel: 2019
 
+* On Exact Computation with an Infinitely Wide Neural Net. [\[paper\]](https://arxiv.org/abs/1904.11955) [\[code\]](https://github.com/ruosongwang/CNTK) ⭐ 113 | 🐛 1 | 🌐 Python | 📅 2019-10-22
+  * Sanjeev Arora, Simon S. Du, Wei Hu, Zhiyuan Li, Ruslan Salakhutdinov, Ruosong Wang. *NeurIPS 2019*
+  * Key Word: Neural Tangent Kernel.
+  * <details><summary>Digest</summary> The current paper gives the first efficient exact algorithm for computing the extension of NTK to convolutional neural nets, which we call Convolutional NTK (CNTK), as well as an efficient GPU implementation of this algorithm.
+
 * Disentangling Trainability and Generalization in Deep Neural Networks. [\[paper\]](https://arxiv.org/abs/1912.13053)
   * Lechao Xiao, Jeffrey Pennington, Samuel S. Schoenholz. *ICML 2020*
   * Key Word: Neural Tangent Kernel.
@@ -1932,11 +1937,6 @@ Our understanding of modern neural networks lags behind their practical successe
   * Wei Hu, Zhiyuan Li, Dingli Yu. *ICLR 2020*
   * Key Word: Neural Tangent Kernel; Regularization.
   * <details><summary>Digest</summary> This paper proposes and analyzes two simple and intuitive regularization methods: (i) regularization by the distance between the network parameters to initialization, and (ii) adding a trainable auxiliary variable to the network output for each training example. Theoretically, we prove that gradient descent training with either of these two methods leads to a generalization guarantee on the clean data distribution despite being trained using noisy labels.
-
-* On Exact Computation with an Infinitely Wide Neural Net. [\[paper\]](https://arxiv.org/abs/1904.11955) [\[code\]](https://github.com/ruosongwang/CNTK) ⭐ 113 | 🐛 1 | 🌐 Python | 📅 2019-10-22
-  * Sanjeev Arora, Simon S. Du, Wei Hu, Zhiyuan Li, Ruslan Salakhutdinov, Ruosong Wang. *NeurIPS 2019*
-  * Key Word: Neural Tangent Kernel.
-  * <details><summary>Digest</summary> The current paper gives the first efficient exact algorithm for computing the extension of NTK to convolutional neural nets, which we call Convolutional NTK (CNTK), as well as an efficient GPU implementation of this algorithm.
 
 * Scaling Limits of Wide Neural Networks with Weight Sharing: Gaussian Process Behavior, Gradient Independence, and Neural Tangent Kernel Derivation. [\[paper\]](https://arxiv.org/abs/1902.04760)
   * Greg Yang.
@@ -2791,7 +2791,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
 
-* Deep Networks from the Principle of Rate Reduction. [\[paper\]](https://arxiv.org/abs/2010.14765) [\[code\]](https://github.com/Ma-Lab-Berkeley/ReduNet) ⭐ 541 | 🐛 6 | 🌐 Python | 📅 2022-02-17
+* Deep Networks from the Principle of Rate Reduction. [\[paper\]](https://arxiv.org/abs/2010.14765) [\[code\]](https://github.com/Ma-Lab-Berkeley/ReduNet) ⭐ 542 | 🐛 6 | 🌐 Python | 📅 2022-02-17
   * Kwan Ho Ryan Chan, Yaodong Yu, Chong You, Haozhi Qi, John Wright, Yi Ma.
   * Key Word: Maximal Coding Rate Reduction.
   * <details><summary>Digest</summary> This work attempts to interpret modern deep (convolutional) networks from the principles of rate reduction and (shift) invariant classification. We show that the basic iterative gradient ascent scheme for optimizing the rate reduction of learned features naturally leads to a multi-layer deep network, one iteration per layer. The layered architectures, linear and nonlinear operators, and even parameters of the network are all explicitly constructed layer-by-layer in a forward propagation fashion by emulating the gradient scheme. 
@@ -3067,6 +3067,11 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2017
 
+* Exploring Generalization in Deep Learning. [\[paper\]](https://arxiv.org/abs/1706.08947) [\[code\]](https://github.com/bneyshabur/generalization-bounds) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2018-12-13
+  * Behnam Neyshabur, Srinadh Bhojanapalli, David McAllester, Nathan Srebro. *NeurIPS 2017*
+  * Key Word: PAC-Bayes.
+  * <details><summary>Digest</summary> With a goal of understanding what drives generalization in deep networks, we consider several recently suggested explanations, including norm-based control, sharpness and robustness. We study how these measures can ensure generalization, highlighting the importance of scale normalization, and making a connection between sharpness and PAC-Bayes theory. We then investigate how well the measures explain different observed phenomena.
+
 * Mean Field Residual Networks: On the Edge of Chaos. [\[paper\]](https://arxiv.org/abs/1712.08969)
   * Greg Yang, Samuel S. Schoenholz. *NeurIPS 2017*
   * Key Word: Mean Field Theory.
@@ -3097,11 +3102,6 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Implicit Regularization.
   * <details><summary>Digest</summary> In an attempt to better understand generalization in deep learning, we study several possible explanations. We show that implicit regularization induced by the optimization method is playing a key role in generalization and success of deep learning models. Motivated by this view, we study how different complexity measures can ensure generalization and explain how optimization algorithms can implicitly regularize complexity measures.
 
-* Exploring Generalization in Deep Learning. [\[paper\]](https://arxiv.org/abs/1706.08947) [\[code\]](https://github.com/bneyshabur/generalization-bounds) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2018-12-13
-  * Behnam Neyshabur, Srinadh Bhojanapalli, David McAllester, Nathan Srebro. *NeurIPS 2017*
-  * Key Word: PAC-Bayes.
-  * <details><summary>Digest</summary> With a goal of understanding what drives generalization in deep networks, we consider several recently suggested explanations, including norm-based control, sharpness and robustness. We study how these measures can ensure generalization, highlighting the importance of scale normalization, and making a connection between sharpness and PAC-Bayes theory. We then investigate how well the measures explain different observed phenomena.
-
 * Gradient Descent Can Take Exponential Time to Escape Saddle Points. [\[paper\]](https://arxiv.org/abs/1705.10412)
   * Simon S. Du, Chi Jin, Jason D. Lee, Michael I. Jordan, Barnabas Poczos, Aarti Singh. *NeurIPS 2017*
   * Key Word: Gradient Descent; Saddle Points.
@@ -3118,6 +3118,11 @@ Our understanding of modern neural networks lags behind their practical successe
   * <details><summary>Digest</summary> This paper presents the first (nearly) dimension-free result for gradient descent in a general nonconvex setting. We present a general convergence result and show how it can be further strengthened when combined with further structure such as strict saddle conditions and/or local regularity/convexity.
 
 ### Others: 2016
+
+* Exponential expressivity in deep neural networks through transient chaos. [\[paper\]](https://arxiv.org/abs/1606.05340) [\[code\]](https://github.com/ganguli-lab/deepchaos) ⭐ 74 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-06-09
+  * Ben Poole, Subhaneil Lahiri, Maithra Raghu, Jascha Sohl-Dickstein, Surya Ganguli. *NeurIPS 2016*
+  * Key Word: Mean Field Theory; Riemannian Geometry.
+  * <details><summary>Digest</summary> We combine Riemannian geometry with the mean field theory of high dimensional chaos to study the nature of signal propagation in deep neural networks with random weights. Our results reveal a phase transition in the expressivity of random deep networks, with networks in the chaotic phase computing nonlinear functions whose global curvature grows exponentially with depth, but not with width. We prove that this generic class of random functions cannot be efficiently computed by any shallow network, going beyond prior work that restricts their analysis to single functions.
 
 * Understanding Deep Neural Networks with Rectified Linear Units. [\[paper\]](https://arxiv.org/abs/1611.01491)
   * Raman Arora, Amitabh Basu, Poorya Mianjy, Anirbit Mukherjee. *ICLR 2018*
@@ -3138,11 +3143,6 @@ Our understanding of modern neural networks lags behind their practical successe
   * Henry W. Lin, Max Tegmark, David Rolnick. *Journal of Statistical Physics*
   * Key Word: Physics.
   * <details><summary>Digest</summary> We show how the success of deep learning could depend not only on mathematics but also on physics: although well-known mathematical theorems guarantee that neural networks can approximate arbitrary functions well, the class of functions of practical interest can frequently be approximated through "cheap learning" with exponentially fewer parameters than generic ones. We explore how properties frequently encountered in physics such as symmetry, locality, compositionality, and polynomial log-probability translate into exceptionally simple neural networks.
-
-* Exponential expressivity in deep neural networks through transient chaos. [\[paper\]](https://arxiv.org/abs/1606.05340) [\[code\]](https://github.com/ganguli-lab/deepchaos) ⭐ 74 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-06-09
-  * Ben Poole, Subhaneil Lahiri, Maithra Raghu, Jascha Sohl-Dickstein, Surya Ganguli. *NeurIPS 2016*
-  * Key Word: Mean Field Theory; Riemannian Geometry.
-  * <details><summary>Digest</summary> We combine Riemannian geometry with the mean field theory of high dimensional chaos to study the nature of signal propagation in deep neural networks with random weights. Our results reveal a phase transition in the expressivity of random deep networks, with networks in the chaotic phase computing nonlinear functions whose global curvature grows exponentially with depth, but not with width. We prove that this generic class of random functions cannot be efficiently computed by any shallow network, going beyond prior work that restricts their analysis to single functions.
 
 ## Related Resources
 
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

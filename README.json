@@ -565,6 +565,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596575798,
+                "language": "Python",
+                "last_commit": "2023-08-07T12:34:02Z",
+                "owner": "NeuralCollapseApplications",
+                "repo": "FSCIL",
+                "stars": 94
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural Collapse: 2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "A Geometric Analysis of Neural Collapse with Unconstrained Features. [paper]",
               "description": "[code]",
               "children": [],
@@ -597,6 +619,28 @@
           "description": null,
           "node_type": "group",
           "title": "Neural Collapse: 2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prevalence of Neural Collapse during the terminal phase of deep learning training. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336117306,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-08T14:29:35Z",
+                "owner": "xyhan-github",
+                "repo": "neuralcollapse",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural Collapse: 2020"
         }
       ],
       "title": "Neural Collapse"
@@ -604,6 +648,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unifying Grokking and Double Descent. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562004007,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-02-17T00:03:50Z",
+                "owner": "xanderdavies",
+                "repo": "unifying-grok-dd",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deep Double Descent: 2023"
+        },
         {
           "children": [
             {
@@ -655,6 +721,28 @@
           "description": null,
           "node_type": "group",
           "title": "Deep Double Descent: 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multi-scale Feature Learning Dynamics: Insights for Double Descent. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371589782,
+                "language": "Python",
+                "last_commit": "2021-11-29T20:24:16Z",
+                "owner": "NNdoubledescent",
+                "repo": "doubledescent",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deep Double Descent: 2021"
         },
         {
           "children": [
@@ -825,7 +913,7 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2384
+                "stars": 2383
               }
             },
             {
@@ -1064,7 +1152,7 @@
                 "last_commit": "2024-07-25T10:58:54Z",
                 "owner": "ganguli-lab",
                 "repo": "Synaptic-Flow",
-                "stars": 229
+                "stars": 230
               }
             },
             {
@@ -1079,7 +1167,7 @@
                 "last_commit": "2020-02-18T22:22:32Z",
                 "owner": "alecwangcq",
                 "repo": "GraSP",
-                "stars": 105
+                "stars": 106
               }
             },
             {
@@ -1428,6 +1516,28 @@
           "description": null,
           "node_type": "group",
           "title": "Emergence and Phase Transitions: 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Explaining Neural Scaling Laws. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 180192894,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-01T17:17:03Z",
+                "owner": "google",
+                "repo": "neural-tangents",
+                "stars": 2383
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emergence and Phase Transitions: 2021"
         }
       ],
       "title": "Emergence and Phase Transitions"
@@ -1435,6 +1545,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Finding Neurons in a Haystack: Case Studies with Sparse Probing. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635392561,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-12-17T02:36:12Z",
+                "owner": "wesg52",
+                "repo": "sparse-probing-paper",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interactions with Neuroscience: 2023"
+        },
         {
           "children": [
             {
@@ -1471,6 +1603,28 @@
           "description": null,
           "node_type": "group",
           "title": "Interactions with Neuroscience: 2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Partial success in closing the gap between human and machine vision. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373810483,
+                "language": "Python",
+                "last_commit": "2025-04-17T13:23:10Z",
+                "owner": "bethgelab",
+                "repo": "model-vs-human",
+                "stars": 363
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interactions with Neuroscience: 2021"
         },
         {
           "children": [
@@ -1627,6 +1781,28 @@
           "description": null,
           "node_type": "group",
           "title": "Interactions with Neuroscience: 2018"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Comparing deep neural networks against humans: object recognition when the signal gets weaker. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91843628,
+                "language": "MATLAB",
+                "last_commit": "2021-08-02T14:38:36Z",
+                "owner": "rgeirhos",
+                "repo": "object-recognition",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interactions with Neuroscience: 2017"
         }
       ],
       "title": "Interactions with Neuroscience"
@@ -1767,6 +1943,28 @@
           "description": null,
           "node_type": "group",
           "title": "Information Bottleneck: 2020"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "On the Information Bottleneck Theory of Deep Learning. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113255004,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-04-20T22:28:13Z",
+                "owner": "artemyk",
+                "repo": "ibsgd",
+                "stars": 157
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Information Bottleneck: 2018"
         }
       ],
       "title": "Information Bottleneck"
@@ -1774,6 +1972,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fast Finite Width Neural Tangent Kernel. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 180192894,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-01T17:17:03Z",
+                "owner": "google",
+                "repo": "neural-tangents",
+                "stars": 2383
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural Tangent Kernel: 2022"
+        },
         {
           "children": [
             {
@@ -1885,7 +2105,7 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2384
+                "stars": 2383
               }
             },
             {
@@ -1937,6 +2157,28 @@
           "description": null,
           "node_type": "group",
           "title": "Neural Tangent Kernel: 2020"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "On Exact Computation with an Infinitely Wide Neural Net. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216919931,
+                "language": "Python",
+                "last_commit": "2019-10-22T22:30:08Z",
+                "owner": "ruosongwang",
+                "repo": "CNTK",
+                "stars": 113
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural Tangent Kernel: 2019"
         }
       ],
       "title": "Neural Tangent Kernel"
@@ -2174,7 +2416,7 @@
                 "last_commit": "2022-02-17T07:57:11Z",
                 "owner": "Ma-Lab-Berkeley",
                 "repo": "ReduNet",
-                "stars": 541
+                "stars": 542
               }
             },
             {
@@ -2271,7 +2513,7 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2384
+                "stars": 2383
               }
             },
             {
@@ -2465,6 +2707,50 @@
           "description": null,
           "node_type": "group",
           "title": "Others: 2018"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Exploring Generalization in Deep Learning. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159090325,
+                "language": "Python",
+                "last_commit": "2018-12-13T15:30:37Z",
+                "owner": "bneyshabur",
+                "repo": "generalization-bounds",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others: 2017"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Exponential expressivity in deep neural networks through transient chaos. [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59612326,
+                "language": "Jupyter Notebook",
+                "last_commit": "2016-06-09T11:34:12Z",
+                "owner": "ganguli-lab",
+                "repo": "deepchaos",
+                "stars": 74
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others: 2016"
         }
       ],
       "title": "Others"
@@ -2537,7 +2823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:59:10.000Z",
+    "last_updated": "2026-08-24T14:24:08.462Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_id": 274390643,
     "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",
