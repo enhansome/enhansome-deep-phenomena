@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-24T18:11:40Z",
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10897
+                "stars": 10898
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2024-07-23T18:15:40Z",
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8371
+                "stars": 8370
               }
             },
             {
@@ -1464,7 +1464,7 @@
                 "last_commit": "2024-03-19T07:03:15Z",
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4264
+                "stars": 4265
               }
             },
             {
@@ -2823,7 +2823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:14.446Z",
+    "last_updated": "2026-08-25T17:15:01.050Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_id": 274390643,
     "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",
