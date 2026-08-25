@@ -233,7 +233,7 @@
                 "last_commit": "2022-07-19T17:16:44Z",
                 "owner": "allenai",
                 "repo": "cartography",
-                "stars": 219
+                "stars": 220
               }
             },
             {
@@ -1464,7 +1464,7 @@
                 "last_commit": "2024-03-19T07:03:15Z",
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4263
+                "stars": 4264
               }
             },
             {
@@ -2823,7 +2823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:14:33.065Z",
+    "last_updated": "2026-08-25T06:20:14.446Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_id": 274390643,
     "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",

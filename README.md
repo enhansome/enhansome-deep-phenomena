@@ -318,7 +318,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2020
 
-* Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [\[paper\]](https://arxiv.org/abs/2009.10795) [\[code\]](https://github.com/allenai/cartography) ⭐ 219 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-07-19
+* Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [\[paper\]](https://arxiv.org/abs/2009.10795) [\[code\]](https://github.com/allenai/cartography) ⭐ 220 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-07-19
   * Swabha Swayamdipta, Roy Schwartz, Nicholas Lourie, Yizhong Wang, Hannaneh Hajishirzi, Noah A. Smith, Yejin Choi. *EMNLP 2020*
   * Key Word: Training Dynamics; Data Map; Curriculum Learning.
   * <details><summary>Digest</summary> Large datasets have become commonplace in NLP research. However, the increased emphasis on data quantity has made it challenging to assess the quality of data. We introduce Data Maps---a model-based tool to characterize and diagnose datasets. We leverage a largely ignored source of information: the behavior of the model on individual instances during training (training dynamics) for building data maps.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
