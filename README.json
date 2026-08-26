@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-24T18:11:40Z",
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10898
+                "stars": 10900
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2023-02-17T00:03:50Z",
                 "owner": "xanderdavies",
                 "repo": "unifying-grok-dd",
-                "stars": 10
+                "stars": 11
               }
             }
           ],
@@ -1464,7 +1464,7 @@
                 "last_commit": "2024-03-19T07:03:15Z",
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4265
+                "stars": 4263
               }
             },
             {
@@ -2595,7 +2595,7 @@
                 "last_commit": "2025-04-04T01:06:00Z",
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6476
+                "stars": 6477
               }
             },
             {
@@ -2770,7 +2770,7 @@
             "last_commit": "2026-02-12T06:53:20Z",
             "owner": "ZIYU-DEEP",
             "repo": "Awesome-Information-Bottleneck",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -2823,7 +2823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:15:01.050Z",
+    "last_updated": "2026-08-26T18:23:25.350Z",
     "original_repository": "MinghuiChen43/awesome-deep-phenomena",
     "original_repository_id": 274390643,
     "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",
