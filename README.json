@@ -1137,7 +1137,7 @@
                 "last_commit": "2023-07-07T15:11:43Z",
                 "owner": "JJGO",
                 "repo": "shrinkbench",
-                "stars": 436
+                "stars": 437
               }
             },
             {
@@ -1354,7 +1354,7 @@
                 "last_commit": "2026-03-05T23:30:47Z",
                 "owner": "allenai",
                 "repo": "hidden-networks",
-                "stars": 197
+                "stars": 198
               }
             },
             {
@@ -1891,7 +1891,7 @@
                 "last_commit": "2023-02-24T01:43:27Z",
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 257
+                "stars": 258
               }
             },
             {
@@ -2823,9 +2823,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:23:25.350Z",
-    "original_repository": "MinghuiChen43/awesome-deep-phenomena",
-    "original_repository_id": 274390643,
+    "last_updated": "2026-08-27T11:32:04.047Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 274390643,
+      "language": null,
+      "last_commit": "2026-08-18T14:48:11Z",
+      "owner": "MinghuiChen43",
+      "repo": "awesome-deep-phenomena",
+      "stars": 408
+    },
     "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",
     "enhanced_repository": "enhansome/enhansome-deep-phenomena",
     "enhanced_repository_description": null,

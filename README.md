@@ -1020,7 +1020,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary>  We find that, within this framework, deep networks are not robust to reinitializing with random weights while maintaining signs, and that weight distributions are highly non-independent even after only a few hundred iterations.  
 
-* What is the State of Neural Network Pruning? [\[paper\]](https://arxiv.org/abs/2003.03033) [\[code\]](https://github.com/jjgo/shrinkbench) ⭐ 436 | 🐛 1 | 🌐 Python | 📅 2023-07-07
+* What is the State of Neural Network Pruning? [\[paper\]](https://arxiv.org/abs/2003.03033) [\[code\]](https://github.com/jjgo/shrinkbench) ⭐ 437 | 🐛 1 | 🌐 Python | 📅 2023-07-07
   * Davis Blalock, Jose Javier Gonzalez Ortiz, Jonathan Frankle, John Guttag. *MLSys 2020*
   * Key Word: Lottery Ticket Hypothesis; Survey.
   * <details><summary>Digest</summary> Neural network pruning---the task of reducing the size of a network by removing parameters---has been the subject of a great deal of work in recent years. We provide a meta-analysis of the literature, including an overview of approaches to pruning and consistent findings in the literature. After aggregating results across 81 papers and pruning hundreds of models in controlled conditions, our clearest finding is that the community suffers from a lack of standardized benchmarks and metrics. This deficiency is substantial enough that it is hard to compare pruning techniques to one another or determine how much progress the field has made over the past three decades. To address this situation, we identify issues with current practices, suggest concrete remedies, and introduce ShrinkBench, an open-source framework to facilitate standardized evaluations of pruning methods.
@@ -1112,7 +1112,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> We rigorously evaluate three state-of-the-art techniques for inducing sparsity in deep neural networks on two large-scale learning tasks: Transformer trained on WMT 2014 English-to-German, and ResNet-50 trained on ImageNet. Across thousands of experiments, we demonstrate that complex techniques (Molchanov et al., 2017; Louizos et al., 2017b) shown to yield high compression rates on smaller datasets perform inconsistently, and that simple magnitude pruning approaches achieve comparable or better results.
 
-* What's Hidden in a Randomly Weighted Neural Network? [\[paper\]](https://arxiv.org/abs/1911.13299) [\[code\]](https://github.com/allenai/hidden-networks) ⭐ 197 | 🐛 8 | 🌐 Python | 📅 2026-03-05
+* What's Hidden in a Randomly Weighted Neural Network? [\[paper\]](https://arxiv.org/abs/1911.13299) [\[code\]](https://github.com/allenai/hidden-networks) ⭐ 198 | 🐛 8 | 🌐 Python | 📅 2026-03-05
   * Vivek Ramanujan, Mitchell Wortsman, Aniruddha Kembhavi, Ali Farhadi, Mohammad Rastegari. *CVPR 2020*
   * Key Word: Lottery Ticket Hypothesis; Neural Architecture Search; Weight Agnositic Neural Networks.
   * <details><summary>Digest</summary> Hidden in a randomly weighted Wide ResNet-50 we show that there is a subnetwork (with random weights) that is smaller than, but matches the performance of a ResNet-34 trained on ImageNet. Not only do these "untrained subnetworks" exist, but we provide an algorithm to effectively find them.  
@@ -1647,7 +1647,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Information Bottleneck: 2020
 
-* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 257 | 🐛 11 | 🌐 Python | 📅 2023-02-24
+* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 258 | 🐛 11 | 🌐 Python | 📅 2023-02-24
   * Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, Percy Liang. *ICML 2020*
   * Key Word: Information Bottleneck
   * <details><summary>Digest</summary> We seek to learn models that we can interact with using high-level concepts: if the model did not think there was a bone spur in the x-ray, would it still predict severe arthritis? State-of-the-art models today do not typically support the manipulation of concepts like "the existence of bone spurs", as they are trained end-to-end to go directly from raw input (e.g., pixels) to output (e.g., arthritis severity). We revisit the classic idea of first predicting concepts that are provided at training time, and then using these concepts to predict the label. By construction, we can intervene on these concept bottleneck models by editing their predicted concept values and propagating these changes to the final prediction.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
