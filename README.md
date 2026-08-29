@@ -112,7 +112,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,900 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,901 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -3152,7 +3152,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 210 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
-* [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers) ⭐ 123 | 🐛 0 | 📅 2025-01-12 ![ ](https://img.shields.io/github/stars/kwignb/NeuralTangentKernel-Papers) ![ ](https://img.shields.io/github/last-commit/kwignb/NeuralTangentKernel-Papers)
+* [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers) ⭐ 122 | 🐛 0 | 📅 2025-01-12 ![ ](https://img.shields.io/github/stars/kwignb/NeuralTangentKernel-Papers) ![ ](https://img.shields.io/github/last-commit/kwignb/NeuralTangentKernel-Papers)
 
 * [Off the Convex Path Blog](https://www.offconvex.org/)
 
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

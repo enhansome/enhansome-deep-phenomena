@@ -17,8 +17,9 @@
                 "last_commit": "2026-03-24T18:11:40Z",
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10900
-              }
+                "stars": 10901
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "pratyushasharma",
                 "repo": "laser",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "facebookresearch",
                 "repo": "dropout",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "Alrope123",
                 "repo": "rethinking-demonstrations",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "MadryLab",
                 "repo": "modeldiff",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "MadryLab",
                 "repo": "data-transfer",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "JunlinHan",
                 "repo": "MachineMem",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "stanislavfort",
                 "repo": "slice-dice-optimize",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "facebookresearch",
                 "repo": "mae",
                 "stars": 8370
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "hirokatsukataoka16",
                 "repo": "FractalDB-Pretrained-ResNet-PyTorch",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "kawine",
                 "repo": "dataset_difficulty",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "locuslab",
                 "repo": "edge-of-stability",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "JonasGeiping",
                 "repo": "fullbatchtraining",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "allenai",
                 "repo": "cartography",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "HaozhiQi",
                 "repo": "ISONet",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "takashiishida",
                 "repo": "flooding",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "google-research",
                 "repo": "understanding-transfer-learning",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "google-research",
                 "repo": "understanding-curricula",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "nitarshan",
                 "repo": "robust-generalization-measures",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "preetum",
                 "repo": "deep-bootstrap-code",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -346,7 +366,8 @@
                 "owner": "wielandbrendel",
                 "repo": "bag-of-local-features-models",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "shirleyzhu233",
                 "repo": "PyTorch-MAML",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "kenny-co",
                 "repo": "procedural-advml",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "yukimasano",
                 "repo": "linear-probes",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "goldblum",
                 "repo": "TruthOrBackpropaganda",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -421,7 +446,8 @@
                 "owner": "avakanski",
                 "repo": "Evaluation-of-Complexity-Measures-for-Deep-Learning-Generalization-in-Medical-Image-Analysis",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -436,7 +462,8 @@
                 "owner": "chao1224",
                 "repo": "BadGlobalMinima",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "sdascoli",
                 "repo": "anarchitectural-search",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -466,7 +494,8 @@
                 "owner": "PasqualeZingo",
                 "repo": "TransfusionReproducibilityChallenge",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -488,7 +517,8 @@
                 "owner": "google-research",
                 "repo": "disentanglement_lib",
                 "stars": 1425
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "google",
                 "repo": "svcca",
                 "stars": 644
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -518,7 +549,8 @@
                 "owner": "max-andr",
                 "repo": "relu_networks_overconfident",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -533,7 +565,8 @@
                 "owner": "mtoneva",
                 "repo": "example_forgetting",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -548,7 +581,8 @@
                 "owner": "ispgroupucl",
                 "repo": "layer-rotation-paper-experiments",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -576,7 +610,8 @@
                 "owner": "NeuralCollapseApplications",
                 "repo": "FSCIL",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -598,7 +633,8 @@
                 "owner": "tding1",
                 "repo": "Neural-Collapse",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -613,7 +649,8 @@
                 "owner": "HornHehhf",
                 "repo": "LPM",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -635,7 +672,8 @@
                 "owner": "xyhan-github",
                 "repo": "neuralcollapse",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -663,7 +701,8 @@
                 "owner": "xanderdavies",
                 "repo": "unifying-grok-dd",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -685,7 +724,8 @@
                 "owner": "somepago",
                 "repo": "dbViz",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -700,7 +740,8 @@
                 "owner": "he-zh",
                 "repo": "sparse-double-descent",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -715,7 +756,8 @@
                 "owner": "sidak",
                 "repo": "double-descent",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -737,7 +779,8 @@
                 "owner": "NNdoubledescent",
                 "repo": "doubledescent",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -759,7 +802,8 @@
                 "owner": "google-research",
                 "repo": "rigl",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -774,7 +818,8 @@
                 "owner": "yaodongyu",
                 "repo": "Rethink-BiasVariance-Tradeoff",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -789,7 +834,8 @@
                 "owner": "MLI-lab",
                 "repo": "early_stopping_double_descent",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -804,7 +850,8 @@
                 "owner": "lightonai",
                 "repo": "double-trouble-in-double-descent",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -819,7 +866,8 @@
                 "owner": "sdascoli",
                 "repo": "triple-descent-paper",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -847,7 +895,8 @@
                 "owner": "MingSun-Tse",
                 "repo": "Why-the-State-of-Pruning-so-Confusing",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -862,7 +911,8 @@
                 "owner": "VITA-Group",
                 "repo": "SMC-Bench",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -877,7 +927,8 @@
                 "owner": "diaoenmao",
                 "repo": "Pruning-Deep-Neural-Networks-from-a-Sparsity-Perspective",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -892,7 +943,8 @@
                 "owner": "YiteWang",
                 "repo": "NTK-SAP",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -913,8 +965,9 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383
-              }
+                "stars": 2382
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -929,7 +982,8 @@
                 "owner": "yueb17",
                 "repo": "DLTH",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -944,7 +998,8 @@
                 "owner": "VITA-Group",
                 "repo": "Audio-Lottery",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1014,8 @@
                 "owner": "GATECH-EIC",
                 "repo": "SuperTickets",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1030,8 @@
                 "owner": "henryzhongsc",
                 "repo": "lottery_regulated_grouped_kernel_pruning",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1046,8 @@
                 "owner": "mansheej",
                 "repo": "lth_diet",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1004,7 +1062,8 @@
                 "owner": "VITA-Group",
                 "repo": "Double-Win-LTH",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1026,7 +1085,8 @@
                 "owner": "chrundle",
                 "repo": "biprop",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1101,8 @@
                 "owner": "Shiweiliuiiiiiii",
                 "repo": "In-Time-Over-Parameterization",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1117,8 @@
                 "owner": "ganguli-lab",
                 "repo": "degrees-of-freedom",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1133,8 @@
                 "owner": "VITA-Group",
                 "repo": "PrAC-LTH",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1149,8 @@
                 "owner": "RelationalML",
                 "repo": "PlantNSeek",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1101,7 +1165,8 @@
                 "owner": "RelationalML",
                 "repo": "UniversalLT",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1123,7 +1188,8 @@
                 "owner": "facebookresearch",
                 "repo": "open_lth",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1138,7 +1204,8 @@
                 "owner": "JJGO",
                 "repo": "shrinkbench",
                 "stars": 437
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1153,7 +1220,8 @@
                 "owner": "ganguli-lab",
                 "repo": "Synaptic-Flow",
                 "stars": 230
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1168,7 +1236,8 @@
                 "owner": "alecwangcq",
                 "repo": "GraSP",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1183,7 +1252,8 @@
                 "owner": "lottery-ticket",
                 "repo": "rewinding-iclr20-public",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1198,7 +1268,8 @@
                 "owner": "JingtongSu",
                 "repo": "sanity-checking-pruning",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1213,7 +1284,8 @@
                 "owner": "alinlab",
                 "repo": "lookahead_pruning",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1228,7 +1300,8 @@
                 "owner": "lushleaf",
                 "repo": "Network-Pruning-Greedy-Forward-Selection",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1243,7 +1316,8 @@
                 "owner": "EkdeepSLubana",
                 "repo": "flowandprune",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1258,7 +1332,8 @@
                 "owner": "naver",
                 "repo": "force",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1273,7 +1348,8 @@
                 "owner": "fmi-basel",
                 "repo": "neural-tangent-transfer",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1288,7 +1364,8 @@
                 "owner": "chomd90",
                 "repo": "extreme_sparse",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1303,7 +1380,8 @@
                 "owner": "ShreyasMalakarjunPatil",
                 "repo": "PHEW",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1325,7 +1403,8 @@
                 "owner": "google-research",
                 "repo": "rigl",
                 "stars": 337
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1340,7 +1419,8 @@
                 "owner": "bayesgroup",
                 "repo": "variational-dropout-sparsifies-dnn",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1355,7 +1435,8 @@
                 "owner": "allenai",
                 "repo": "hidden-networks",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1370,7 +1451,8 @@
                 "owner": "uber-research",
                 "repo": "deconstructing-lottery-tickets",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1385,7 +1467,8 @@
                 "owner": "GATECH-EIC",
                 "repo": "Early-Bird-Tickets",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1400,7 +1483,8 @@
                 "owner": "namhoonlee",
                 "repo": "spp-public",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1422,7 +1506,8 @@
                 "owner": "google-research",
                 "repo": "lottery-ticket-hypothesis",
                 "stars": 729
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1437,7 +1522,8 @@
                 "owner": "namhoonlee",
                 "repo": "snip-public",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1465,7 +1551,8 @@
                 "owner": "openai",
                 "repo": "grok",
                 "stars": 4263
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1480,7 +1567,8 @@
                 "owner": "aradha",
                 "repo": "recursive_feature_machines",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1495,7 +1583,8 @@
                 "owner": "ethancaballero",
                 "repo": "broken_neural_scaling_laws",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1510,7 +1599,8 @@
                 "owner": "JonasGeiping",
                 "repo": "dataaugs",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1531,8 +1621,9 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383
-              }
+                "stars": 2382
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1560,7 +1651,8 @@
                 "owner": "wesg52",
                 "repo": "sparse-probing-paper",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1582,7 +1674,8 @@
                 "owner": "wichmann-lab",
                 "repo": "robustness-development",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1597,7 +1690,8 @@
                 "owner": "anneharrington",
                 "repo": "Adversarially-Robust-Periphery",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1619,7 +1713,8 @@
                 "owner": "bethgelab",
                 "repo": "model-vs-human",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1641,7 +1736,8 @@
                 "owner": "LiYingwei",
                 "repo": "ShapeTextureDebiasedTraining",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1656,7 +1752,8 @@
                 "owner": "rgeirhos",
                 "repo": "shortcut-perspective",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1671,7 +1768,8 @@
                 "owner": "wichmann-lab",
                 "repo": "error-consistency",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1686,7 +1784,8 @@
                 "owner": "bethgelab",
                 "repo": "notorious_difficulty_of_comparing_human_and_machine_perception",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1701,7 +1800,8 @@
                 "owner": "josuenassar",
                 "repo": "power_law",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1723,7 +1823,8 @@
                 "owner": "ganguli-lab",
                 "repo": "RetinalResources",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1738,7 +1839,8 @@
                 "owner": "aliborji",
                 "repo": "WhiteNoiseAnalysis",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1760,7 +1862,8 @@
                 "owner": "rgeirhos",
                 "repo": "Stylized-ImageNet",
                 "stars": 529
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1775,7 +1878,8 @@
                 "owner": "rgeirhos",
                 "repo": "generalisation-humans-DNNs",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1797,7 +1901,8 @@
                 "owner": "rgeirhos",
                 "repo": "object-recognition",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1825,7 +1930,8 @@
                 "owner": "RyanWangZf",
                 "repo": "PAC-Bayes-IB",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1840,7 +1946,8 @@
                 "owner": "google-research",
                 "repo": "compressive-visual-representations",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1855,7 +1962,8 @@
                 "owner": "ahujak",
                 "repo": "IB-IRM",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1870,7 +1978,8 @@
                 "owner": "StephanLorenzen",
                 "repo": "ExactIBAnalysisInQNNs",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1892,7 +2001,8 @@
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1907,7 +2017,8 @@
                 "owner": "snap-stanford",
                 "repo": "GIB",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1922,7 +2033,8 @@
                 "owner": "BioroboticsLab",
                 "repo": "IBA-paper-code",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -1937,7 +2049,8 @@
                 "owner": "YannDubs",
                 "repo": "Mini_Decodable_Information_Bottleneck",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1959,7 +2072,8 @@
                 "owner": "artemyk",
                 "repo": "ibsgd",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -1986,8 +2100,9 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383
-              }
+                "stars": 2382
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2009,7 +2124,8 @@
                 "owner": "lionelmessi6410",
                 "repo": "ntga",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2024,7 +2140,8 @@
                 "owner": "emited",
                 "repo": "gantk2",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2039,7 +2156,8 @@
                 "owner": "yilanchen6",
                 "repo": "equiv-nn-svm",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2054,7 +2172,8 @@
                 "owner": "james-simon",
                 "repo": "reverse-engineering",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2069,7 +2188,8 @@
                 "owner": "mlisicki",
                 "repo": "NeuralKernelBandits",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2084,7 +2204,8 @@
                 "owner": "Pehlevan-Group",
                 "repo": "kernel-ood-generalization",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2105,8 +2226,9 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383
-              }
+                "stars": 2382
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2121,7 +2243,8 @@
                 "owner": "bobby-he",
                 "repo": "bayesian-ntk",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2136,7 +2259,8 @@
                 "owner": "hendrydong",
                 "repo": "NTK-and-MF-examples",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2151,7 +2275,8 @@
                 "owner": "bGhorbani",
                 "repo": "linearized_neural_networks",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2173,7 +2298,8 @@
                 "owner": "ruosongwang",
                 "repo": "CNTK",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2201,7 +2327,8 @@
                 "owner": "FieteLab",
                 "repo": "inductive-bias-complexity",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2216,7 +2343,8 @@
                 "owner": "michaelaerni",
                 "repo": "iclr23-InductiveBiasesHarmlessInterpolation",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2238,7 +2366,8 @@
                 "owner": "zhangq327",
                 "repo": "U-MAE",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2253,7 +2382,8 @@
                 "owner": "activatedgeek",
                 "repo": "tight-pac-bayes",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2268,7 +2398,8 @@
                 "owner": "pcsl-epfl",
                 "repo": "regressionsphere",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2290,7 +2421,8 @@
                 "owner": "OATML",
                 "repo": "non-parametric-transformers",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2305,7 +2437,8 @@
                 "owner": "facebookresearch",
                 "repo": "directclr",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2320,7 +2453,8 @@
                 "owner": "juntang-zhuang",
                 "repo": "TorchDiffEqPack",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2335,7 +2469,8 @@
                 "owner": "jambo6",
                 "repo": "online-neural-cdes",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2350,7 +2485,8 @@
                 "owner": "sangmichaelxie",
                 "repo": "pretraining_analysis",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2365,7 +2501,8 @@
                 "owner": "jiangyuan-li",
                 "repo": "Implicit-Sparse-Regularization",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2387,7 +2524,8 @@
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
                 "stars": 718
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2402,7 +2540,8 @@
                 "owner": "google-research",
                 "repo": "sam",
                 "stars": 645
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2417,7 +2556,8 @@
                 "owner": "Ma-Lab-Berkeley",
                 "repo": "ReduNet",
                 "stars": 542
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2432,7 +2572,8 @@
                 "owner": "jambo6",
                 "repo": "neuralRDEs",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2447,7 +2588,8 @@
                 "owner": "DiffEqML",
                 "repo": "diffeqml-research",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2462,7 +2604,8 @@
                 "owner": "google-research",
                 "repo": "OOD-failures",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2477,7 +2620,8 @@
                 "owner": "IBM",
                 "repo": "NeuronAlignment",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2492,7 +2636,8 @@
                 "owner": "kampmichael",
                 "repo": "RelativeFlatnessAndGeneralization",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2513,8 +2658,9 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383
-              }
+                "stars": 2382
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2529,7 +2675,8 @@
                 "owner": "EmilienDupont",
                 "repo": "augmented-neural-odes",
                 "stars": 560
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2544,7 +2691,8 @@
                 "owner": "briancheung",
                 "repo": "superposition",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2559,7 +2707,8 @@
                 "owner": "ghliu",
                 "repo": "mean-field-fcdnn",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2574,7 +2723,8 @@
                 "owner": "cwein3",
                 "repo": "large-lr-code",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2596,7 +2746,8 @@
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6477
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2611,7 +2762,8 @@
                 "owner": "max-andr",
                 "repo": "relu_networks_overconfident",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2626,7 +2778,8 @@
                 "owner": "bneyshabur",
                 "repo": "over-parametrization",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2641,7 +2794,8 @@
                 "owner": "widedeepnetworks",
                 "repo": "widedeepnetworks",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2656,7 +2810,8 @@
                 "owner": "brain-research",
                 "repo": "mean-field-cnns",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2671,7 +2826,8 @@
                 "owner": "convnets-as-gps",
                 "repo": "convnets-as-gps",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2686,7 +2842,8 @@
                 "owner": "Learning-and-Intelligent-Systems",
                 "repo": "Analytical-Learning-Theory",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             },
             {
               "node_type": "item",
@@ -2701,7 +2858,8 @@
                 "owner": "edouardoyallon",
                 "repo": "lazy-training-CNN",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2723,7 +2881,8 @@
                 "owner": "bneyshabur",
                 "repo": "generalization-bounds",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2745,7 +2904,8 @@
                 "owner": "ganguli-lab",
                 "repo": "deepchaos",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T00:41:43.238Z"
             }
           ],
           "description": null,
@@ -2771,7 +2931,8 @@
             "owner": "ZIYU-DEEP",
             "repo": "Awesome-Information-Bottleneck",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-29T00:41:43.238Z"
         },
         {
           "node_type": "item",
@@ -2786,7 +2947,8 @@
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-29T00:41:43.238Z"
         },
         {
           "node_type": "item",
@@ -2801,7 +2963,8 @@
             "owner": "WeiHuang05",
             "repo": "Awesome-Feature-Learning-in-Deep-Learning-Thoery",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-29T00:41:43.238Z"
         },
         {
           "node_type": "item",
@@ -2815,15 +2978,16 @@
             "last_commit": "2025-01-12T12:08:05Z",
             "owner": "kwignb",
             "repo": "NeuralTangentKernel-Papers",
-            "stars": 123
-          }
+            "stars": 122
+          },
+          "first_seen": "2026-08-29T00:41:43.238Z"
         }
       ],
       "title": "Related Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:07:44.681Z",
+    "last_updated": "2026-08-29T00:41:43.238Z",
     "original_repository_info": {
       "archived": false,
       "id": 274390643,
