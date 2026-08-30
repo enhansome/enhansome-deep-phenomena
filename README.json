@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10901,
+                "stars": 10902,
                 "topics": [
                   "ai",
                   "google",
@@ -4142,7 +4142,7 @@
             "open_issues": 0,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
-            "stars": 390,
+            "stars": 389,
             "topics": [
               "adversarial-machine-learning",
               "ai-alignment",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:30:19.888Z",
+    "last_updated": "2026-08-30T19:26:13.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
