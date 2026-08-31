@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10902,
+                "stars": 10904,
                 "topics": [
                   "ai",
                   "google",
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8370,
+                "stars": 8369,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -545,7 +545,7 @@
                 "open_issues": 1,
                 "owner": "kenny-co",
                 "repo": "procedural-advml",
-                "stars": 56,
+                "stars": 55,
                 "topics": [
                   "adversarial-attacks",
                   "adversarial-examples",
@@ -2171,7 +2171,7 @@
                 "open_issues": 48,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4263,
+                "stars": 4262,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:26:13.304Z",
+    "last_updated": "2026-08-31T21:37:35.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
