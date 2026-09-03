@@ -112,12 +112,12 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,908 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,910 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
 
-* Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [\[paper\]](https://arxiv.org/abs/2312.13558) [\[code\]](https://github.com/pratyushasharma/laser) ⭐ 397 | 🐛 8 | 🌐 Python | 📅 2024-07-09
+* Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [\[paper\]](https://arxiv.org/abs/2312.13558) [\[code\]](https://github.com/pratyushasharma/laser) ⭐ 396 | 🐛 8 | 🌐 Python | 📅 2024-07-09
   * Pratyusha Sharma, Jordan T. Ash, Dipendra Misra
   * Key Word: Large Language Models; Reasoning.
   * <details><summary>Digest</summary> Transformer-based Large Language Models (LLMs) have become a fixture in modern machine learning. Correspondingly, significant resources are allocated towards research that aims to further advance this technology, typically resulting in models of increasing size that are trained on increasing amounts of data. This work, however, demonstrates the surprising result that it is often possible to significantly improve the performance of LLMs by selectively removing higher-order components of their weight matrices. This simple intervention, which we call LAyer-SElective Rank reduction (LASER), can be done on a model after training has completed, and requires no additional parameters or data. We show extensive experiments demonstrating the generality of this finding across language models and datasets, and provide in-depth analyses offering insights into both when LASER is effective and the mechanism by which it operates.
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,477 | 🐛 95 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,478 | 🐛 95 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

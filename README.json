@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10908,
+                "stars": 10910,
                 "topics": [
                   "ai",
                   "google",
@@ -48,7 +48,7 @@
                 "open_issues": 8,
                 "owner": "pratyushasharma",
                 "repo": "laser",
-                "stars": 397,
+                "stars": 396,
                 "topics": [
                   "gpt-j",
                   "interpretability",
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8369,
+                "stars": 8367,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3870,7 +3870,7 @@
                 "open_issues": 95,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6477,
+                "stars": 6478,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:29:39.335Z",
+    "last_updated": "2026-09-03T19:26:07.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
