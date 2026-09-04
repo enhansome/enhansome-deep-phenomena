@@ -1,10 +1,10 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 408 | 🐛 0 | 📅 2026-08-18
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 409 | 🐛 0 | 📅 2026-08-18
 ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-deep-phenomena)
-[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 408 | 🐛 0 | 📅 2026-08-18
-[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 408 | 🐛 0 | 📅 2026-08-18
-[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 408 | 🐛 0 | 📅 2026-08-18
-[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 408 | 🐛 0 | 📅 2026-08-18
+[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 409 | 🐛 0 | 📅 2026-08-18
+[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 409 | 🐛 0 | 📅 2026-08-18
+[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 409 | 🐛 0 | 📅 2026-08-18
+[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 409 | 🐛 0 | 📅 2026-08-18
 
 # Awesome Deep Phenomena with stars
 
@@ -3148,7 +3148,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Information Bottleneck Paper List](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck) ⭐ 402 | 🐛 0 | 📅 2026-02-12 ![ ](https://img.shields.io/github/stars/ZIYU-DEEP/Awesome-Information-Bottleneck) ![ ](https://img.shields.io/github/last-commit/ZIYU-DEEP/Awesome-Information-Bottleneck)
 
-* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 389 | 🐛 0 | 📅 2026-08-11 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
+* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 390 | 🐛 0 | 📅 2026-08-11 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
 
 * [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 210 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
