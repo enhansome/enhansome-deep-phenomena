@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8366,
+                "stars": 8365,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -718,7 +718,7 @@
                 "open_issues": 22,
                 "owner": "google-research",
                 "repo": "disentanglement_lib",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 48,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4261,
+                "stars": 4259,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:08:01.497Z",
+    "last_updated": "2026-09-05T18:34:14.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
