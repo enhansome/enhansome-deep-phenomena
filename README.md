@@ -1568,7 +1568,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2018
 
-* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 529 | 🐛 3 | 🌐 Python | 📅 2026-07-21
+* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 530 | 🐛 3 | 🌐 Python | 📅 2026-07-21
   * Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *ICLR 2019*
   * Key Word: Shape-Texture; Psychophysical Experiments.
   * <details><summary>Digest</summary> Convolutional Neural Networks (CNNs) are commonly thought to recognise objects by learning increasingly complex representations of object shapes. Some recent studies suggest a more important role of image textures. We here put these conflicting hypotheses to a quantitative test by evaluating CNNs and human observers on images with a texture-shape cue conflict. We show that ImageNet-trained CNNs are strongly biased towards recognising textures rather than shapes, which is in stark contrast to human behavioural evidence and reveals fundamentally different classification strategies.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

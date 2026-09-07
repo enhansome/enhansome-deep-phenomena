@@ -2606,7 +2606,7 @@
                 "open_issues": 3,
                 "owner": "rgeirhos",
                 "repo": "Stylized-ImageNet",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:37:49.526Z",
+    "last_updated": "2026-09-07T20:08:45.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
