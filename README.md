@@ -112,7 +112,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,909 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,910 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -281,7 +281,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Edge of Stability.
   * <details><summary>Digest</summary> We empirically demonstrate that full-batch gradient descent on neural network training objectives typically operates in a regime we call the Edge of Stability. In this regime, the maximum eigenvalue of the training loss Hessian hovers just above the numerical value 2/(step size), and the training loss behaves non-monotonically over short timescales, yet consistently decreases over long timescales. Since this behavior is inconsistent with several widespread presumptions in the field of optimization, our findings raise questions as to whether these presumptions are relevant to neural network training. 
 
-* Stochastic Training is Not Necessary for Generalization. [\[paper\]](https://arxiv.org/abs/2109.14119) [\[code\]](https://github.com/JonasGeiping/fullbatchtraining) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2023-02-14
+* Stochastic Training is Not Necessary for Generalization. [\[paper\]](https://arxiv.org/abs/2109.14119) [\[code\]](https://github.com/JonasGeiping/fullbatchtraining) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2023-02-14
   * Jonas Geiping, Micah Goldblum, Phillip E. Pope, Michael Moeller, Tom Goldstein. *ICLR 2022*
   * Key Word: Stochastic Gradient Descent; Regularization.
   * <details><summary>Digest</summary> It is widely believed that the implicit regularization of SGD is fundamental to the impressive generalization behavior we observe in neural networks. In this work, we demonstrate that non-stochastic full-batch training can achieve comparably strong performance to SGD on CIFAR-10 using modern architectures. To this end, we show that the implicit regularization of SGD can be completely replaced with explicit regularization even when comparing against a strong and well-researched baseline.
@@ -318,7 +318,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2020
 
-* Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [\[paper\]](https://arxiv.org/abs/2009.10795) [\[code\]](https://github.com/allenai/cartography) ⭐ 220 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-07-19
+* Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [\[paper\]](https://arxiv.org/abs/2009.10795) [\[code\]](https://github.com/allenai/cartography) ⭐ 221 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-07-19
   * Swabha Swayamdipta, Roy Schwartz, Nicholas Lourie, Yizhong Wang, Hannaneh Hajishirzi, Noah A. Smith, Yejin Choi. *EMNLP 2020*
   * Key Word: Training Dynamics; Data Map; Curriculum Learning.
   * <details><summary>Digest</summary> Large datasets have become commonplace in NLP research. However, the increased emphasis on data quantity has made it challenging to assess the quality of data. We introduce Data Maps---a model-based tool to characterize and diagnose datasets. We leverage a largely ignored source of information: the behavior of the model on individual instances during training (training dynamics) for building data maps.
@@ -604,7 +604,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Neural Collapse: 2021
 
-* A Geometric Analysis of Neural Collapse with Unconstrained Features. [\[paper\]](https://arxiv.org/abs/2105.02375) [\[code\]](https://github.com/tding1/Neural-Collapse) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2022-07-19
+* A Geometric Analysis of Neural Collapse with Unconstrained Features. [\[paper\]](https://arxiv.org/abs/2105.02375) [\[code\]](https://github.com/tding1/Neural-Collapse) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2022-07-19
   * Zhihui Zhu, Tianyu Ding, Jinxin Zhou, Xiao Li, Chong You, Jeremias Sulam, Qing Qu. *NeurIPS 2021*
   * Key Word: Neural Collapse, Nonconvex Optimization.
   * <details><summary>Digest</summary> We provide the first global optimization landscape analysis of Neural Collapse -- an intriguing empirical phenomenon that arises in the last-layer classifiers and features of neural networks during the terminal phase of training. As recently reported by Papyan et al., this phenomenon implies that (i) the class means and the last-layer classifiers all collapse to the vertices of a Simplex Equiangular Tight Frame (ETF) up to scaling, and (ii) cross-example within-class variability of last-layer activations collapses to zero. We study the problem based on a simplified unconstrained feature model, which isolates the topmost layers from the classifier of the neural network.
@@ -1568,7 +1568,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2018
 
-* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 530 | 🐛 3 | 🌐 Python | 📅 2026-07-21
+* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 529 | 🐛 3 | 🌐 Python | 📅 2026-07-21
   * Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *ICLR 2019*
   * Key Word: Shape-Texture; Psychophysical Experiments.
   * <details><summary>Digest</summary> Convolutional Neural Networks (CNNs) are commonly thought to recognise objects by learning increasingly complex representations of object shapes. Some recent studies suggest a more important role of image textures. We here put these conflicting hypotheses to a quantitative test by evaluating CNNs and human observers on images with a texture-shape cue conflict. We show that ImageNet-trained CNNs are strongly biased towards recognising textures rather than shapes, which is in stark contrast to human behavioural evidence and reveals fundamentally different classification strategies.
@@ -1647,7 +1647,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Information Bottleneck: 2020
 
-* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 258 | 🐛 11 | 🌐 Python | 📅 2023-02-24
+* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 259 | 🐛 11 | 🌐 Python | 📅 2023-02-24
   * Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, Percy Liang. *ICML 2020*
   * Key Word: Information Bottleneck
   * <details><summary>Digest</summary> We seek to learn models that we can interact with using high-level concepts: if the model did not think there was a bone spur in the x-ray, would it still predict severe arthritis? State-of-the-art models today do not typically support the manipulation of concepts like "the existence of bone spurs", as they are trained end-to-end to go directly from raw input (e.g., pixels) to output (e.g., arthritis severity). We revisit the classic idea of first predicting concepts that are provided at training time, and then using these concepts to predict the label. By construction, we can intervene on these concept bottleneck models by editing their predicted concept values and propagating these changes to the final prediction.
@@ -2786,7 +2786,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
 
-* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 645 | 🐛 29 | 🌐 Python | 📅 2026-07-24
+* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 644 | 🐛 29 | 🌐 Python | 📅 2026-07-24
   * Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur. *ICLR 2021*
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,479 | 🐛 95 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,481 | 🐛 95 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
