@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4261,
+                "stars": 4260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:28:46.447Z",
+    "last_updated": "2026-09-10T19:15:30.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4227,7 +4227,7 @@
       "open_issues": 0,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
-      "stars": 409,
+      "stars": 408,
       "topics": [
         "awesome-list",
         "deep-learning-theory",
