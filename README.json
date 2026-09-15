@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10914,
+                "stars": 10915,
                 "topics": [
                   "ai",
                   "google",
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8360,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4259,
+                "stars": 4260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2453,7 +2453,7 @@
                 "open_issues": 0,
                 "owner": "rgeirhos",
                 "repo": "shortcut-perspective",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "deep-learning",
                   "generalisation",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:33:32.056Z",
+    "last_updated": "2026-09-15T19:49:34.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
