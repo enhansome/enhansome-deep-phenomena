@@ -106,7 +106,7 @@
                 "open_issues": 3,
                 "owner": "Alrope123",
                 "repo": "rethinking-demonstrations",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4260,
+                "stars": 4261,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3570,7 +3570,7 @@
                 "open_issues": 30,
                 "owner": "google-research",
                 "repo": "sam",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:49:34.712Z",
+    "last_updated": "2026-09-16T19:41:40.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
