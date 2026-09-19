@@ -705,7 +705,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Deep Double Descent: 2020
 
-* Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [\[paper\]](https://arxiv.org/abs/2010.03533) [\[code\]](https://github.com/google-research/rigl) ⭐ 337 | 🐛 0 | 🌐 Python | 📅 2023-01-26
+* Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [\[paper\]](https://arxiv.org/abs/2010.03533) [\[code\]](https://github.com/google-research/rigl) ⭐ 338 | 🐛 0 | 🌐 Python | 📅 2023-01-26
   * Utku Evci, Yani A. Ioannou, Cem Keskin, Yann Dauphin. *AAAI 2020*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> Sparse Neural Networks (NNs) can match the generalization of dense NNs using a fraction of the compute/storage for inference, and also have the potential to enable efficient training. However, naively training unstructured sparse NNs from random initialization results in significantly worse generalization, with the notable exceptions of Lottery Tickets (LTs) and Dynamic Sparse Training (DST). Through our analysis of gradient flow during training we attempt to answer: (1) why training unstructured sparse networks from random initialization performs poorly and; (2) what makes LTs and DST the exceptions?
@@ -1102,7 +1102,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Lottery Ticket Hypothesis: 2019
 
-* Rigging the Lottery: Making All Tickets Winners. [\[paper\]](https://arxiv.org/abs/1911.11134) [\[code\]](https://github.com/google-research/rigl) ⭐ 337 | 🐛 0 | 🌐 Python | 📅 2023-01-26
+* Rigging the Lottery: Making All Tickets Winners. [\[paper\]](https://arxiv.org/abs/1911.11134) [\[code\]](https://github.com/google-research/rigl) ⭐ 338 | 🐛 0 | 🌐 Python | 📅 2023-01-26
   * Utku Evci, Trevor Gale, Jacob Menick, Pablo Samuel Castro, Erich Elsen. *ICML 2020*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> We introduce a method to train sparse neural networks with a fixed parameter count and a fixed computational cost throughout training, without sacrificing accuracy relative to existing dense-to-sparse training methods. Our method updates the topology of the sparse network during training by using parameter magnitudes and infrequent gradient calculations. We show that this approach requires fewer floating-point operations (FLOPs) to achieve a given level of accuracy compared to prior techniques.
@@ -2781,7 +2781,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2020
 
-* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 719 | 🐛 4 | 🌐 Python | 📅 2022-10-22
+* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 720 | 🐛 4 | 🌐 Python | 📅 2022-10-22
   * Patrick Kidger, James Morrill, James Foster, Terry Lyons. *NeurIPS 2020*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

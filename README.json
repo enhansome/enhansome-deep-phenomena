@@ -1091,7 +1091,7 @@
                 "open_issues": 0,
                 "owner": "google-research",
                 "repo": "rigl",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -1972,7 +1972,7 @@
                 "open_issues": 0,
                 "owner": "google-research",
                 "repo": "rigl",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -3537,7 +3537,7 @@
                 "open_issues": 4,
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "controlled-differential-equations",
                   "deep-learning",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:11:12.947Z",
+    "last_updated": "2026-09-19T18:54:23.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
