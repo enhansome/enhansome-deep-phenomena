@@ -3867,7 +3867,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6482,
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:54:23.092Z",
+    "last_updated": "2026-09-20T19:03:31.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
