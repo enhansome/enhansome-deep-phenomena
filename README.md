@@ -318,7 +318,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2020
 
-* Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [\[paper\]](https://arxiv.org/abs/2009.10795) [\[code\]](https://github.com/allenai/cartography) ⭐ 221 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-07-19
+* Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [\[paper\]](https://arxiv.org/abs/2009.10795) [\[code\]](https://github.com/allenai/cartography) ⭐ 222 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2022-07-19
   * Swabha Swayamdipta, Roy Schwartz, Nicholas Lourie, Yizhong Wang, Hannaneh Hajishirzi, Noah A. Smith, Yejin Choi. *EMNLP 2020*
   * Key Word: Training Dynamics; Data Map; Curriculum Learning.
   * <details><summary>Digest</summary> Large datasets have become commonplace in NLP research. However, the increased emphasis on data quantity has made it challenging to assess the quality of data. We introduce Data Maps---a model-based tool to characterize and diagnose datasets. We leverage a largely ignored source of information: the behavior of the model on individual instances during training (training dynamics) for building data maps.
@@ -1117,7 +1117,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Lottery Ticket Hypothesis; Neural Architecture Search; Weight Agnositic Neural Networks.
   * <details><summary>Digest</summary> Hidden in a randomly weighted Wide ResNet-50 we show that there is a subnetwork (with random weights) that is smaller than, but matches the performance of a ResNet-34 trained on ImageNet. Not only do these "untrained subnetworks" exist, but we provide an algorithm to effectively find them.  
 
-* Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask. [\[paper\]](https://arxiv.org/abs/1905.01067) [\[code\]](https://github.com/uber-research/deconstructing-lottery-tickets) ⭐ 143 | 🐛 2 | 🌐 Python | 📅 2023-03-24
+* Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask. [\[paper\]](https://arxiv.org/abs/1905.01067) [\[code\]](https://github.com/uber-research/deconstructing-lottery-tickets) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2023-03-24
   * Hattie Zhou, Janice Lan, Rosanne Liu, Jason Yosinski. *NeurIPS 2019*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> In this paper, we have studied how three components to LT-style network pruning—mask criterion, treatment of kept weights during retraining (mask-1 action), and treatment of pruned weights during retraining (mask-0 action)—come together to produce sparse and performant subnetworks.
@@ -2791,7 +2791,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
 
-* Deep Networks from the Principle of Rate Reduction. [\[paper\]](https://arxiv.org/abs/2010.14765) [\[code\]](https://github.com/Ma-Lab-Berkeley/ReduNet) ⭐ 543 | 🐛 6 | 🌐 Python | 📅 2022-02-17
+* Deep Networks from the Principle of Rate Reduction. [\[paper\]](https://arxiv.org/abs/2010.14765) [\[code\]](https://github.com/Ma-Lab-Berkeley/ReduNet) ⭐ 544 | 🐛 6 | 🌐 Python | 📅 2022-02-17
   * Kwan Ho Ryan Chan, Yaodong Yu, Chong You, Haozhi Qi, John Wright, Yi Ma.
   * Key Word: Maximal Coding Rate Reduction.
   * <details><summary>Digest</summary> This work attempts to interpret modern deep (convolutional) networks from the principles of rate reduction and (shift) invariant classification. We show that the basic iterative gradient ascent scheme for optimizing the rate reduction of learned features naturally leads to a multi-layer deep network, one iteration per layer. The layered architectures, linear and nonlinear operators, and even parameters of the network are all explicitly constructed layer-by-layer in a forward propagation fashion by emulating the gradient scheme. 
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,482 | 🐛 97 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,483 | 🐛 97 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3148,7 +3148,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Information Bottleneck Paper List](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck) ⭐ 402 | 🐛 0 | 📅 2026-02-12 ![ ](https://img.shields.io/github/stars/ZIYU-DEEP/Awesome-Information-Bottleneck) ![ ](https://img.shields.io/github/last-commit/ZIYU-DEEP/Awesome-Information-Bottleneck)
 
-* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 390 | 🐛 0 | 📅 2026-08-11 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
+* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 391 | 🐛 0 | 📅 2026-08-11 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
 
 * [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 210 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
