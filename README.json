@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8360,
+                "stars": 8361,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -1331,7 +1331,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -2262,7 +2262,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -2945,7 +2945,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3125,7 +3125,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3744,7 +3744,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3870,7 +3870,7 @@
                 "open_issues": 97,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6483,
+                "stars": 6482,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4142,7 +4142,7 @@
             "open_issues": 0,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
-            "stars": 391,
+            "stars": 392,
             "topics": [
               "adversarial-machine-learning",
               "ai-alignment",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:35:35.333Z",
+    "last_updated": "2026-09-22T19:52:53.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
