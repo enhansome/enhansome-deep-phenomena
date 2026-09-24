@@ -337,7 +337,7 @@
                 "open_issues": 9,
                 "owner": "allenai",
                 "repo": "cartography",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -580,7 +580,7 @@
                 "open_issues": 3,
                 "owner": "yukimasano",
                 "repo": "linear-probes",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:48:22.901Z",
+    "last_updated": "2026-09-24T20:07:34.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4227,7 +4227,7 @@
       "open_issues": 0,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
-      "stars": 409,
+      "stars": 408,
       "topics": [
         "awesome-list",
         "deep-learning-theory",
