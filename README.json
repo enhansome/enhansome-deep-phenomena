@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10914,
+                "stars": 10915,
                 "topics": [
                   "ai",
                   "google",
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8362,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4184,7 +4184,7 @@
             "open_issues": 0,
             "owner": "WeiHuang05",
             "repo": "Awesome-Feature-Learning-in-Deep-Learning-Thoery",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:22:32.155Z",
+    "last_updated": "2026-09-27T19:52:00.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4227,7 +4227,7 @@
       "open_issues": 0,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
-      "stars": 409,
+      "stars": 410,
       "topics": [
         "awesome-list",
         "deep-learning-theory",

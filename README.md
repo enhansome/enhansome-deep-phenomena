@@ -1,10 +1,10 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 409 | 🐛 0 | 📅 2026-08-18
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/MinghuiChen43/awesome-deep-phenomena/graphs/commit-activity) ⭐ 410 | 🐛 0 | 📅 2026-08-18
 ![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-deep-phenomena)
-[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 409 | 🐛 0 | 📅 2026-08-18
-[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 409 | 🐛 0 | 📅 2026-08-18
-[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 409 | 🐛 0 | 📅 2026-08-18
-[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 409 | 🐛 0 | 📅 2026-08-18
+[![GitHub stars](https://img.shields.io/github/stars/MinghuiChen43/awesome-deep-phenomena?color=blue\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/stargazers) ⭐ 410 | 🐛 0 | 📅 2026-08-18
+[![GitHub watchers](https://img.shields.io/github/watchers/MinghuiChen43/awesome-deep-phenomena?color=yellow\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena) ⭐ 410 | 🐛 0 | 📅 2026-08-18
+[![GitHub forks](https://img.shields.io/github/forks/MinghuiChen43/awesome-deep-phenomena?color=red\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/watchers) ⭐ 410 | 🐛 0 | 📅 2026-08-18
+[![GitHub Contributors](https://img.shields.io/github/contributors/MinghuiChen43/awesome-deep-phenomena?color=green\&style=plastic)](https://github.com/MinghuiChen43/awesome-deep-phenomena/network/members) ⭐ 410 | 🐛 0 | 📅 2026-08-18
 
 # Awesome Deep Phenomena with stars
 
@@ -112,7 +112,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,914 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,915 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -3150,7 +3150,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 392 | 🐛 0 | 📅 2026-08-11 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
 
-* [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 210 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
+* [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 211 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
 * [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers) ⭐ 122 | 🐛 0 | 📅 2025-01-12 ![ ](https://img.shields.io/github/stars/kwignb/NeuralTangentKernel-Papers) ![ ](https://img.shields.io/github/last-commit/kwignb/NeuralTangentKernel-Papers)
 
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
