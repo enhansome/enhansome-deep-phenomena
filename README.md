@@ -112,12 +112,12 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,915 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,916 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
 
-* Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [\[paper\]](https://arxiv.org/abs/2312.13558) [\[code\]](https://github.com/pratyushasharma/laser) ⭐ 396 | 🐛 8 | 🌐 Python | 📅 2024-07-09
+* Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [\[paper\]](https://arxiv.org/abs/2312.13558) [\[code\]](https://github.com/pratyushasharma/laser) ⭐ 395 | 🐛 8 | 🌐 Python | 📅 2024-07-09
   * Pratyusha Sharma, Jordan T. Ash, Dipendra Misra
   * Key Word: Large Language Models; Reasoning.
   * <details><summary>Digest</summary> Transformer-based Large Language Models (LLMs) have become a fixture in modern machine learning. Correspondingly, significant resources are allocated towards research that aims to further advance this technology, typically resulting in models of increasing size that are trained on increasing amounts of data. This work, however, demonstrates the surprising result that it is often possible to significantly improve the performance of LLMs by selectively removing higher-order components of their weight matrices. This simple intervention, which we call LAyer-SElective Rank reduction (LASER), can be done on a model after training has completed, and requires no additional parameters or data. We show extensive experiments demonstrating the generality of this finding across language models and datasets, and provide in-depth analyses offering insights into both when LASER is effective and the mechanism by which it operates.
@@ -2781,12 +2781,12 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2020
 
-* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 720 | 🐛 4 | 🌐 Python | 📅 2022-10-22
+* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 721 | 🐛 4 | 🌐 Python | 📅 2022-10-22
   * Patrick Kidger, James Morrill, James Foster, Terry Lyons. *NeurIPS 2020*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
 
-* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 646 | 🐛 30 | 🌐 Python | 📅 2026-07-24
+* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2026-07-24
   * Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur. *ICLR 2021*
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,482 | 🐛 97 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,483 | 🐛 98 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

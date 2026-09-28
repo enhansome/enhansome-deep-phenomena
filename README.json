@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10915,
+                "stars": 10916,
                 "topics": [
                   "ai",
                   "google",
@@ -48,7 +48,7 @@
                 "open_issues": 8,
                 "owner": "pratyushasharma",
                 "repo": "laser",
-                "stars": 396,
+                "stars": 395,
                 "topics": [
                   "gpt-j",
                   "interpretability",
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8362,
+                "stars": 8361,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4259,
+                "stars": 4260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3537,7 +3537,7 @@
                 "open_issues": 4,
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
-                "stars": 720,
+                "stars": 721,
                 "topics": [
                   "controlled-differential-equations",
                   "deep-learning",
@@ -3570,7 +3570,7 @@
                 "open_issues": 30,
                 "owner": "google-research",
                 "repo": "sam",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3867,10 +3867,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6482,
+                "stars": 6483,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:52:00.227Z",
+    "last_updated": "2026-09-28T22:16:22.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
