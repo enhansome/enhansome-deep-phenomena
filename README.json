@@ -3537,7 +3537,7 @@
                 "open_issues": 4,
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
-                "stars": 721,
+                "stars": 720,
                 "topics": [
                   "controlled-differential-equations",
                   "deep-learning",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:16:22.688Z",
+    "last_updated": "2026-09-29T21:02:16.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",

@@ -2781,7 +2781,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2020
 
-* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 721 | 🐛 4 | 🌐 Python | 📅 2022-10-22
+* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 720 | 🐛 4 | 🌐 Python | 📅 2022-10-22
   * Patrick Kidger, James Morrill, James Foster, Terry Lyons. *NeurIPS 2020*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
