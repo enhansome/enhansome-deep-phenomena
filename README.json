@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10917,
+                "stars": 10918,
                 "topics": [
                   "ai",
                   "google",
@@ -1331,7 +1331,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -2262,7 +2262,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -2945,7 +2945,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3125,7 +3125,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3537,7 +3537,7 @@
                 "open_issues": 4,
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
-                "stars": 720,
+                "stars": 721,
                 "topics": [
                   "controlled-differential-equations",
                   "deep-learning",
@@ -3567,7 +3567,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-24T02:11:40Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "google-research",
                 "repo": "sam",
                 "stars": 647,
@@ -3744,7 +3744,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3867,10 +3867,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 98,
+                "open_issues": 100,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6484,
+                "stars": 6485,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4114,7 +4114,7 @@
             "open_issues": 0,
             "owner": "ZIYU-DEEP",
             "repo": "Awesome-Information-Bottleneck",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "awesome-list",
               "deep-learning",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:00:18.874Z",
+    "last_updated": "2026-10-01T21:20:14.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
