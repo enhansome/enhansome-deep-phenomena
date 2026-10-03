@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [paper]",
-              "description": "[code]",
+              "description": "google/dopamine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -35,7 +35,7 @@
             {
               "node_type": "item",
               "title": "Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction. [paper]",
-              "description": "[code]",
+              "description": "pratyushasharma/laser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -65,7 +65,7 @@
             {
               "node_type": "item",
               "title": "Dropout Reduces Underfitting. [paper]",
-              "description": "[code]",
+              "description": "facebookresearch/dropout",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -93,7 +93,7 @@
             {
               "node_type": "item",
               "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? [paper]",
-              "description": "[code]",
+              "description": "Alrope123/rethinking-demonstrations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -114,7 +114,7 @@
             {
               "node_type": "item",
               "title": "ModelDiff: A Framework for Comparing Learning Algorithms. [paper]",
-              "description": "[code]",
+              "description": "MadryLab/modeldiff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -135,7 +135,7 @@
             {
               "node_type": "item",
               "title": "A Data-Based Perspective on Transfer Learning. [paper]",
-              "description": "[code]",
+              "description": "MadryLab/data-transfer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "What Images are More Memorable to Machines? [paper]",
-              "description": "[code]",
+              "description": "JunlinHan/MachineMem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -184,7 +184,7 @@
             {
               "node_type": "item",
               "title": "What does a deep neural network confidently perceive? The effective dimension of high certainty class manifolds and their low confidence boundaries. [paper]",
-              "description": "[code]",
+              "description": "stanislavfort/slice-dice-optimize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -212,7 +212,7 @@
             {
               "node_type": "item",
               "title": "Masked Autoencoders Are Scalable Vision Learners. [paper]",
-              "description": "[code]",
+              "description": "facebookresearch/mae",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -233,7 +233,7 @@
             {
               "node_type": "item",
               "title": "Pre-training without Natural Images. [paper]",
-              "description": "[code]",
+              "description": "hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -254,7 +254,7 @@
             {
               "node_type": "item",
               "title": "Understanding Dataset Difficulty with V-Usable Information. [paper]",
-              "description": "[code]",
+              "description": "kawine/dataset_difficulty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -275,7 +275,7 @@
             {
               "node_type": "item",
               "title": "Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability. [paper]",
-              "description": "[code]",
+              "description": "locuslab/edge-of-stability",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -296,7 +296,7 @@
             {
               "node_type": "item",
               "title": "Stochastic Training is Not Necessary for Generalization. [paper]",
-              "description": "[code]",
+              "description": "JonasGeiping/fullbatchtraining",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -324,7 +324,7 @@
             {
               "node_type": "item",
               "title": "Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. [paper]",
-              "description": "[code]",
+              "description": "allenai/cartography",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -345,7 +345,7 @@
             {
               "node_type": "item",
               "title": "Deep Isometric Learning for Visual Recognition. [paper]",
-              "description": "[code]",
+              "description": "HaozhiQi/ISONet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,7 +370,7 @@
             {
               "node_type": "item",
               "title": "Do We Need Zero Training Loss After Achieving Zero Training Error? [paper]",
-              "description": "[code]",
+              "description": "takashiishida/flooding",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -394,7 +394,7 @@
             {
               "node_type": "item",
               "title": "What is being transferred in transfer learning? [paper]",
-              "description": "[code]",
+              "description": "google-research/understanding-transfer-learning",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -415,7 +415,7 @@
             {
               "node_type": "item",
               "title": "When Do Curricula Work? [paper]",
-              "description": "[code]",
+              "description": "google-research/understanding-curricula",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -436,7 +436,7 @@
             {
               "node_type": "item",
               "title": "In Search of Robust Measures of Generalization. [paper]",
-              "description": "[code]",
+              "description": "nitarshan/robust-generalization-measures",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "The Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers. [paper]",
-              "description": "[code]",
+              "description": "preetum/deep-bootstrap-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,7 +485,7 @@
             {
               "node_type": "item",
               "title": "Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet. [paper]",
-              "description": "[code]",
+              "description": "wielandbrendel/bag-of-local-features-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -506,7 +506,7 @@
             {
               "node_type": "item",
               "title": "Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML. [paper]",
-              "description": "[code]",
+              "description": "shirleyzhu233/PyTorch-MAML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -532,7 +532,7 @@
             {
               "node_type": "item",
               "title": "Sensitivity of Deep Convolutional Networks to Gabor Noise. [paper]",
-              "description": "[code]",
+              "description": "kenny-co/procedural-advml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -567,7 +567,7 @@
             {
               "node_type": "item",
               "title": "A critical analysis of self-supervision, or what we can learn from a single image. [paper]",
-              "description": "[code]",
+              "description": "yukimasano/linear-probes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -588,7 +588,7 @@
             {
               "node_type": "item",
               "title": "Truth or Backpropaganda? An Empirical Investigation of Deep Learning Theory. [paper]",
-              "description": "[code]",
+              "description": "goldblum/TruthOrBackpropaganda",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -609,7 +609,7 @@
             {
               "node_type": "item",
               "title": "Fantastic Generalization Measures and Where to Find Them. [paper]",
-              "description": "[code]",
+              "description": "avakanski/Evaluation-of-Complexity-Measures-for-Deep-Learning-Generalization-in-Medical-Image-Analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -630,7 +630,7 @@
             {
               "node_type": "item",
               "title": "Bad Global Minima Exist and SGD Can Reach Them. [paper]",
-              "description": "[code]",
+              "description": "chao1224/BadGlobalMinima",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -656,7 +656,7 @@
             {
               "node_type": "item",
               "title": "Finding the Needle in the Haystack with Convolutions: on the benefits of architectural bias. [paper]",
-              "description": "[code]",
+              "description": "sdascoli/anarchitectural-search",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -677,7 +677,7 @@
             {
               "node_type": "item",
               "title": "Transfusion: Understanding Transfer Learning for Medical Imaging. [paper]",
-              "description": "[code]",
+              "description": "PasqualeZingo/TransfusionReproducibilityChallenge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -705,7 +705,7 @@
             {
               "node_type": "item",
               "title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations. [paper]",
-              "description": "[code]",
+              "description": "google-research/disentanglement_lib",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -726,7 +726,7 @@
             {
               "node_type": "item",
               "title": "Insights on representational similarity in neural networks with canonical correlation. [paper]",
-              "description": "[code]",
+              "description": "google/svcca",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -747,7 +747,7 @@
             {
               "node_type": "item",
               "title": "Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem. [paper]",
-              "description": "[code]",
+              "description": "max-andr/relu_networks_overconfident",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -768,7 +768,7 @@
             {
               "node_type": "item",
               "title": "An Empirical Study of Example Forgetting during Deep Neural Network Learning. [paper]",
-              "description": "[code]",
+              "description": "mtoneva/example_forgetting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -789,7 +789,7 @@
             {
               "node_type": "item",
               "title": "Layer rotation: a surprisingly powerful indicator of generalization in deep networks? [paper]",
-              "description": "[code]",
+              "description": "ispgroupucl/layer-rotation-paper-experiments",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -823,7 +823,7 @@
             {
               "node_type": "item",
               "title": "Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class Incremental Learning. [paper]",
-              "description": "[code]",
+              "description": "NeuralCollapseApplications/FSCIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -855,7 +855,7 @@
             {
               "node_type": "item",
               "title": "A Geometric Analysis of Neural Collapse with Unconstrained Features. [paper]",
-              "description": "[code]",
+              "description": "tding1/Neural-Collapse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -876,7 +876,7 @@
             {
               "node_type": "item",
               "title": "Exploring Deep Neural Networks via Layer-Peeled Model: Minority Collapse in Imbalanced Training. [paper]",
-              "description": "[code]",
+              "description": "HornHehhf/LPM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -904,7 +904,7 @@
             {
               "node_type": "item",
               "title": "Prevalence of Neural Collapse during the terminal phase of deep learning training. [paper]",
-              "description": "[code]",
+              "description": "xyhan-github/neuralcollapse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -938,7 +938,7 @@
             {
               "node_type": "item",
               "title": "Unifying Grokking and Double Descent. [paper]",
-              "description": "[code]",
+              "description": "xanderdavies/unifying-grok-dd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -966,7 +966,7 @@
             {
               "node_type": "item",
               "title": "Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective. [paper]",
-              "description": "[code]",
+              "description": "somepago/dbViz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -995,7 +995,7 @@
             {
               "node_type": "item",
               "title": "Sparse Double Descent: Where Network Pruning Aggravates Overfitting. [paper]",
-              "description": "[code]",
+              "description": "he-zh/sparse-double-descent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1016,7 +1016,7 @@
             {
               "node_type": "item",
               "title": "Phenomenology of Double Descent in Finite-Width Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "sidak/double-descent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1050,7 +1050,7 @@
             {
               "node_type": "item",
               "title": "Multi-scale Feature Learning Dynamics: Insights for Double Descent. [paper]",
-              "description": "[code]",
+              "description": "NNdoubledescent/doubledescent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1078,7 +1078,7 @@
             {
               "node_type": "item",
               "title": "Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [paper]",
-              "description": "[code]",
+              "description": "google-research/rigl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1104,7 +1104,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Bias-Variance Trade-off for Generalization of Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "yaodongyu/Rethink-BiasVariance-Tradeoff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1127,7 +1127,7 @@
             {
               "node_type": "item",
               "title": "Early Stopping in Deep Networks: Double Descent and How to Eliminate it. [paper]",
-              "description": "[code]",
+              "description": "MLI-lab/early_stopping_double_descent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1148,7 +1148,7 @@
             {
               "node_type": "item",
               "title": "Double Trouble in Double Descent : Bias and Variance(s) in the Lazy Regime. [paper]",
-              "description": "[code]",
+              "description": "lightonai/double-trouble-in-double-descent",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1174,7 +1174,7 @@
             {
               "node_type": "item",
               "title": "Triple descent and the two kinds of overfitting: Where & why do they appear? [paper]",
-              "description": "[code]",
+              "description": "sdascoli/triple-descent-paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,7 +1208,7 @@
             {
               "node_type": "item",
               "title": "Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning. [paper]",
-              "description": "[code]",
+              "description": "MingSun-Tse/Why-the-State-of-Pruning-so-Confusing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1234,7 +1234,7 @@
             {
               "node_type": "item",
               "title": "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together! [paper]",
-              "description": "[code]",
+              "description": "VITA-Group/SMC-Bench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1262,7 +1262,7 @@
             {
               "node_type": "item",
               "title": "Pruning Deep Neural Networks from a Sparsity Perspective. [paper]",
-              "description": "[code]",
+              "description": "diaoenmao/Pruning-Deep-Neural-Networks-from-a-Sparsity-Perspective",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1290,7 +1290,7 @@
             {
               "node_type": "item",
               "title": "NTK-SAP: Improving neural network pruning by aligning training dynamics. [paper]",
-              "description": "[code]",
+              "description": "YiteWang/NTK-SAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1318,7 +1318,7 @@
             {
               "node_type": "item",
               "title": "Finding Dynamics Preserving Adversarial Winning Tickets. [paper]",
-              "description": "[code]",
+              "description": "google/neural-tangents",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1353,7 +1353,7 @@
             {
               "node_type": "item",
               "title": "Dual Lottery Ticket Hypothesis. [paper]",
-              "description": "[code]",
+              "description": "yueb17/DLTH",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1374,7 +1374,7 @@
             {
               "node_type": "item",
               "title": "Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable. [paper]",
-              "description": "[code]",
+              "description": "VITA-Group/Audio-Lottery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1402,7 +1402,7 @@
             {
               "node_type": "item",
               "title": "SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning. [paper]",
-              "description": "[code]",
+              "description": "GATECH-EIC/SuperTickets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1426,7 +1426,7 @@
             {
               "node_type": "item",
               "title": "Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions. [paper]",
-              "description": "[code]",
+              "description": "henryzhongsc/lottery_regulated_grouped_kernel_pruning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1453,7 +1453,7 @@
             {
               "node_type": "item",
               "title": "Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks. [paper]",
-              "description": "[code]",
+              "description": "mansheej/lth_diet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1474,7 +1474,7 @@
             {
               "node_type": "item",
               "title": "Data-Efficient Double-Win Lottery Tickets from Robust Pre-training. [paper]",
-              "description": "[code]",
+              "description": "VITA-Group/Double-Win-LTH",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,7 +1511,7 @@
             {
               "node_type": "item",
               "title": "Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network. [paper]",
-              "description": "[code]",
+              "description": "chrundle/biprop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1537,7 +1537,7 @@
             {
               "node_type": "item",
               "title": "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training. [paper]",
-              "description": "[code]",
+              "description": "Shiweiliuiiiiiii/In-Time-Over-Parameterization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,7 +1568,7 @@
             {
               "node_type": "item",
               "title": "How many degrees of freedom do we need to train deep networks: a loss landscape perspective. [paper]",
-              "description": "[code]",
+              "description": "ganguli-lab/degrees-of-freedom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1589,7 +1589,7 @@
             {
               "node_type": "item",
               "title": "Efficient Lottery Ticket Finding: Less Data is More. [paper]",
-              "description": "[code]",
+              "description": "VITA-Group/PrAC-LTH",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1617,7 +1617,7 @@
             {
               "node_type": "item",
               "title": "Plant 'n' Seek: Can You Find the Winning Ticket? [paper]",
-              "description": "[code]",
+              "description": "RelationalML/PlantNSeek",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1640,7 +1640,7 @@
             {
               "node_type": "item",
               "title": "On the Existence of Universal Lottery Tickets. [paper]",
-              "description": "[code]",
+              "description": "RelationalML/UniversalLT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1670,7 +1670,7 @@
             {
               "node_type": "item",
               "title": "The Early Phase of Neural Network Training. [paper]",
-              "description": "[code]",
+              "description": "facebookresearch/open_lth",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1691,7 +1691,7 @@
             {
               "node_type": "item",
               "title": "What is the State of Neural Network Pruning? [paper]",
-              "description": "[code]",
+              "description": "JJGO/shrinkbench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1712,7 +1712,7 @@
             {
               "node_type": "item",
               "title": "Pruning neural networks without any data by iteratively conserving synaptic flow. [paper]",
-              "description": "[code]",
+              "description": "ganguli-lab/Synaptic-Flow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1733,7 +1733,7 @@
             {
               "node_type": "item",
               "title": "Picking Winning Tickets Before Training by Preserving Gradient Flow. [paper]",
-              "description": "[code]",
+              "description": "alecwangcq/GraSP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1761,7 +1761,7 @@
             {
               "node_type": "item",
               "title": "Comparing Rewinding and Fine-tuning in Neural Network Pruning. [paper]",
-              "description": "[code]",
+              "description": "lottery-ticket/rewinding-iclr20-public",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1782,7 +1782,7 @@
             {
               "node_type": "item",
               "title": "Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot. [paper]",
-              "description": "[code]",
+              "description": "JingtongSu/sanity-checking-pruning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1803,7 +1803,7 @@
             {
               "node_type": "item",
               "title": "Lookahead: A Far-Sighted Alternative of Magnitude-based Pruning. [paper]",
-              "description": "[code]",
+              "description": "alinlab/lookahead_pruning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1826,7 +1826,7 @@
             {
               "node_type": "item",
               "title": "Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection. [paper]",
-              "description": "[code]",
+              "description": "lushleaf/Network-Pruning-Greedy-Forward-Selection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1847,7 +1847,7 @@
             {
               "node_type": "item",
               "title": "A Gradient Flow Framework For Analyzing Network Pruning. [paper]",
-              "description": "[code]",
+              "description": "EkdeepSLubana/flowandprune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1868,7 +1868,7 @@
             {
               "node_type": "item",
               "title": "Progressive Skeletonization: Trimming more fat from a network at initialization. [paper]",
-              "description": "[code]",
+              "description": "naver/force",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1889,7 +1889,7 @@
             {
               "node_type": "item",
               "title": "Finding trainable sparse networks through Neural Tangent Transfer. [paper]",
-              "description": "[code]",
+              "description": "fmi-basel/neural-tangent-transfer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,7 +1910,7 @@
             {
               "node_type": "item",
               "title": "ESPN: Extremely Sparse Pruned Networks. [paper]",
-              "description": "[code]",
+              "description": "chomd90/extreme_sparse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1931,7 +1931,7 @@
             {
               "node_type": "item",
               "title": "PHEW: Constructing Sparse Networks that Learn Fast and Generalize Well without Training Data. [paper]",
-              "description": "[code]",
+              "description": "ShreyasMalakarjunPatil/PHEW",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1959,7 +1959,7 @@
             {
               "node_type": "item",
               "title": "Rigging the Lottery: Making All Tickets Winners. [paper]",
-              "description": "[code]",
+              "description": "google-research/rigl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1985,7 +1985,7 @@
             {
               "node_type": "item",
               "title": "The State of Sparsity in Deep Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "bayesgroup/variational-dropout-sparsifies-dnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2010,7 +2010,7 @@
             {
               "node_type": "item",
               "title": "What's Hidden in a Randomly Weighted Neural Network? [paper]",
-              "description": "[code]",
+              "description": "allenai/hidden-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2031,7 +2031,7 @@
             {
               "node_type": "item",
               "title": "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask. [paper]",
-              "description": "[code]",
+              "description": "uber-research/deconstructing-lottery-tickets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2052,7 +2052,7 @@
             {
               "node_type": "item",
               "title": "Drawing Early-Bird Tickets: Towards More Efficient Training of Deep Networks. [paper]",
-              "description": "[code]",
+              "description": "GATECH-EIC/Early-Bird-Tickets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2073,7 +2073,7 @@
             {
               "node_type": "item",
               "title": "A Signal Propagation Perspective for Pruning Neural Networks at Initialization. [paper]",
-              "description": "[code]",
+              "description": "namhoonlee/spp-public",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2101,7 +2101,7 @@
             {
               "node_type": "item",
               "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "google-research/lottery-ticket-hypothesis",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2122,7 +2122,7 @@
             {
               "node_type": "item",
               "title": "SNIP: Single-shot Network Pruning based on Connection Sensitivity. [paper]",
-              "description": "[code]",
+              "description": "namhoonlee/snip-public",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2158,7 +2158,7 @@
             {
               "node_type": "item",
               "title": "Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets. [paper]",
-              "description": "[code]",
+              "description": "openai/grok",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4261,
+                "stars": 4262,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2179,7 +2179,7 @@
             {
               "node_type": "item",
               "title": "Feature learning in neural networks and kernel machines that recursively learn features. [paper]",
-              "description": "[code]",
+              "description": "aradha/recursive_feature_machines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2200,7 +2200,7 @@
             {
               "node_type": "item",
               "title": "Broken Neural Scaling Laws. [paper]",
-              "description": "[code]",
+              "description": "ethancaballero/broken_neural_scaling_laws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2221,7 +2221,7 @@
             {
               "node_type": "item",
               "title": "How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization. [paper]",
-              "description": "[code]",
+              "description": "JonasGeiping/dataaugs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2249,7 +2249,7 @@
             {
               "node_type": "item",
               "title": "Explaining Neural Scaling Laws. [paper]",
-              "description": "[code]",
+              "description": "google/neural-tangents",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2297,7 +2297,7 @@
             {
               "node_type": "item",
               "title": "Finding Neurons in a Haystack: Case Studies with Sparse Probing. [paper]",
-              "description": "[code]",
+              "description": "wesg52/sparse-probing-paper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2330,7 +2330,7 @@
             {
               "node_type": "item",
               "title": "The developmental trajectory of object recognition robustness: children are like small adults but unlike big deep neural networks. [paper]",
-              "description": "[code]",
+              "description": "wichmann-lab/robustness-development",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2351,7 +2351,7 @@
             {
               "node_type": "item",
               "title": "Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks. [paper]",
-              "description": "[code]",
+              "description": "anneharrington/Adversarially-Robust-Periphery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2379,7 +2379,7 @@
             {
               "node_type": "item",
               "title": "Partial success in closing the gap between human and machine vision. [paper]",
-              "description": "[code]",
+              "description": "bethgelab/model-vs-human",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2413,7 +2413,7 @@
             {
               "node_type": "item",
               "title": "Shape-Texture Debiased Neural Network Training. [paper]",
-              "description": "[code]",
+              "description": "LiYingwei/ShapeTextureDebiasedTraining",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2440,7 +2440,7 @@
             {
               "node_type": "item",
               "title": "Shortcut Learning in Deep Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "rgeirhos/shortcut-perspective",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2468,7 +2468,7 @@
             {
               "node_type": "item",
               "title": "Beyond accuracy: quantifying trial-by-trial behaviour of CNNs and humans by measuring error consistency. [paper]",
-              "description": "[code]",
+              "description": "wichmann-lab/error-consistency",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2495,7 +2495,7 @@
             {
               "node_type": "item",
               "title": "Five Points to Check when Comparing Visual Perception in Humans and Machines. [paper]",
-              "description": "[code]",
+              "description": "bethgelab/notorious_difficulty_of_comparing_human_and_machine_perception",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2516,7 +2516,7 @@
             {
               "node_type": "item",
               "title": "On 1/n neural representation and robustness. [paper]",
-              "description": "[code]",
+              "description": "josuenassar/power_law",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2544,7 +2544,7 @@
             {
               "node_type": "item",
               "title": "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs. [paper]",
-              "description": "[code]",
+              "description": "ganguli-lab/RetinalResources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2565,7 +2565,7 @@
             {
               "node_type": "item",
               "title": "White Noise Analysis of Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "aliborji/WhiteNoiseAnalysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2593,7 +2593,7 @@
             {
               "node_type": "item",
               "title": "ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [paper]",
-              "description": "[code]",
+              "description": "rgeirhos/Stylized-ImageNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2621,7 +2621,7 @@
             {
               "node_type": "item",
               "title": "Generalisation in humans and deep neural networks. [paper]",
-              "description": "[code]",
+              "description": "rgeirhos/generalisation-humans-DNNs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2655,7 +2655,7 @@
             {
               "node_type": "item",
               "title": "Comparing deep neural networks against humans: object recognition when the signal gets weaker. [paper]",
-              "description": "[code]",
+              "description": "rgeirhos/object-recognition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2694,7 +2694,7 @@
             {
               "node_type": "item",
               "title": "PAC-Bayes Information Bottleneck. [paper]",
-              "description": "[code]",
+              "description": "RyanWangZf/PAC-Bayes-IB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2717,7 +2717,7 @@
             {
               "node_type": "item",
               "title": "Compressive Visual Representations. [paper]",
-              "description": "[code]",
+              "description": "google-research/compressive-visual-representations",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2744,7 +2744,7 @@
             {
               "node_type": "item",
               "title": "Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization. [paper]",
-              "description": "[code]",
+              "description": "ahujak/IB-IRM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2765,7 +2765,7 @@
             {
               "node_type": "item",
               "title": "Information Bottleneck: Exact Analysis of (Quantized) Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "StephanLorenzen/ExactIBAnalysisInQNNs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2793,7 +2793,7 @@
             {
               "node_type": "item",
               "title": "Concept Bottleneck Models. [paper]",
-              "description": "[code]",
+              "description": "yewsiang/ConceptBottleneck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2822,7 +2822,7 @@
             {
               "node_type": "item",
               "title": "Graph Information Bottleneck. [paper]",
-              "description": "[code]",
+              "description": "snap-stanford/GIB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2849,7 +2849,7 @@
             {
               "node_type": "item",
               "title": "Restricting the Flow: Information Bottlenecks for Attribution. [paper]",
-              "description": "[code]",
+              "description": "BioroboticsLab/IBA-paper-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2870,7 +2870,7 @@
             {
               "node_type": "item",
               "title": "Learning Optimal Representations with the Decodable Information Bottleneck. [paper]",
-              "description": "[code]",
+              "description": "YannDubs/Mini_Decodable_Information_Bottleneck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2898,7 +2898,7 @@
             {
               "node_type": "item",
               "title": "On the Information Bottleneck Theory of Deep Learning. [paper]",
-              "description": "[code]",
+              "description": "artemyk/ibsgd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2932,7 +2932,7 @@
             {
               "node_type": "item",
               "title": "Fast Finite Width Neural Tangent Kernel. [paper]",
-              "description": "[code]",
+              "description": "google/neural-tangents",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2974,7 +2974,7 @@
             {
               "node_type": "item",
               "title": "Neural Tangent Generalization Attacks. [paper]",
-              "description": "[code]",
+              "description": "lionelmessi6410/ntga",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3000,7 +3000,7 @@
             {
               "node_type": "item",
               "title": "A Neural Tangent Kernel Perspective of GANs. [paper]",
-              "description": "[code]",
+              "description": "emited/gantk2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3021,7 +3021,7 @@
             {
               "node_type": "item",
               "title": "On the Equivalence between Neural Network and Support Vector Machine. [paper]",
-              "description": "[code]",
+              "description": "yilanchen6/equiv-nn-svm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3042,7 +3042,7 @@
             {
               "node_type": "item",
               "title": "Reverse Engineering the Neural Tangent Kernel. [paper]",
-              "description": "[code]",
+              "description": "james-simon/reverse-engineering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3063,7 +3063,7 @@
             {
               "node_type": "item",
               "title": "An Empirical Study of Neural Kernel Bandits. [paper]",
-              "description": "[code]",
+              "description": "mlisicki/NeuralKernelBandits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3084,7 +3084,7 @@
             {
               "node_type": "item",
               "title": "Out-of-Distribution Generalization in Kernel Regression. [paper]",
-              "description": "[code]",
+              "description": "Pehlevan-Group/kernel-ood-generalization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3112,7 +3112,7 @@
             {
               "node_type": "item",
               "title": "Finite Versus Infinite Neural Networks: an Empirical Study. [paper]",
-              "description": "[code]",
+              "description": "google/neural-tangents",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3147,7 +3147,7 @@
             {
               "node_type": "item",
               "title": "Bayesian Deep Ensembles via the Neural Tangent Kernel. [paper]",
-              "description": "[code]",
+              "description": "bobby-he/bayesian-ntk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3189,7 +3189,7 @@
             {
               "node_type": "item",
               "title": "When Do Neural Networks Outperform Kernel Methods? [paper]",
-              "description": "[code]",
+              "description": "bGhorbani/linearized_neural_networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3217,7 +3217,7 @@
             {
               "node_type": "item",
               "title": "On Exact Computation with an Infinitely Wide Neural Net. [paper]",
-              "description": "[code]",
+              "description": "ruosongwang/CNTK",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3251,7 +3251,7 @@
             {
               "node_type": "item",
               "title": "Model-agnostic Measure of Generalization Difficulty. [paper]",
-              "description": "[code]",
+              "description": "FieteLab/inductive-bias-complexity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3272,7 +3272,7 @@
             {
               "node_type": "item",
               "title": "Strong inductive biases provably prevent harmless interpolation. [paper]",
-              "description": "[code]",
+              "description": "michaelaerni/iclr23-InductiveBiasesHarmlessInterpolation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3300,7 +3300,7 @@
             {
               "node_type": "item",
               "title": "How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders. [paper]",
-              "description": "[code]",
+              "description": "zhangq327/U-MAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3321,7 +3321,7 @@
             {
               "node_type": "item",
               "title": "PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization. [paper]",
-              "description": "[code]",
+              "description": "activatedgeek/tight-pac-bayes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3346,7 +3346,7 @@
             {
               "node_type": "item",
               "title": "Learning sparse features can lead to overfitting in neural networks. [paper]",
-              "description": "[code]",
+              "description": "pcsl-epfl/regressionsphere",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3382,7 +3382,7 @@
             {
               "node_type": "item",
               "title": "Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [paper]",
-              "description": "[code]",
+              "description": "OATML/non-parametric-transformers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3403,7 +3403,7 @@
             {
               "node_type": "item",
               "title": "Understanding Dimensional Collapse in Contrastive Self-supervised Learning. [paper]",
-              "description": "[code]",
+              "description": "facebookresearch/directclr",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3424,7 +3424,7 @@
             {
               "node_type": "item",
               "title": "MALI: A memory efficient and reverse accurate integrator for Neural ODEs. [paper]",
-              "description": "[code]",
+              "description": "juntang-zhuang/TorchDiffEqPack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3445,7 +3445,7 @@
             {
               "node_type": "item",
               "title": "Neural Controlled Differential Equations for Online Prediction Tasks. [paper]",
-              "description": "[code]",
+              "description": "jambo6/online-neural-cdes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3475,7 +3475,7 @@
             {
               "node_type": "item",
               "title": "Why Do Pretrained Language Models Help in Downstream Tasks? An Analysis of Head and Prompt Tuning. [paper]",
-              "description": "[code]",
+              "description": "sangmichaelxie/pretraining_analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3496,7 +3496,7 @@
             {
               "node_type": "item",
               "title": "Implicit Sparse Regularization: The Impact of Depth and Early Stopping. [paper]",
-              "description": "[code]",
+              "description": "jiangyuan-li/Implicit-Sparse-Regularization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3524,7 +3524,7 @@
             {
               "node_type": "item",
               "title": "Neural Controlled Differential Equations for Irregular Time Series. [paper]",
-              "description": "[code]",
+              "description": "patrick-kidger/NeuralCDE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3557,7 +3557,7 @@
             {
               "node_type": "item",
               "title": "Sharpness-Aware Minimization for Efficiently Improving Generalization. [paper]",
-              "description": "[code]",
+              "description": "google-research/sam",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3578,7 +3578,7 @@
             {
               "node_type": "item",
               "title": "Deep Networks from the Principle of Rate Reduction. [paper]",
-              "description": "[code]",
+              "description": "Ma-Lab-Berkeley/ReduNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3601,7 +3601,7 @@
             {
               "node_type": "item",
               "title": "Neural Rough Differential Equations for Long Time Series. [paper]",
-              "description": "[code]",
+              "description": "jambo6/neuralRDEs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3633,7 +3633,7 @@
             {
               "node_type": "item",
               "title": "Dissecting Neural ODEs. [paper]",
-              "description": "[code]",
+              "description": "DiffEqML/diffeqml-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3661,7 +3661,7 @@
             {
               "node_type": "item",
               "title": "Understanding the Failure Modes of Out-of-Distribution Generalization. [paper]",
-              "description": "[code]",
+              "description": "google-research/OOD-failures",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3682,7 +3682,7 @@
             {
               "node_type": "item",
               "title": "Optimizing Mode Connectivity via Neuron Alignment. [paper]",
-              "description": "[code]",
+              "description": "IBM/NeuronAlignment",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3703,7 +3703,7 @@
             {
               "node_type": "item",
               "title": "Relative Flatness and Generalization. [paper]",
-              "description": "[code]",
+              "description": "kampmichael/RelativeFlatnessAndGeneralization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3731,7 +3731,7 @@
             {
               "node_type": "item",
               "title": "Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent. [paper]",
-              "description": "[code]",
+              "description": "google/neural-tangents",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3766,7 +3766,7 @@
             {
               "node_type": "item",
               "title": "Augmented Neural ODEs. [paper]",
-              "description": "[code]",
+              "description": "EmilienDupont/augmented-neural-odes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3787,7 +3787,7 @@
             {
               "node_type": "item",
               "title": "Superposition of many models into one. [paper]",
-              "description": "[code]",
+              "description": "briancheung/superposition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3808,7 +3808,7 @@
             {
               "node_type": "item",
               "title": "Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective. [paper]",
-              "description": "[code]",
+              "description": "ghliu/mean-field-fcdnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3829,7 +3829,7 @@
             {
               "node_type": "item",
               "title": "Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "cwein3/large-lr-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3857,7 +3857,7 @@
             {
               "node_type": "item",
               "title": "Neural Ordinary Differential Equations. [paper]",
-              "description": "[code]",
+              "description": "rtqichen/torchdiffeq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3878,7 +3878,7 @@
             {
               "node_type": "item",
               "title": "Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem. [paper]",
-              "description": "[code]",
+              "description": "max-andr/relu_networks_overconfident",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3899,7 +3899,7 @@
             {
               "node_type": "item",
               "title": "Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "bneyshabur/over-parametrization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3923,7 +3923,7 @@
             {
               "node_type": "item",
               "title": "Gaussian Process Behaviour in Wide Deep Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "widedeepnetworks/widedeepnetworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3944,7 +3944,7 @@
             {
               "node_type": "item",
               "title": "Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks. [paper]",
-              "description": "[code]",
+              "description": "brain-research/mean-field-cnns",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3965,7 +3965,7 @@
             {
               "node_type": "item",
               "title": "Deep Convolutional Networks as shallow Gaussian Processes. [paper]",
-              "description": "[code]",
+              "description": "convnets-as-gps/convnets-as-gps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3986,7 +3986,7 @@
             {
               "node_type": "item",
               "title": "Generalization in Machine Learning via Analytical Learning Theory. [paper]",
-              "description": "[code]",
+              "description": "Learning-and-Intelligent-Systems/Analytical-Learning-Theory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4013,7 +4013,7 @@
             {
               "node_type": "item",
               "title": "On Lazy Training in Differentiable Programming. [paper]",
-              "description": "[code]",
+              "description": "edouardoyallon/lazy-training-CNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4041,7 +4041,7 @@
             {
               "node_type": "item",
               "title": "Exploring Generalization in Deep Learning. [paper]",
-              "description": "[code]",
+              "description": "bneyshabur/generalization-bounds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4069,7 +4069,7 @@
             {
               "node_type": "item",
               "title": "Exponential expressivity in deep neural networks through transient chaos. [paper]",
-              "description": "[code]",
+              "description": "ganguli-lab/deepchaos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4101,7 +4101,7 @@
         {
           "node_type": "item",
           "title": "Awesome Information Bottleneck Paper List",
-          "description": null,
+          "description": "ZIYU-DEEP/Awesome-Information-Bottleneck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4129,7 +4129,7 @@
         {
           "node_type": "item",
           "title": "Awesome Trustworthy Deep Learning",
-          "description": null,
+          "description": "MinghuiChen43/awesome-trustworthy-deep-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4171,7 +4171,7 @@
         {
           "node_type": "item",
           "title": "Awesome Feature Learning in Deep Learning Theory",
-          "description": null,
+          "description": "WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4192,7 +4192,7 @@
         {
           "node_type": "item",
           "title": "Neural Tangent Kernel Papers",
-          "description": null,
+          "description": "kwignb/NeuralTangentKernel-Papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:57:48.024Z",
+    "last_updated": "2026-10-03T04:39:32.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
