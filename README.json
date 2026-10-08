@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10921,
+                "stars": 10923,
                 "topics": [
                   "ai",
                   "google",
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4262,
+                "stars": 4264,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3867,7 +3867,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 104,
+                "open_issues": 105,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6483,
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:33:53.708Z",
+    "last_updated": "2026-10-08T21:29:44.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
