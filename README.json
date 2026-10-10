@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10925,
+                "stars": 10924,
                 "topics": [
                   "ai",
                   "google",
@@ -337,7 +337,7 @@
                 "open_issues": 9,
                 "owner": "allenai",
                 "repo": "cartography",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4264,
+                "stars": 4267,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4142,7 +4142,7 @@
             "open_issues": 0,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "adversarial-machine-learning",
               "ai-alignment",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:15:38.178Z",
+    "last_updated": "2026-10-10T20:19:10.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
