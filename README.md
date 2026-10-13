@@ -276,7 +276,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Dataset Difficulty Measures; Information Theory.
   * <details><summary>Digest</summary> Estimating the difficulty of a dataset typically involves comparing state-of-the-art models to humans; the bigger the performance gap, the harder the dataset is said to be. However, this comparison provides little understanding of how difficult each instance in a given distribution is, or what attributes make the dataset difficult for a given model. To address these questions, we frame dataset difficulty -- w.r.t. a model V -- as the lack of V-usable information (Xu et al., 2019), where a lower value indicates a more difficult dataset for V. We further introduce pointwise V-information (PVI) for measuring the difficulty of individual instances w.r.t. a given distribution.
 
-* Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability. [\[paper\]](https://arxiv.org/abs/2103.00065) [\[code\]](https://github.com/locuslab/edge-of-stability) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2024-12-07
+* Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability. [\[paper\]](https://arxiv.org/abs/2103.00065) [\[code\]](https://github.com/locuslab/edge-of-stability) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2024-12-07
   * Jeremy M. Cohen, Simran Kaur, Yuanzhi Li, J. Zico Kolter, Ameet Talwalkar. *ICLR 2021*
   * Key Word: Edge of Stability.
   * <details><summary>Digest</summary> We empirically demonstrate that full-batch gradient descent on neural network training objectives typically operates in a regime we call the Edge of Stability. In this regime, the maximum eigenvalue of the training loss Hessian hovers just above the numerical value 2/(step size), and the training loss behaves non-monotonically over short timescales, yet consistently decreases over long timescales. Since this behavior is inconsistent with several widespread presumptions in the field of optimization, our findings raise questions as to whether these presumptions are relevant to neural network training. 
@@ -604,7 +604,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Neural Collapse: 2021
 
-* A Geometric Analysis of Neural Collapse with Unconstrained Features. [\[paper\]](https://arxiv.org/abs/2105.02375) [\[code\]](https://github.com/tding1/Neural-Collapse) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2022-07-19
+* A Geometric Analysis of Neural Collapse with Unconstrained Features. [\[paper\]](https://arxiv.org/abs/2105.02375) [\[code\]](https://github.com/tding1/Neural-Collapse) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2022-07-19
   * Zhihui Zhu, Tianyu Ding, Jinxin Zhou, Xiao Li, Chong You, Jeremias Sulam, Qing Qu. *NeurIPS 2021*
   * Key Word: Neural Collapse, Nonconvex Optimization.
   * <details><summary>Digest</summary> We provide the first global optimization landscape analysis of Neural Collapse -- an intriguing empirical phenomenon that arises in the last-layer classifiers and features of neural networks during the terminal phase of training. As recently reported by Papyan et al., this phenomenon implies that (i) the class means and the last-layer classifiers all collapse to the vertices of a Simplex Equiangular Tight Frame (ETF) up to scaling, and (ii) cross-example within-class variability of last-layer activations collapses to zero. We study the problem based on a simplified unconstrained feature model, which isolates the topmost layers from the classifier of the neural network.
@@ -2694,7 +2694,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2021
 
-* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 416 | 🐛 0 | 🌐 Python | 📅 2024-03-21
+* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 417 | 🐛 0 | 🌐 Python | 📅 2024-03-21
   * Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal. *NeurIPS 2021*
   * Key Word: Samplie-Wise Self-Attention; Meta Learning; Metric Learning.
   * <details><summary>Digest</summary> We challenge a common assumption underlying most supervised deep learning: that a model makes a prediction depending only on its parameters and the features of a single input. To this end, we introduce a general-purpose deep learning architecture that takes as input the entire dataset instead of processing one datapoint at a time. Our approach uses self-attention to reason about relationships between datapoints explicitly, which can be seen as realizing non-parametric models using parametric attention mechanisms.
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,489 | 🐛 105 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,490 | 🐛 105 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

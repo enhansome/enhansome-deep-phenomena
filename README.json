@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8362,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -288,7 +288,7 @@
                 "open_issues": 1,
                 "owner": "locuslab",
                 "repo": "edge-of-stability",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -868,7 +868,7 @@
                 "open_issues": 2,
                 "owner": "tding1",
                 "repo": "Neural-Collapse",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3395,7 +3395,7 @@
                 "open_issues": 0,
                 "owner": "OATML",
                 "repo": "non-parametric-transformers",
-                "stars": 416,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3870,7 +3870,7 @@
                 "open_issues": 105,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6489,
+                "stars": 6490,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:13:01.292Z",
+    "last_updated": "2026-10-13T21:32:25.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
