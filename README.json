@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10925,
+                "stars": 10927,
                 "topics": [
                   "ai",
                   "google",
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8362,
+                "stars": 8361,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -1331,7 +1331,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4266,
+                "stars": 4267,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2262,7 +2262,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -2945,7 +2945,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3125,7 +3125,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3744,7 +3744,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -3867,7 +3867,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6490,
@@ -3978,7 +3978,7 @@
                 "open_issues": 0,
                 "owner": "convnets-as-gps",
                 "repo": "convnets-as-gps",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:19:30.759Z",
+    "last_updated": "2026-10-15T20:02:12.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
