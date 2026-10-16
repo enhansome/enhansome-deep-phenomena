@@ -2806,7 +2806,7 @@
                 "open_issues": 11,
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "computer-vision",
                   "concept-bottleneck-models",
@@ -3867,7 +3867,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6490,
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:02:12.124Z",
+    "last_updated": "2026-10-16T19:41:49.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
