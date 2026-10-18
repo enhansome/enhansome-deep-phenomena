@@ -21,7 +21,7 @@
                 "open_issues": 111,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10928,
+                "stars": 10927,
                 "topics": [
                   "ai",
                   "google",
@@ -836,7 +836,7 @@
                 "open_issues": 2,
                 "owner": "NeuralCollapseApplications",
                 "repo": "FSCIL",
-                "stars": 94,
+                "stars": 95,
                 "topics": [
                   "class-incremental-learning",
                   "few-shot-learning",
@@ -3870,7 +3870,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6490,
+                "stars": 6491,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T18:49:33.694Z",
+    "last_updated": "2026-10-18T18:56:19.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
