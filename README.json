@@ -18,7 +18,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-24T18:11:40Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "google",
                 "repo": "dopamine",
                 "stars": 10927,
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4267,
+                "stars": 4266,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2806,7 +2806,7 @@
                 "open_issues": 11,
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "computer-vision",
                   "concept-bottleneck-models",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:56:19.548Z",
+    "last_updated": "2026-10-19T21:14:26.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
