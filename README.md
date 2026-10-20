@@ -1487,7 +1487,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2021
 
-* Partial success in closing the gap between human and machine vision. [\[paper\]](https://arxiv.org/abs/2106.07411) [\[code\]](https://github.com/bethgelab/model-vs-human) ⭐ 363 | 🐛 4 | 🌐 Python | 📅 2025-04-17
+* Partial success in closing the gap between human and machine vision. [\[paper\]](https://arxiv.org/abs/2106.07411) [\[code\]](https://github.com/bethgelab/model-vs-human) ⭐ 364 | 🐛 4 | 🌐 Python | 📅 2025-04-17
   * Robert Geirhos, Kantharaju Narayanappa, Benjamin Mitzkus, Tizian Thieringer, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *NeurIPS 2021*
   * Key Word: Out-of-Distribution Generalization; Psychophysical Experiments.
   * <details><summary>Digest</summary> A few years ago, the first CNN surpassed human performance on ImageNet. However, it soon became clear that machines lack robustness on more challenging test cases, a major obstacle towards deploying machines "in the wild" and towards obtaining better computational models of human visual perception. Here we ask: Are we making progress in closing the gap between human and machine vision? To answer this question, we tested human observers on a broad range of out-of-distribution (OOD) datasets, recording 85,120 psychophysical trials across 90 participants.
@@ -1541,7 +1541,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2019
 
-* A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs. [\[paper\]](https://arxiv.org/abs/1901.00945) [\[code\]](https://github.com/ganguli-lab/RetinalResources) ⭐ 49 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-01-07
+* A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs. [\[paper\]](https://arxiv.org/abs/1901.00945) [\[code\]](https://github.com/ganguli-lab/RetinalResources) ⭐ 50 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-01-07
   * Jack Lindsey, Samuel A. Ocko, Surya Ganguli, Stephane Deny. *ICLR 2019*
   * Key Word: Visual System; Convolutional Neural Networks; Efficient Coding; Retina.
   * <details><summary>Digest</summary> There is currently no unified theory explaining these differences in representations across layers. Here, using a deep convolutional neural network trained on image recognition as a model of the visual system, we show that such differences in representation can emerge as a direct consequence of different neural resource constraints on the retinal and cortical networks, and we find a single model from which both geometries spontaneously emerge at the appropriate stages of visual processing. The key constraint is a reduced number of neurons at the retinal output, consistent with the anatomy of the optic nerve as a stringent bottleneck.
@@ -2786,7 +2786,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
 
-* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 647 | 🐛 29 | 🌐 Python | 📅 2026-07-24
+* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 646 | 🐛 29 | 🌐 Python | 📅 2026-07-24
   * Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur. *ICLR 2021*
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,491 | 🐛 107 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,490 | 🐛 107 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

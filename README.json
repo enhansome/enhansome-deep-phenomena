@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8360,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2392,7 +2392,7 @@
                 "open_issues": 4,
                 "owner": "bethgelab",
                 "repo": "model-vs-human",
-                "stars": 363,
+                "stars": 364,
                 "topics": [
                   "benchmark",
                   "pytorch",
@@ -2557,7 +2557,7 @@
                 "open_issues": 0,
                 "owner": "ganguli-lab",
                 "repo": "RetinalResources",
-                "stars": 49,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3570,7 +3570,7 @@
                 "open_issues": 29,
                 "owner": "google-research",
                 "repo": "sam",
-                "stars": 647,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3870,7 +3870,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6490,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:14:26.672Z",
+    "last_updated": "2026-10-20T20:07:46.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
