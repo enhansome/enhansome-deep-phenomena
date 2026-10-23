@@ -21,7 +21,7 @@
                 "open_issues": 112,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10926,
+                "stars": 10927,
                 "topics": [
                   "ai",
                   "google",
@@ -2023,7 +2023,7 @@
                 "open_issues": 8,
                 "owner": "allenai",
                 "repo": "hidden-networks",
-                "stars": 198,
+                "stars": 197,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4265,
+                "stars": 4266,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3870,7 +3870,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6490,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:17:29.322Z",
+    "last_updated": "2026-10-23T20:04:44.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
