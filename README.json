@@ -21,7 +21,7 @@
                 "open_issues": 112,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10928,
+                "stars": 10929,
                 "topics": [
                   "ai",
                   "google",
@@ -3870,7 +3870,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6492,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:59:28.650Z",
+    "last_updated": "2026-10-25T19:14:56.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
