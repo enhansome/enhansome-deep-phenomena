@@ -705,7 +705,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Deep Double Descent: 2020
 
-* Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [\[paper\]](https://arxiv.org/abs/2010.03533) [\[code\]](https://github.com/google-research/rigl) ⭐ 340 | 🐛 0 | 🌐 Python | 📅 2023-01-26
+* Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [\[paper\]](https://arxiv.org/abs/2010.03533) [\[code\]](https://github.com/google-research/rigl) ⭐ 341 | 🐛 0 | 🌐 Python | 📅 2023-01-26
   * Utku Evci, Yani A. Ioannou, Cem Keskin, Yann Dauphin. *AAAI 2020*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> Sparse Neural Networks (NNs) can match the generalization of dense NNs using a fraction of the compute/storage for inference, and also have the potential to enable efficient training. However, naively training unstructured sparse NNs from random initialization results in significantly worse generalization, with the notable exceptions of Lottery Tickets (LTs) and Dynamic Sparse Training (DST). Through our analysis of gradient flow during training we attempt to answer: (1) why training unstructured sparse networks from random initialization performs poorly and; (2) what makes LTs and DST the exceptions?
@@ -1102,7 +1102,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Lottery Ticket Hypothesis: 2019
 
-* Rigging the Lottery: Making All Tickets Winners. [\[paper\]](https://arxiv.org/abs/1911.11134) [\[code\]](https://github.com/google-research/rigl) ⭐ 340 | 🐛 0 | 🌐 Python | 📅 2023-01-26
+* Rigging the Lottery: Making All Tickets Winners. [\[paper\]](https://arxiv.org/abs/1911.11134) [\[code\]](https://github.com/google-research/rigl) ⭐ 341 | 🐛 0 | 🌐 Python | 📅 2023-01-26
   * Utku Evci, Trevor Gale, Jacob Menick, Pablo Samuel Castro, Erich Elsen. *ICML 2020*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> We introduce a method to train sparse neural networks with a fixed parameter count and a fixed computational cost throughout training, without sacrificing accuracy relative to existing dense-to-sparse training methods. Our method updates the topology of the sparse network during training by using parameter magnitudes and infrequent gradient calculations. We show that this approach requires fewer floating-point operations (FLOPs) to achieve a given level of accuracy compared to prior techniques.
@@ -2940,7 +2940,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,492 | 🐛 107 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,492 | 🐛 108 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3177,4 +3177,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

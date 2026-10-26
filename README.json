@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8359,
+                "stars": 8360,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -1091,7 +1091,7 @@
                 "open_issues": 0,
                 "owner": "google-research",
                 "repo": "rigl",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -1972,7 +1972,7 @@
                 "open_issues": 0,
                 "owner": "google-research",
                 "repo": "rigl",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -3867,7 +3867,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6492,
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:14:56.611Z",
+    "last_updated": "2026-10-26T21:11:24.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
