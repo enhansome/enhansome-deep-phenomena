@@ -21,7 +21,7 @@
                 "open_issues": 112,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10929,
+                "stars": 10928,
                 "topics": [
                   "ai",
                   "google",
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4267,
+                "stars": 4268,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2806,7 +2806,7 @@
                 "open_issues": 11,
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 262,
+                "stars": 261,
                 "topics": [
                   "computer-vision",
                   "concept-bottleneck-models",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:58:02.715Z",
+    "last_updated": "2026-10-28T21:19:05.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
