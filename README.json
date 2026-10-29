@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8360,
+                "stars": 8359,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2806,7 +2806,7 @@
                 "open_issues": 11,
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 261,
+                "stars": 262,
                 "topics": [
                   "computer-vision",
                   "concept-bottleneck-models",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:19:05.020Z",
+    "last_updated": "2026-10-29T21:25:30.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
