@@ -21,7 +21,7 @@
                 "open_issues": 112,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10928,
+                "stars": 10930,
                 "topics": [
                   "ai",
                   "google",
@@ -2310,7 +2310,7 @@
                 "open_issues": 2,
                 "owner": "wesg52",
                 "repo": "sparse-probing-paper",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "ai-alignment",
                   "ai-safety",
@@ -4138,11 +4138,11 @@
             "id": 280901730,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-11T02:58:26Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-30T18:13:18Z",
+            "open_issues": 0,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "adversarial-machine-learning",
               "ai-alignment",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:25:30.697Z",
+    "last_updated": "2026-10-30T21:01:48.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4223,8 +4223,8 @@
       "id": 274390643,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-18T14:48:11Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-30T18:14:31Z",
+      "open_issues": 0,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
       "stars": 411,
@@ -4244,7 +4244,7 @@
         "phase-transitions"
       ]
     },
-    "original_repository_sha": "65fd4e147a03f42223c555395a1f9a12764670eb",
+    "original_repository_sha": "bee23f767209dd3bc9108f16655c4709d87af6ed",
     "enhanced_repository": "enhansome/enhansome-deep-phenomena",
     "enhanced_repository_description": null,
     "title": "Awesome Deep Phenomena with stars"

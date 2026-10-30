@@ -43,6 +43,11 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2025
 
+* Correcting Mean Bias in Text Embeddings: A Refined Renormalization with Training-Free Improvements on MMTEB. [\[paper\]](https://arxiv.org/abs/2511.11041)
+  * Xingyu Ren, Youran Sun, Haoyu Liang.
+  * Key Word: Text Embeddings; Mean Bias; Representation Geometry; Training-Free Correction; MMTEB.
+  * <details><summary>Digest</summary> This paper finds that current sentence-embedding models add a near-constant mean vector to every output. It studies two training-free corrections: subtracting the mean, and projecting each embedding off the mean direction. A first-order error analysis shows that the projection cancels the parallel part of the mean-estimation error. Across 38 models on MMTEB, the projection gives consistent classification gains, with 29 models significant and no losses. An ablation over nine methods shows that removing one direction helps. Full PCA whitening hurts every tested model.</details>
+
 * Sharp Minima Can Generalize: A Loss Landscape Perspective On Data. [\[paper\]](https://arxiv.org/abs/2511.04808)
   * Raymond Fan, Bryce Sandlund, Lin Myat Ko.
   * Key Word: Loss Landscape; Sharp Minima; Generalization.
@@ -112,7 +117,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,928 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,930 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -1418,7 +1423,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2023
 
-* Finding Neurons in a Haystack: Case Studies with Sparse Probing. [\[paper\]](https://arxiv.org/abs/2305.01610) [\[code\]](https://github.com/wesg52/sparse-probing-paper) ⭐ 68 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-17
+* Finding Neurons in a Haystack: Case Studies with Sparse Probing. [\[paper\]](https://arxiv.org/abs/2305.01610) [\[code\]](https://github.com/wesg52/sparse-probing-paper) ⭐ 69 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-17
   * Wes Gurnee, Neel Nanda, Matthew Pauly, Katherine Harvey, Dmitrii Troitskii, Dimitris Bertsimas.
   * Key Word: Probing; Mechanistic Interpretability; Superposition; Sparse Coding.
   * <details><summary>Digest</summary> We seek to understand how high-level human-interpretable features are represented within the internal neuron activations of LLMs. We train k-sparse linear classifiers (probes) on these internal activations to predict the presence of features in the input; by varying the value of k we study the sparsity of learned representations and how this varies with model scale. With k=1, we localize individual neurons which are highly relevant for a particular feature, and perform a number of case studies to illustrate general properties of LLMs.
@@ -3148,7 +3153,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Information Bottleneck Paper List](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck) ⭐ 403 | 🐛 0 | 📅 2026-02-12 ![ ](https://img.shields.io/github/stars/ZIYU-DEEP/Awesome-Information-Bottleneck) ![ ](https://img.shields.io/github/last-commit/ZIYU-DEEP/Awesome-Information-Bottleneck)
 
-* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 395 | 🐛 1 | 📅 2026-08-11 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
+* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 396 | 🐛 0 | 📅 2026-10-30 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
 
 * [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 211 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
@@ -3177,4 +3182,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
