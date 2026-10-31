@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8359,
+                "stars": 8360,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4268,
+                "stars": 4266,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3537,7 +3537,7 @@
                 "open_issues": 4,
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
-                "stars": 722,
+                "stars": 723,
                 "topics": [
                   "controlled-differential-equations",
                   "deep-learning",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:01:48.015Z",
+    "last_updated": "2026-10-31T20:17:21.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4227,7 +4227,7 @@
       "open_issues": 0,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
-      "stars": 411,
+      "stars": 412,
       "topics": [
         "awesome-list",
         "deep-learning-theory",
