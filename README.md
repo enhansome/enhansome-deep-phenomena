@@ -1652,7 +1652,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Information Bottleneck: 2020
 
-* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 262 | 🐛 11 | 🌐 Python | 📅 2023-02-24
+* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 263 | 🐛 11 | 🌐 Python | 📅 2023-02-24
   * Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, Percy Liang. *ICML 2020*
   * Key Word: Information Bottleneck
   * <details><summary>Digest</summary> We seek to learn models that we can interact with using high-level concepts: if the model did not think there was a bone spur in the x-ray, would it still predict severe arthritis? State-of-the-art models today do not typically support the manipulation of concepts like "the existence of bone spurs", as they are trained end-to-end to go directly from raw input (e.g., pixels) to output (e.g., arthritis severity). We revisit the classic idea of first predicting concepts that are provided at training time, and then using these concepts to predict the label. By construction, we can intervene on these concept bottleneck models by editing their predicted concept values and propagating these changes to the final prediction.
@@ -3153,7 +3153,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Information Bottleneck Paper List](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck) ⭐ 403 | 🐛 0 | 📅 2026-02-12 ![ ](https://img.shields.io/github/stars/ZIYU-DEEP/Awesome-Information-Bottleneck) ![ ](https://img.shields.io/github/last-commit/ZIYU-DEEP/Awesome-Information-Bottleneck)
 
-* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 396 | 🐛 0 | 📅 2026-10-30 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
+* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 396 | 🐛 0 | 📅 2026-11-01 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
 
 * [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 211 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
@@ -3182,4 +3182,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

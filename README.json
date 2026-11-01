@@ -2114,7 +2114,7 @@
                 "open_issues": 13,
                 "owner": "google-research",
                 "repo": "lottery-ticket-hypothesis",
-                "stars": 730,
+                "stars": 731,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4266,
+                "stars": 4268,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2806,7 +2806,7 @@
                 "open_issues": 11,
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "computer-vision",
                   "concept-bottleneck-models",
@@ -4138,7 +4138,7 @@
             "id": 280901730,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-30T18:13:18Z",
+            "last_commit": "2026-11-01T15:36:02Z",
             "open_issues": 0,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:17:21.475Z",
+    "last_updated": "2026-11-01T20:49:20.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
