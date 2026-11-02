@@ -117,7 +117,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,930 | 🐛 112 | 🌐 Jupyter Notebook | 📅 2026-03-24
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,931 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-03-24
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -2821,7 +2821,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Mode Connectivity; Neuron Alignment; Adversarial Training.
   * <details><summary>Digest</summary> We propose a more general framework to investigate the effect of symmetry on landscape connectivity by accounting for the weight permutations of the networks being connected. To approximate the optimal permutation, we introduce an inexpensive heuristic referred to as neuron alignment. Neuron alignment promotes similarity between the distribution of intermediate activations of models along the curve. 
 
-* Relative Flatness and Generalization. [\[paper\]](https://arxiv.org/abs/2001.00939) [\[code\]](https://github.com/kampmichael/RelativeFlatnessAndGeneralization) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2024-05-14
+* Relative Flatness and Generalization. [\[paper\]](https://arxiv.org/abs/2001.00939) [\[code\]](https://github.com/kampmichael/RelativeFlatnessAndGeneralization) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-05-14
   * Henning Petzka, Michael Kamp, Linara Adilova, Cristian Sminchisescu, Mario Boley. *NeurIPS 2021*
   * Key Word: Relative Flatness; Loss Landscape.
   * <details><summary>Digest</summary> The paper investigates the connection between flatness, a property of the loss curve, and generalization ability in machine learning models, particularly neural networks, providing insights into the conditions under which this connection holds and introducing a novel relative flatness measure that correlates strongly with generalization and resolves the reparameterization issue. 
@@ -3182,4 +3182,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

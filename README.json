@@ -18,10 +18,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-24T18:11:40Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10930,
+                "stars": 10931,
                 "topics": [
                   "ai",
                   "google",
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8360,
+                "stars": 8359,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4268,
+                "stars": 4269,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3716,7 +3716,7 @@
                 "open_issues": 0,
                 "owner": "kampmichael",
                 "repo": "RelativeFlatnessAndGeneralization",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:49:20.516Z",
+    "last_updated": "2026-11-02T23:41:12.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
