@@ -1652,7 +1652,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Information Bottleneck: 2020
 
-* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 263 | 🐛 11 | 🌐 Python | 📅 2023-02-24
+* Concept Bottleneck Models. [\[paper\]](https://arxiv.org/abs/2007.04612) [\[code\]](https://github.com/yewsiang/ConceptBottleneck) ⭐ 264 | 🐛 11 | 🌐 Python | 📅 2023-02-24
   * Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, Percy Liang. *ICML 2020*
   * Key Word: Information Bottleneck
   * <details><summary>Digest</summary> We seek to learn models that we can interact with using high-level concepts: if the model did not think there was a bone spur in the x-ray, would it still predict severe arthritis? State-of-the-art models today do not typically support the manipulation of concepts like "the existence of bone spurs", as they are trained end-to-end to go directly from raw input (e.g., pixels) to output (e.g., arthritis severity). We revisit the classic idea of first predicting concepts that are provided at training time, and then using these concepts to predict the label. By construction, we can intervene on these concept bottleneck models by editing their predicted concept values and propagating these changes to the final prediction.
@@ -2791,12 +2791,12 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
 
-* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 646 | 🐛 29 | 🌐 Python | 📅 2026-07-24
+* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 647 | 🐛 29 | 🌐 Python | 📅 2026-07-24
   * Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur. *ICLR 2021*
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
 
-* Deep Networks from the Principle of Rate Reduction. [\[paper\]](https://arxiv.org/abs/2010.14765) [\[code\]](https://github.com/Ma-Lab-Berkeley/ReduNet) ⭐ 544 | 🐛 6 | 🌐 Python | 📅 2022-02-17
+* Deep Networks from the Principle of Rate Reduction. [\[paper\]](https://arxiv.org/abs/2010.14765) [\[code\]](https://github.com/Ma-Lab-Berkeley/ReduNet) ⭐ 545 | 🐛 6 | 🌐 Python | 📅 2022-02-17
   * Kwan Ho Ryan Chan, Yaodong Yu, Chong You, Haozhi Qi, John Wright, Yi Ma.
   * Key Word: Maximal Coding Rate Reduction.
   * <details><summary>Digest</summary> This work attempts to interpret modern deep (convolutional) networks from the principles of rate reduction and (shift) invariant classification. We show that the basic iterative gradient ascent scheme for optimizing the rate reduction of learned features naturally leads to a multi-layer deep network, one iteration per layer. The layered architectures, linear and nonlinear operators, and even parameters of the network are all explicitly constructed layer-by-layer in a forward propagation fashion by emulating the gradient scheme. 
@@ -3157,7 +3157,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 211 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
-* [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers) ⭐ 122 | 🐛 0 | 📅 2025-01-12 ![ ](https://img.shields.io/github/stars/kwignb/NeuralTangentKernel-Papers) ![ ](https://img.shields.io/github/last-commit/kwignb/NeuralTangentKernel-Papers)
+* [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers) ⭐ 121 | 🐛 0 | 📅 2025-01-12 ![ ](https://img.shields.io/github/stars/kwignb/NeuralTangentKernel-Papers) ![ ](https://img.shields.io/github/last-commit/kwignb/NeuralTangentKernel-Papers)
 
 * [Off the Convex Path Blog](https://www.offconvex.org/)
 
@@ -3182,4 +3182,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4269,
+                "stars": 4268,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2806,7 +2806,7 @@
                 "open_issues": 11,
                 "owner": "yewsiang",
                 "repo": "ConceptBottleneck",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "computer-vision",
                   "concept-bottleneck-models",
@@ -3570,7 +3570,7 @@
                 "open_issues": 29,
                 "owner": "google-research",
                 "repo": "sam",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3591,7 +3591,7 @@
                 "open_issues": 6,
                 "owner": "Ma-Lab-Berkeley",
                 "repo": "ReduNet",
-                "stars": 544,
+                "stars": 545,
                 "topics": [
                   "white-box-architecture"
                 ]
@@ -4205,7 +4205,7 @@
             "open_issues": 0,
             "owner": "kwignb",
             "repo": "NeuralTangentKernel-Papers",
-            "stars": 122,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:41:12.290Z",
+    "last_updated": "2026-11-03T21:58:59.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
