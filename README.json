@@ -3416,7 +3416,7 @@
                 "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "directclr",
-                "stars": 82,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3870,7 +3870,7 @@
                 "open_issues": 110,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6492,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:16:50.283Z",
+    "last_updated": "2026-11-06T21:45:25.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
