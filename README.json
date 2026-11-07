@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4269,
+                "stars": 4268,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3591,7 +3591,7 @@
                 "open_issues": 6,
                 "owner": "Ma-Lab-Berkeley",
                 "repo": "ReduNet",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "white-box-architecture"
                 ]
@@ -4139,7 +4139,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-01T15:36:02Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
             "stars": 395,
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:45:25.730Z",
+    "last_updated": "2026-11-07T20:29:28.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4224,7 +4224,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-30T18:14:31Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
       "stars": 412,
