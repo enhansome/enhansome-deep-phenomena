@@ -337,7 +337,7 @@
                 "open_issues": 9,
                 "owner": "allenai",
                 "repo": "cartography",
-                "stars": 224,
+                "stars": 225,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 47,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4268,
+                "stars": 4269,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3570,7 +3570,7 @@
                 "open_issues": 29,
                 "owner": "google-research",
                 "repo": "sam",
-                "stars": 647,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4138,8 +4138,8 @@
             "id": 280901730,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-01T15:36:02Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-08T03:54:40Z",
+            "open_issues": 0,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
             "stars": 395,
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:29:28.121Z",
+    "last_updated": "2026-11-08T20:45:28.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
