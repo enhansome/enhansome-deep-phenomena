@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8359,
+                "stars": 8360,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3870,7 +3870,7 @@
                 "open_issues": 110,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6493,
+                "stars": 6494,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:56:49.065Z",
+    "last_updated": "2026-11-11T23:03:00.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4227,7 +4227,7 @@
       "open_issues": 1,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
-      "stars": 412,
+      "stars": 413,
       "topics": [
         "awesome-list",
         "deep-learning-theory",
