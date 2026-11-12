@@ -117,7 +117,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,931 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-11-10
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,932 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-11-12
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -1423,7 +1423,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2023
 
-* Finding Neurons in a Haystack: Case Studies with Sparse Probing. [\[paper\]](https://arxiv.org/abs/2305.01610) [\[code\]](https://github.com/wesg52/sparse-probing-paper) ⭐ 69 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-17
+* Finding Neurons in a Haystack: Case Studies with Sparse Probing. [\[paper\]](https://arxiv.org/abs/2305.01610) [\[code\]](https://github.com/wesg52/sparse-probing-paper) ⭐ 70 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-17
   * Wes Gurnee, Neel Nanda, Matthew Pauly, Katherine Harvey, Dmitrii Troitskii, Dimitris Bertsimas.
   * Key Word: Probing; Mechanistic Interpretability; Superposition; Sparse Coding.
   * <details><summary>Digest</summary> We seek to understand how high-level human-interpretable features are represented within the internal neuron activations of LLMs. We train k-sparse linear classifiers (probes) on these internal activations to predict the presence of features in the input; by varying the value of k we study the sparsity of learned representations and how this varies with model scale. With k=1, we localize individual neurons which are highly relevant for a particular feature, and perform a number of case studies to illustrate general properties of LLMs.
@@ -3182,4 +3182,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

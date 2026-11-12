@@ -17,11 +17,11 @@
                 "id": 142422739,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T21:03:08Z",
+                "last_commit": "2026-11-12T10:32:02Z",
                 "open_issues": 113,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10931,
+                "stars": 10932,
                 "topics": [
                   "ai",
                   "google",
@@ -2168,10 +2168,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-03-19T07:03:15Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4267,
+                "stars": 4266,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2310,7 +2310,7 @@
                 "open_issues": 2,
                 "owner": "wesg52",
                 "repo": "sparse-probing-paper",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "ai-alignment",
                   "ai-safety",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:03:00.628Z",
+    "last_updated": "2026-11-12T22:26:37.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
