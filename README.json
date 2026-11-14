@@ -3867,10 +3867,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6495,
+                "stars": 6496,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:10:28.830Z",
+    "last_updated": "2026-11-14T20:56:02.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
@@ -4224,7 +4224,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-30T18:14:31Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "MinghuiChen43",
       "repo": "awesome-deep-phenomena",
       "stars": 413,
