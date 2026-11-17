@@ -78,7 +78,7 @@
                 "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "dropout",
-                "stars": 316,
+                "stars": 317,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8360,
+                "stars": 8361,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2392,7 +2392,7 @@
                 "open_issues": 4,
                 "owner": "bethgelab",
                 "repo": "model-vs-human",
-                "stars": 364,
+                "stars": 365,
                 "topics": [
                   "benchmark",
                   "pytorch",
@@ -2606,7 +2606,7 @@
                 "open_issues": 3,
                 "owner": "rgeirhos",
                 "repo": "Stylized-ImageNet",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -3395,7 +3395,7 @@
                 "open_issues": 0,
                 "owner": "OATML",
                 "repo": "non-parametric-transformers",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3537,7 +3537,7 @@
                 "open_issues": 4,
                 "owner": "patrick-kidger",
                 "repo": "NeuralCDE",
-                "stars": 723,
+                "stars": 724,
                 "topics": [
                   "controlled-differential-equations",
                   "deep-learning",
@@ -3779,7 +3779,7 @@
                 "open_issues": 11,
                 "owner": "EmilienDupont",
                 "repo": "augmented-neural-odes",
-                "stars": 563,
+                "stars": 564,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3867,10 +3867,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6496,
+                "stars": 6497,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:16:09.650Z",
+    "last_updated": "2026-11-17T00:28:51.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",

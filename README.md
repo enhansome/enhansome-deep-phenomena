@@ -1497,7 +1497,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2021
 
-* Partial success in closing the gap between human and machine vision. [\[paper\]](https://arxiv.org/abs/2106.07411) [\[code\]](https://github.com/bethgelab/model-vs-human) ⭐ 364 | 🐛 4 | 🌐 Python | 📅 2025-04-17
+* Partial success in closing the gap between human and machine vision. [\[paper\]](https://arxiv.org/abs/2106.07411) [\[code\]](https://github.com/bethgelab/model-vs-human) ⭐ 365 | 🐛 4 | 🌐 Python | 📅 2025-04-17
   * Robert Geirhos, Kantharaju Narayanappa, Benjamin Mitzkus, Tizian Thieringer, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *NeurIPS 2021*
   * Key Word: Out-of-Distribution Generalization; Psychophysical Experiments.
   * <details><summary>Digest</summary> A few years ago, the first CNN surpassed human performance on ImageNet. However, it soon became clear that machines lack robustness on more challenging test cases, a major obstacle towards deploying machines "in the wild" and towards obtaining better computational models of human visual perception. Here we ask: Are we making progress in closing the gap between human and machine vision? To answer this question, we tested human observers on a broad range of out-of-distribution (OOD) datasets, recording 85,120 psychophysical trials across 90 participants.
@@ -1578,7 +1578,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2018
 
-* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 529 | 🐛 3 | 🌐 Python | 📅 2026-07-21
+* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 530 | 🐛 3 | 🌐 Python | 📅 2026-07-21
   * Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *ICLR 2019*
   * Key Word: Shape-Texture; Psychophysical Experiments.
   * <details><summary>Digest</summary> Convolutional Neural Networks (CNNs) are commonly thought to recognise objects by learning increasingly complex representations of object shapes. Some recent studies suggest a more important role of image textures. We here put these conflicting hypotheses to a quantitative test by evaluating CNNs and human observers on images with a texture-shape cue conflict. We show that ImageNet-trained CNNs are strongly biased towards recognising textures rather than shapes, which is in stark contrast to human behavioural evidence and reveals fundamentally different classification strategies.
@@ -2704,7 +2704,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2021
 
-* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 417 | 🐛 0 | 🌐 Python | 📅 2024-03-21
+* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 418 | 🐛 0 | 🌐 Python | 📅 2024-03-21
   * Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal. *NeurIPS 2021*
   * Key Word: Samplie-Wise Self-Attention; Meta Learning; Metric Learning.
   * <details><summary>Digest</summary> We challenge a common assumption underlying most supervised deep learning: that a model makes a prediction depending only on its parameters and the features of a single input. To this end, we introduce a general-purpose deep learning architecture that takes as input the entire dataset instead of processing one datapoint at a time. Our approach uses self-attention to reason about relationships between datapoints explicitly, which can be seen as realizing non-parametric models using parametric attention mechanisms.
@@ -2791,7 +2791,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2020
 
-* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 723 | 🐛 4 | 🌐 Python | 📅 2022-10-22
+* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 724 | 🐛 4 | 🌐 Python | 📅 2022-10-22
   * Patrick Kidger, James Morrill, James Foster, Terry Lyons. *NeurIPS 2020*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
@@ -2873,7 +2873,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Mean Field Theory.
   * <details><summary>Digest</summary> We show that for wide neural networks the learning dynamics simplify considerably and that, in the infinite width limit, they are governed by a linear model obtained from the first-order Taylor expansion of the network around its initial parameters. Furthermore, mirroring the correspondence between wide Bayesian neural networks and Gaussian processes, gradient-based training of wide neural networks with a squared loss produces test set predictions drawn from a Gaussian process with a particular compositional kernel.
 
-* Augmented Neural ODEs. [\[paper\]](https://arxiv.org/abs/1904.01681) [\[code\]](https://github.com/EmilienDupont/augmented-neural-odes) ⭐ 563 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-02-09
+* Augmented Neural ODEs. [\[paper\]](https://arxiv.org/abs/1904.01681) [\[code\]](https://github.com/EmilienDupont/augmented-neural-odes) ⭐ 564 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-02-09
   * Emilien Dupont, Arnaud Doucet, Yee Whye Teh. *NeurIPS 2019*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> We show that Neural Ordinary Differential Equations (ODEs) learn representations that preserve the topology of the input space and prove that this implies the existence of functions Neural ODEs cannot represent. To address these limitations, we introduce Augmented Neural ODEs which, in addition to being more expressive models, are empirically more stable, generalize better and have a lower computational cost than Neural ODEs.
@@ -2950,7 +2950,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,496 | 🐛 112 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,497 | 🐛 113 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3187,4 +3187,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
