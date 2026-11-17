@@ -715,7 +715,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Deep Double Descent: 2020
 
-* Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [\[paper\]](https://arxiv.org/abs/2010.03533) [\[code\]](https://github.com/google-research/rigl) ⭐ 341 | 🐛 0 | 🌐 Python | 📅 2023-01-26
+* Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win. [\[paper\]](https://arxiv.org/abs/2010.03533) [\[code\]](https://github.com/google-research/rigl) ⭐ 342 | 🐛 0 | 🌐 Python | 📅 2023-01-26
   * Utku Evci, Yani A. Ioannou, Cem Keskin, Yann Dauphin. *AAAI 2020*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> Sparse Neural Networks (NNs) can match the generalization of dense NNs using a fraction of the compute/storage for inference, and also have the potential to enable efficient training. However, naively training unstructured sparse NNs from random initialization results in significantly worse generalization, with the notable exceptions of Lottery Tickets (LTs) and Dynamic Sparse Training (DST). Through our analysis of gradient flow during training we attempt to answer: (1) why training unstructured sparse networks from random initialization performs poorly and; (2) what makes LTs and DST the exceptions?
@@ -1112,7 +1112,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Lottery Ticket Hypothesis: 2019
 
-* Rigging the Lottery: Making All Tickets Winners. [\[paper\]](https://arxiv.org/abs/1911.11134) [\[code\]](https://github.com/google-research/rigl) ⭐ 341 | 🐛 0 | 🌐 Python | 📅 2023-01-26
+* Rigging the Lottery: Making All Tickets Winners. [\[paper\]](https://arxiv.org/abs/1911.11134) [\[code\]](https://github.com/google-research/rigl) ⭐ 342 | 🐛 0 | 🌐 Python | 📅 2023-01-26
   * Utku Evci, Trevor Gale, Jacob Menick, Pablo Samuel Castro, Erich Elsen. *ICML 2020*
   * Key Word: Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> We introduce a method to train sparse neural networks with a fixed parameter count and a fixed computational cost throughout training, without sacrificing accuracy relative to existing dense-to-sparse training methods. Our method updates the topology of the sparse network during training by using parameter magnitudes and infrequent gradient calculations. We show that this approach requires fewer floating-point operations (FLOPs) to achieve a given level of accuracy compared to prior techniques.
