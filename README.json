@@ -3395,7 +3395,7 @@
                 "open_issues": 0,
                 "owner": "OATML",
                 "repo": "non-parametric-transformers",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -3870,7 +3870,7 @@
                 "open_issues": 113,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6497,
+                "stars": 6498,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:39:02.628Z",
+    "last_updated": "2026-11-18T23:07:41.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",

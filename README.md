@@ -2704,7 +2704,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2021
 
-* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 418 | 🐛 0 | 🌐 Python | 📅 2024-03-21
+* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 419 | 🐛 0 | 🌐 Python | 📅 2024-03-21
   * Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal. *NeurIPS 2021*
   * Key Word: Samplie-Wise Self-Attention; Meta Learning; Metric Learning.
   * <details><summary>Digest</summary> We challenge a common assumption underlying most supervised deep learning: that a model makes a prediction depending only on its parameters and the features of a single input. To this end, we introduce a general-purpose deep learning architecture that takes as input the entire dataset instead of processing one datapoint at a time. Our approach uses self-attention to reason about relationships between datapoints explicitly, which can be seen as realizing non-parametric models using parametric attention mechanisms.
@@ -2950,7 +2950,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,497 | 🐛 113 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,498 | 🐛 113 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3187,4 +3187,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
