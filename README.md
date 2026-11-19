@@ -122,7 +122,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Empirical Study: 2023
 
-* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,934 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-11-12
+* The Dormant Neuron Phenomenon in Deep Reinforcement Learning. [\[paper\]](https://arxiv.org/abs/2302.12902) [\[code\]](https://github.com/google/dopamine) ⭐ 10,933 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-11-12
   * Ghada Sokar, Rishabh Agarwal, Pablo Samuel Castro, Utku Evci.
   * Key Word: Dormant Neuron; Deep Reinforcement Learning.
   * <details><summary>Digest</summary> The paper identifies the dormant neuron phenomenon in deep reinforcement learning, where inactive neurons increase and hinder network expressivity, affecting learning. To address this, they propose a method called ReDo, which recycles dormant neurons during training. ReDo reduces the number of dormant neurons, maintains network expressiveness, and leads to improved performance.
@@ -1578,7 +1578,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Interactions with Neuroscience: 2018
 
-* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 530 | 🐛 3 | 🌐 Python | 📅 2026-07-21
+* ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness. [\[paper\]](https://arxiv.org/abs/1811.12231) [\[code\]](https://github.com/rgeirhos/Stylized-ImageNet) ⭐ 529 | 🐛 3 | 🌐 Python | 📅 2026-07-21
   * Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann, Wieland Brendel. *ICLR 2019*
   * Key Word: Shape-Texture; Psychophysical Experiments.
   * <details><summary>Digest</summary> Convolutional Neural Networks (CNNs) are commonly thought to recognise objects by learning increasingly complex representations of object shapes. Some recent studies suggest a more important role of image textures. We here put these conflicting hypotheses to a quantitative test by evaluating CNNs and human observers on images with a texture-shape cue conflict. We show that ImageNet-trained CNNs are strongly biased towards recognising textures rather than shapes, which is in stark contrast to human behavioural evidence and reveals fundamentally different classification strategies.
@@ -2704,7 +2704,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2021
 
-* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 419 | 🐛 0 | 🌐 Python | 📅 2024-03-21
+* Self-Attention Between Datapoints: Going Beyond Individual Input-Output Pairs in Deep Learning. [\[paper\]](https://arxiv.org/abs/2106.02584) [\[code\]](https://github.com/OATML/Non-Parametric-Transformers) ⭐ 418 | 🐛 0 | 🌐 Python | 📅 2024-03-21
   * Jannik Kossen, Neil Band, Clare Lyle, Aidan N. Gomez, Tom Rainforth, Yarin Gal. *NeurIPS 2021*
   * Key Word: Samplie-Wise Self-Attention; Meta Learning; Metric Learning.
   * <details><summary>Digest</summary> We challenge a common assumption underlying most supervised deep learning: that a model makes a prediction depending only on its parameters and the features of a single input. To this end, we introduce a general-purpose deep learning architecture that takes as input the entire dataset instead of processing one datapoint at a time. Our approach uses self-attention to reason about relationships between datapoints explicitly, which can be seen as realizing non-parametric models using parametric attention mechanisms.
@@ -2791,7 +2791,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2020
 
-* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 724 | 🐛 4 | 🌐 Python | 📅 2022-10-22
+* Neural Controlled Differential Equations for Irregular Time Series. [\[paper\]](https://arxiv.org/abs/2005.08926) [\[code\]](https://github.com/patrick-kidger/NeuralCDE) ⭐ 723 | 🐛 4 | 🌐 Python | 📅 2022-10-22
   * Patrick Kidger, James Morrill, James Foster, Terry Lyons. *NeurIPS 2020*
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
@@ -2950,7 +2950,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 ### Others: 2018
 
-* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,498 | 🐛 113 | 🌐 Python | 📅 2025-04-04
+* Neural Ordinary Differential Equations. [\[paper\]](https://arxiv.org/abs/1806.07366) [\[code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,499 | 🐛 113 | 🌐 Python | 📅 2025-04-04
   * Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. *NeurIPS 2018*
   * Key Word: Ordinary Differential Equations; Normalizing Flow.
   * <details><summary>Digest</summary> We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. We also construct continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, we show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models.
@@ -3158,7 +3158,7 @@ Our understanding of modern neural networks lags behind their practical successe
 
 * [Awesome Information Bottleneck Paper List](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck) ⭐ 403 | 🐛 0 | 📅 2026-02-12 ![ ](https://img.shields.io/github/stars/ZIYU-DEEP/Awesome-Information-Bottleneck) ![ ](https://img.shields.io/github/last-commit/ZIYU-DEEP/Awesome-Information-Bottleneck)
 
-* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 395 | 🐛 0 | 📅 2026-11-08 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
+* [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 394 | 🐛 0 | 📅 2026-11-08 ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning)
 
 * [Awesome Feature Learning in Deep Learning Theory](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ⭐ 211 | 🐛 0 | 📅 2026-04-13 ![ ](https://img.shields.io/github/stars/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery) ![ ](https://img.shields.io/github/last-commit/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery)
 
@@ -3187,4 +3187,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
