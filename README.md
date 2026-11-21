@@ -2796,7 +2796,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Ordinary Differential Equations.
   * <details><summary>Digest</summary> a fundamental issue is that the solution to an ordinary differential equation is determined by its initial condition, and there is no mechanism for adjusting the trajectory based on subsequent observations. Here, we demonstrate how this may be resolved through the well-understood mathematics of controlled differential equations.
 
-* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 645 | 🐛 29 | 🌐 Python | 📅 2026-07-24
+* Sharpness-Aware Minimization for Efficiently Improving Generalization. [\[paper\]](https://arxiv.org/abs/2010.01412) [\[code\]](https://github.com/google-research/sam) ⭐ 644 | 🐛 29 | 🌐 Python | 📅 2026-07-24
   * Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur. *ICLR 2021*
   * Key Word: Flat Minima.
   * <details><summary>Digest</summary> In today's heavily overparameterized models, the value of the training loss provides few guarantees on model generalization ability. Indeed, optimizing only the training loss value, as is commonly done, can easily lead to suboptimal model quality. Motivated by prior work connecting the geometry of the loss landscape and generalization, we introduce a novel, effective procedure for instead simultaneously minimizing loss value and loss sharpness. In particular, our procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in neighborhoods having uniformly low loss; this formulation results in a min-max optimization problem on which gradient descent can be performed efficiently.
@@ -3187,4 +3187,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
