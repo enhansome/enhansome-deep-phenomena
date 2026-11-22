@@ -225,7 +225,7 @@
                 "open_issues": 133,
                 "owner": "facebookresearch",
                 "repo": "mae",
-                "stars": 8361,
+                "stars": 8362,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2171,7 +2171,7 @@
                 "open_issues": 46,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4268,
+                "stars": 4271,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -2192,7 +2192,7 @@
                 "open_issues": 1,
                 "owner": "aradha",
                 "repo": "recursive_feature_machines",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:52:49.837Z",
+    "last_updated": "2026-11-22T22:01:12.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",

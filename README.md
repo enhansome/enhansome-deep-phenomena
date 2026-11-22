@@ -1326,7 +1326,7 @@ Our understanding of modern neural networks lags behind their practical successe
   * Key Word: Grokking; Overfitting.
   * <details><summary>Digest</summary> In this paper we propose to study generalization of neural networks on small algorithmically generated datasets. In this setting, questions about data efficiency, memorization, generalization, and speed of learning can be studied in great detail. In some situations we show that neural networks learn through a process of "grokking" a pattern in the data, improving generalization performance from random chance level to perfect generalization, and that this improvement in generalization can happen well past the point of overfitting.
 
-* Feature learning in neural networks and kernel machines that recursively learn features. [\[paper\]](https://arxiv.org/abs/2212.13881) [\[code\]](https://github.com/aradha/recursive_feature_machines) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2025-04-12
+* Feature learning in neural networks and kernel machines that recursively learn features. [\[paper\]](https://arxiv.org/abs/2212.13881) [\[code\]](https://github.com/aradha/recursive_feature_machines) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2025-04-12
   * Adityanarayanan Radhakrishnan, Daniel Beaglehole, Parthe Pandit, Mikhail Belkin.
   * Key Word: Feature Learning; Kernel Machines; Grokking; Lottery Ticket Hypothesis.
   * <details><summary>Digest</summary> We isolate the key mechanism driving feature learning in fully connected neural networks by connecting neural feature learning to the average gradient outer product. We subsequently leverage this mechanism to design Recursive Feature Machines (RFMs), which are kernel machines that learn features. We show that RFMs (1) accurately capture features learned by deep fully connected neural networks, (2) close the gap between kernel machines and fully connected networks, and (3) surpass a broad spectrum of models including neural networks on tabular data. 
@@ -3187,4 +3187,4 @@ This repository includes `AGENTS.md` for reproducible Codex/Claude paper additio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
