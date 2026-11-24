@@ -2171,7 +2171,7 @@
                 "open_issues": 46,
                 "owner": "openai",
                 "repo": "grok",
-                "stars": 4271,
+                "stars": 4272,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:01:12.098Z",
+    "last_updated": "2026-11-24T03:02:48.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
