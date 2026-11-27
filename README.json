@@ -2987,7 +2987,7 @@
                 "open_issues": 2,
                 "owner": "lionelmessi6410",
                 "repo": "ntga",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -3867,10 +3867,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 113,
+                "open_issues": 116,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6499,
+                "stars": 6501,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:41:43.238Z"
@@ -4138,7 +4138,7 @@
             "id": 280901730,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-08T03:54:40Z",
+            "last_commit": "2026-11-26T18:18:04Z",
             "open_issues": 0,
             "owner": "MinghuiChen43",
             "repo": "awesome-trustworthy-deep-learning",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:40:07.208Z",
+    "last_updated": "2026-11-27T00:48:41.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
