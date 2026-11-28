@@ -21,7 +21,7 @@
                 "open_issues": 113,
                 "owner": "google",
                 "repo": "dopamine",
-                "stars": 10935,
+                "stars": 10936,
                 "topics": [
                   "ai",
                   "google",
@@ -4215,7 +4215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:48:41.921Z",
+    "last_updated": "2026-11-28T00:14:08.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...",
